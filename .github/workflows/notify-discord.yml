@@ -1,0 +1,66 @@
+name: Blog Draft to Discord
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'drafts/**/*.md'
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - name: Get changed draft files
+        id: changed
+        run: |
+          FILES=$(git diff --name-only HEAD~1 HEAD -- 'drafts/**/*.md' | tr '\n' ' ')
+          echo "files=$FILES" >> $GITHUB_OUTPUT
+
+      - name: Send to Discord
+        if: steps.changed.outputs.files != ''
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.BLOG_DISCORD_WEBHOOK_URL }}
+        run: |
+          for FILE in ${{ steps.changed.outputs.files }}; do
+            if [ ! -f "$FILE" ]; then continue; fi
+
+            FILENAME=$(basename "$FILE" .md)
+            CONTENT=$(cat "$FILE")
+
+            # Header message
+            curl -s -X POST "$DISCORD_WEBHOOK_URL" \
+              -H "Content-Type: application/json" \
+              -d "$(jq -n --arg c "🚀 **오늘의 블로그 초안이 도착했습니다!**\n📄 파일: \`$FILENAME\`" '{content: $c}')"
+
+            sleep 1
+
+            # Split content into 1900-char chunks
+            TOTAL=${#CONTENT}
+            START=0
+            CHUNK_NUM=1
+            CHUNKS=$(( (TOTAL + 1899) / 1900 ))
+
+            while [ $START -lt $TOTAL ]; do
+              CHUNK="${CONTENT:$START:1900}"
+              START=$((START + 1900))
+
+              if [ $CHUNKS -gt 1 ]; then
+                PART="($CHUNK_NUM/$CHUNKS) "
+              else
+                PART=""
+              fi
+
+              curl -s -X POST "$DISCORD_WEBHOOK_URL" \
+                -H "Content-Type: application/json" \
+                -d "$(jq -n --arg c "${PART}${CHUNK}" '{content: $c}')"
+
+              CHUNK_NUM=$((CHUNK_NUM + 1))
+              sleep 1
+            done
+          done
