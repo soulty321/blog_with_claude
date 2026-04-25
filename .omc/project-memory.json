@@ -1,0 +1,69 @@
+{
+  "version": "1.0.0",
+  "lastScanned": 1776991766395,
+  "projectRoot": "C:\\Users\\soult\\workSpace\\blog",
+  "techStack": {
+    "languages": [],
+    "frameworks": [],
+    "packageManager": null,
+    "runtime": null
+  },
+  "build": {
+    "buildCommand": null,
+    "testCommand": null,
+    "lintCommand": null,
+    "devCommand": null,
+    "scripts": {}
+  },
+  "conventions": {
+    "namingStyle": null,
+    "importStyle": null,
+    "testPattern": null,
+    "fileOrganization": null
+  },
+  "structure": {
+    "isMonorepo": false,
+    "workspaces": [],
+    "mainDirectories": [],
+    "gitBranches": {
+      "defaultBranch": "main",
+      "branchingStrategy": null
+    }
+  },
+  "customNotes": [],
+  "directoryMap": {
+    "data": {
+      "path": "data",
+      "purpose": "Data files",
+      "fileCount": 1,
+      "lastAccessed": 1776991766371,
+      "keyFiles": [
+        "process_state.json"
+      ]
+    },
+    "drafts": {
+      "path": "drafts",
+      "purpose": null,
+      "fileCount": 1,
+      "lastAccessed": 1776991766371,
+      "keyFiles": [
+        "2026-04-24_감정을_불러일으키는_광창.md"
+      ]
+    },
+    "일본 컨퍼런스 자료": {
+      "path": "일본 컨퍼런스 자료",
+      "purpose": null,
+      "fileCount": 11,
+      "lastAccessed": 1776991766372,
+      "keyFiles": [
+        "ai가 밝혀내는 진정한 인사이트_original.md",
+        "감정을 불러일으키는 광창_original.md",
+        "기대를 뛰어넘는 ui는 이렇게 만든다_original.md",
+        "네트워크 효과를 불러오는 방법_original.md",
+        "미래를 여는 디자이너의 조건_original.md"
+      ]
+    }
+  },
+  "hotPaths": [],
+  "userDirectives": []
+}
