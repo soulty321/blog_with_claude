@@ -1,7 +1,0 @@
-{
-  "tool_name": "Bash",
-  "tool_input_preview": "{\"command\":\"cd /c/Users/soult/workSpace/pp_with_claude && git status && git log --oneline -3\",\"description\":\"Check pp_with_claude repo status\"}",
-  "error": "Exit code 1\n/usr/bin/bash: line 1: cd: /c/Users/soult/workSpace/pp_with_claude: No such file or directory",
-  "timestamp": "2026-04-24T00:50:18.072Z",
-  "retry_count": 1
-}

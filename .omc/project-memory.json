@@ -64,6 +64,25 @@
       ]
     }
   },
-  "hotPaths": [],
+  "hotPaths": [
+    {
+      "path": "data\\process_state.json",
+      "accessCount": 2,
+      "lastAccessed": 1777388577065,
+      "type": "file"
+    },
+    {
+      "path": "notebook.md",
+      "accessCount": 1,
+      "lastAccessed": 1777387980156,
+      "type": "file"
+    },
+    {
+      "path": "env.local",
+      "accessCount": 1,
+      "lastAccessed": 1777389748035,
+      "type": "file"
+    }
+  ],
   "userDirectives": []
 }
