@@ -1,0 +1,108 @@
+name: Publish Enhanced Article to Hashnode
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'published/**/*.md'
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - name: Get changed published files
+        id: changed
+        run: |
+          FILES=$(git diff --name-only HEAD~1 HEAD -- 'published/**/*.md' | tr '\n' ' ')
+          echo "files=$FILES" >> $GITHUB_OUTPUT
+
+      - name: Send completion notice to Discord
+        if: steps.changed.outputs.files != ''
+        env:
+          DISCORD_WEBHOOK_URL: ${{ secrets.BLOG_DISCORD_WEBHOOK_URL }}
+        run: |
+          for FILE in ${{ steps.changed.outputs.files }}; do
+            if [ ! -f "$FILE" ]; then continue; fi
+
+            FILENAME=$(basename "$FILE" .md)
+            CONTENT=$(cat "$FILE")
+
+            # Header message
+            curl -s -X POST "$DISCORD_WEBHOOK_URL" \
+              -H "Content-Type: application/json" \
+              -d "$(jq -n --arg c "✅ **실무자 관점이 보강된 완성본이 발행되었습니다!**\n📄 파일: \`$FILENAME\`" '{content: $c}')"
+
+            sleep 1
+
+            # Split content into 1900-char chunks
+            TOTAL=${#CONTENT}
+            START=0
+            CHUNK_NUM=1
+            CHUNKS=$(( (TOTAL + 1899) / 1900 ))
+
+            while [ $START -lt $TOTAL ]; do
+              CHUNK="${CONTENT:$START:1900}"
+              START=$((START + 1900))
+
+              if [ $CHUNKS -gt 1 ]; then
+                PART="($CHUNK_NUM/$CHUNKS) "
+              else
+                PART=""
+              fi
+
+              curl -s -X POST "$DISCORD_WEBHOOK_URL" \
+                -H "Content-Type: application/json" \
+                -d "$(jq -n --arg c "${PART}${CHUNK}" '{content: $c}')"
+
+              CHUNK_NUM=$((CHUNK_NUM + 1))
+              sleep 1
+            done
+          done
+
+      - name: Publish to Hashnode
+        if: steps.changed.outputs.files != ''
+        env:
+          HASHNODE_API_TOKEN: ${{ secrets.HASHNODE_API_TOKEN }}
+          HASHNODE_PUBLICATION_ID: ${{ secrets.HASHNODE_PUBLICATION_ID }}
+        run: |
+          for FILE in ${{ steps.changed.outputs.files }}; do
+            if [ ! -f "$FILE" ]; then continue; fi
+
+            TITLE=$(head -1 "$FILE" | sed 's/^# //')
+            CONTENT=$(cat "$FILE")
+
+            QUERY='mutation PublishPost($input: PublishPostInput!) { publishPost(input: $input) { post { id title url } } }'
+
+            PAYLOAD=$(jq -n \
+              --arg query "$QUERY" \
+              --arg title "$TITLE" \
+              --arg content "$CONTENT" \
+              --arg pubId "$HASHNODE_PUBLICATION_ID" \
+              '{
+                query: $query,
+                variables: {
+                  input: {
+                    title: $title,
+                    contentMarkdown: $content,
+                    publicationId: $pubId,
+                    tags: []
+                  }
+                }
+              }')
+
+            RESPONSE=$(curl -s -X POST "https://gql.hashnode.com" \
+              -H "Content-Type: application/json" \
+              -H "Authorization: $HASHNODE_API_TOKEN" \
+              -d "$PAYLOAD")
+
+            echo "Hashnode response: $RESPONSE"
+
+            URL=$(echo "$RESPONSE" | jq -r '.data.publishPost.post.url // "error"')
+            echo "Published: $URL"
+          done
