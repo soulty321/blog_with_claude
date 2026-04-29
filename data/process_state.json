@@ -6,7 +6,8 @@
     "네트워크 효과를 불러오는 방법_original.md",
     "미래를 여는 디자이너의 조건_original.md",
     "아이디어를 정리하는 법_original.md",
-    "음성 251018_130113_original.md"
+    "음성 251018_130113_original.md",
+    "음성 251018_133007_original.md"
   ],
   "article_status": {
     "2026-04-24-광창": {
@@ -49,6 +50,13 @@
       "draft_file": "drafts/2026-04-28-UX-디자인-어디서-배워야-할까-교과서-없는-시대의-학습법.md",
       "status": "questions_sent",
       "questions_file": "data/questions/2026-04-28.json",
+      "published_file": null
+    },
+    "2026-04-29": {
+      "source": "음성 251018_133007_original.md",
+      "draft_file": "drafts/2026-04-29-스타워즈로-미래-농업을-디자인한-이야기-Future-Story-Prototyping.md",
+      "status": "draft_created",
+      "questions_file": null,
       "published_file": null
     }
   }
