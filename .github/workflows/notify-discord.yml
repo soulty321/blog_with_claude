@@ -5,7 +5,7 @@ on:
     branches:
       - main
     paths:
-      - 'drafts/**/*.md'
+      - 'drafts/*.md'
 
 jobs:
   notify:
@@ -19,7 +19,7 @@ jobs:
       - name: Get changed draft files
         id: changed
         run: |
-          FILES=$(git diff --name-only HEAD~1 HEAD -- 'drafts/**/*.md' | tr '\n' ' ')
+          FILES=$(git diff --name-only HEAD~1 HEAD -- 'drafts/*.md' | tr '\n' ' ')
           echo "files=$FILES" >> $GITHUB_OUTPUT
 
       - name: Send to Discord
