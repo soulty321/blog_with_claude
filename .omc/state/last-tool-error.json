@@ -1,0 +1,7 @@
+{
+  "tool_name": "Bash",
+  "tool_input_preview": "{\"command\":\"cd /c/Users/soult/workSpace/master_agent && git checkout main && git cherry-pick 74f9904\",\"description\":\"master_agent 04-29 jobs 커밋 cherry-pick\"}",
+  "error": "Exit code 1\nAlready on 'main'\nYour branch is up to date with 'origin/main'.\nAuto-merging followup_companies.md\nCONFLICT (add/add): Merge conflict in followup_companies.md\nerror: could not apply 74f9904... jobs: 2026-04-29 채용 리포트\nhint: After resolving the conflicts, mark them with\nhint: \"git add/rm <pathspec>\", then run\nhint: \"git cherry-pick --continue\".\nhint: You can instead skip this commit with \"git cherry-pick --skip\".\nhint: To abort and get back to the state before \"git cherry-pick\",\nhint: ...",
+  "timestamp": "2026-04-30T00:16:21.541Z",
+  "retry_count": 2
+}
