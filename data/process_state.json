@@ -7,7 +7,8 @@
     "미래를 여는 디자이너의 조건_original.md",
     "아이디어를 정리하는 법_original.md",
     "음성 251018_130113_original.md",
-    "음성 251018_133007_original.md"
+    "음성 251018_133007_original.md",
+    "음성 251018_140811_original.md"
   ],
   "article_status": {
     "2026-04-24-광창": {
@@ -57,6 +58,14 @@
       "draft_file": "drafts/2026-04-29-스타워즈로-미래-농업을-디자인한-이야기-Future-Story-Prototyping.md",
       "status": "draft_created",
       "questions_file": null,
+      "published_file": null
+    },
+    "2026-05-01": {
+      "source": "음성 251018_140811_original.md",
+      "source_type": "conference",
+      "draft_file": "drafts/2026-05-01-AI-시대의-UX-디자이너는-무엇을-준비해야-하는가.md",
+      "status": "questions_sent",
+      "questions_file": "data/questions/2026-05-01.json",
       "published_file": null
     }
   }
