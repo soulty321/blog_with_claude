@@ -8,7 +8,8 @@
     "아이디어를 정리하는 법_original.md",
     "음성 251018_130113_original.md",
     "음성 251018_133007_original.md",
-    "음성 251018_140811_original.md"
+    "음성 251018_140811_original.md",
+    "이념을 가시화하는 브랜드 로고 제작법_original.md"
   ],
   "article_status": {
     "2026-04-24-광창": {
@@ -66,6 +67,14 @@
       "draft_file": "drafts/2026-05-01-AI-시대의-UX-디자이너는-무엇을-준비해야-하는가.md",
       "status": "questions_sent",
       "questions_file": "data/questions/2026-05-01.json",
+      "published_file": null
+    },
+    "2026-05-02": {
+      "source": "이념을 가시화하는 브랜드 로고 제작법_original.md",
+      "source_type": "conference",
+      "draft_file": "drafts/2026-05-02-이념을-가시화하는-브랜드-로고는-어떻게-탄생하는가.md",
+      "status": "questions_sent",
+      "questions_file": "data/questions/2026-05-02.json",
       "published_file": null
     }
   }
