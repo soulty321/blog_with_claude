@@ -9,7 +9,8 @@
     "음성 251018_130113_original.md",
     "음성 251018_133007_original.md",
     "음성 251018_140811_original.md",
-    "이념을 가시화하는 브랜드 로고 제작법_original.md"
+    "이념을 가시화하는 브랜드 로고 제작법_original.md",
+    "인간 중심 설계란 무엇이었나_original.md"
   ],
   "article_status": {
     "2026-04-24-광창": {
@@ -75,6 +76,14 @@
       "draft_file": "drafts/2026-05-02-이념을-가시화하는-브랜드-로고는-어떻게-탄생하는가.md",
       "status": "questions_sent",
       "questions_file": "data/questions/2026-05-02.json",
+      "published_file": null
+    },
+    "2026-05-03": {
+      "source": "인간 중심 설계란 무엇이었나_original.md",
+      "source_type": "conference",
+      "draft_file": "drafts/2026-05-03-인간-중심-설계는-끝났다-인간성-중심-디자인의-시대.md",
+      "status": "questions_sent",
+      "questions_file": "data/questions/2026-05-03.json",
       "published_file": null
     }
   }
