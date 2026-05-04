@@ -85,6 +85,14 @@
       "status": "questions_sent",
       "questions_file": "data/questions/2026-05-03.json",
       "published_file": null
+    },
+    "2026-05-04": {
+      "source": "notebook.md#훅: 일상을 사로잡는 제품의 비밀",
+      "source_type": "notebook",
+      "draft_file": "drafts/2026-05-04-리텐션이-안-오르는-B2B-SaaS-훅-모델로-다시-설계하기.md",
+      "status": "questions_sent",
+      "questions_file": "data/questions/2026-05-04.json",
+      "published_file": null
     }
   }
 }
