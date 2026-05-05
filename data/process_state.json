@@ -93,6 +93,14 @@
       "status": "questions_sent",
       "questions_file": "data/questions/2026-05-04.json",
       "published_file": null
+    },
+    "2026-05-05": {
+      "source": "notebook.md#UX의 법칙들",
+      "source_type": "notebook",
+      "draft_file": "drafts/2026-05-05-복잡한-데이터를-단순하게-B2B-분석-도구에서-쓰는-UX-법칙-5가지.md",
+      "status": "questions_sent",
+      "questions_file": "data/questions/2026-05-05.json",
+      "published_file": null
     }
   }
 }
