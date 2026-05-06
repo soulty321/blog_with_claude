@@ -101,6 +101,14 @@
       "status": "questions_sent",
       "questions_file": "data/questions/2026-05-05.json",
       "published_file": null
+    },
+    "2026-05-06": {
+      "source": "notebook.md#UXUI 디자인 교과서",
+      "source_type": "notebook",
+      "draft_file": "drafts/2026-05-06-UXUI-교과서를-B2B-데이터-분석-서비스에-적용하는-법.md",
+      "status": "questions_sent",
+      "questions_file": "data/questions/2026-05-06.json",
+      "published_file": null
     }
   }
 }
