@@ -117,6 +117,14 @@
       "status": "questions_sent",
       "questions_file": "data/questions/2026-05-07.json",
       "published_file": null
+    },
+    "2026-05-08": {
+      "source": "notebook.md#AI 에이전트 생태계",
+      "source_type": "notebook",
+      "draft_file": "drafts/2026-05-08-AI-에이전트-생태계-B2B-분석-서비스가-에이전트-친화적으로-진화하는-법.md",
+      "status": "questions_sent",
+      "questions_file": "data/questions/2026-05-08.json",
+      "published_file": null
     }
   }
 }
