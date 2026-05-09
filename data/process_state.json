@@ -125,6 +125,14 @@
       "status": "questions_sent",
       "questions_file": "data/questions/2026-05-08.json",
       "published_file": null
+    },
+    "2026-05-09": {
+      "source": "notebook.md#UX의 법칙들 (게슈탈트 심화)",
+      "source_type": "notebook",
+      "draft_file": "drafts/2026-05-09-게슈탈트-법칙으로-B2B-대시보드의-시각-위계-다시-짜기.md",
+      "status": "questions_sent",
+      "questions_file": "data/questions/2026-05-09.json",
+      "published_file": null
     }
   }
 }
