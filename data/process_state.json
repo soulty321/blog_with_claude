@@ -133,6 +133,14 @@
       "status": "questions_sent",
       "questions_file": "data/questions/2026-05-09.json",
       "published_file": null
+    },
+    "2026-05-10": {
+      "source": "notebook.md#넛지",
+      "source_type": "notebook",
+      "draft_file": "drafts/2026-05-10-넛지의-그림자-슬러지를-피하는-B2B-분석-도구-설계법.md",
+      "status": "questions_sent",
+      "questions_file": "data/questions/2026-05-10.json",
+      "published_file": null
     }
   }
 }
