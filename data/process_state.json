@@ -141,6 +141,14 @@
       "status": "questions_sent",
       "questions_file": "data/questions/2026-05-10.json",
       "published_file": null
+    },
+    "2026-05-11": {
+      "source": "notebook.md#훅: 일상을 사로잡는 제품의 비밀 (변동 보상 심화)",
+      "source_type": "notebook",
+      "draft_file": "drafts/2026-05-11-B2B-분석-도구에-변동-보상을-넣어도-될까-훅-모델의-가장-위험한-단계.md",
+      "status": "questions_sent",
+      "questions_file": "data/questions/2026-05-11.json",
+      "published_file": null
     }
   }
 }
