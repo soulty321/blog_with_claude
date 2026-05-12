@@ -149,6 +149,14 @@
       "status": "questions_sent",
       "questions_file": "data/questions/2026-05-11.json",
       "published_file": null
+    },
+    "2026-05-13": {
+      "source": "notebook.md#UXUI 디자인 교과서 (사용성 휴리스틱 심화)",
+      "source_type": "notebook",
+      "draft_file": "drafts/2026-05-13-사용성-휴리스틱으로-B2B-분석-도구의-UX-문제를-진단하는-법.md",
+      "status": "questions_sent",
+      "questions_file": "data/questions/2026-05-13.json",
+      "published_file": null
     }
   }
 }
