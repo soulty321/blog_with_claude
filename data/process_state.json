@@ -157,6 +157,14 @@
       "status": "questions_sent",
       "questions_file": "data/questions/2026-05-13.json",
       "published_file": null
+    },
+    "2026-05-14": {
+      "source": "notebook.md#AI 에이전트 생태계 (도구 사용 & 자율성 심화)",
+      "source_type": "notebook",
+      "draft_file": "drafts/2026-05-14-AI-에이전트가-도구를-쓰는-순간-PD가-설계해야-할-3가지-안전장치.md",
+      "status": "questions_sent",
+      "questions_file": "data/questions/2026-05-14.json",
+      "published_file": null
     }
   }
 }
