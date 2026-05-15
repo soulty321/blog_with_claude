@@ -165,6 +165,14 @@
       "status": "questions_sent",
       "questions_file": "data/questions/2026-05-14.json",
       "published_file": null
+    },
+    "2026-05-15": {
+      "source": "notebook.md#progressive_disclosure",
+      "source_type": "notebook",
+      "draft_file": "drafts/2026-05-15-한-번에-다-보여주지-마라-B2B-분석-도구의-프로그레시브-디스클로저-설계법.md",
+      "status": "questions_sent",
+      "questions_file": "data/questions/2026-05-15.json",
+      "published_file": null
     }
   }
 }
