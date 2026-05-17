@@ -1,4 +1,4 @@
-name: Publish Enhanced Article to Hashnode
+name: Create Draft on Hashnode
 
 on:
   push:
@@ -65,7 +65,7 @@ jobs:
             done
           done
 
-      - name: Publish to Hashnode
+      - name: Create Draft on Hashnode
         if: steps.changed.outputs.files != ''
         env:
           HASHNODE_API_TOKEN: ${{ secrets.HASHNODE_API_TOKEN }}
@@ -82,7 +82,7 @@ jobs:
             # Remove the HTML comment from contentMarkdown
             CONTENT=$(echo "$CONTENT" | sed '/<!-- cover_image:.*-->/d')
 
-            QUERY='mutation PublishPost($input: PublishPostInput!) { publishPost(input: $input) { post { id title url } } }'
+            QUERY='mutation CreateDraft($input: CreateDraftInput!) { createDraft(input: $input) { draft { id slug title } } }'
 
             # Build payload with or without cover image
             if [ -n "$COVER_IMAGE" ]; then
@@ -132,6 +132,7 @@ jobs:
 
             echo "Hashnode response: $RESPONSE"
 
-            URL=$(echo "$RESPONSE" | jq -r '.data.publishPost.post.url // "error"')
-            echo "Published: $URL"
+            DRAFT_ID=$(echo "$RESPONSE" | jq -r '.data.createDraft.draft.id // "error"')
+            DRAFT_TITLE=$(echo "$RESPONSE" | jq -r '.data.createDraft.draft.title // "unknown"')
+            echo "Draft created: $DRAFT_TITLE (id: $DRAFT_ID)"
           done
