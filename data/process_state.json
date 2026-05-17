@@ -173,6 +173,14 @@
       "status": "questions_sent",
       "questions_file": "data/questions/2026-05-15.json",
       "published_file": null
+    },
+    "2026-05-17": {
+      "source": "notebook.md#훅: 일상을 사로잡는 제품의 비밀 (트리거 단계)",
+      "source_type": "notebook",
+      "draft_file": "drafts/2026-05-17-B2B-분석-도구에서-사용자를-재방문하게-만드는-트리거-설계법.md",
+      "status": "questions_sent",
+      "questions_file": "data/questions/2026-05-17.json",
+      "published_file": null
     }
   }
 }
