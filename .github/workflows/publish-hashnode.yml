@@ -77,24 +77,53 @@ jobs:
             TITLE=$(head -1 "$FILE" | sed 's/^# //')
             CONTENT=$(cat "$FILE")
 
+            # Extract cover image URL from HTML comment
+            COVER_IMAGE=$(grep -oP '<!-- cover_image: \K[^ ]+(?= -->)' "$FILE" || echo "")
+            # Remove the HTML comment from contentMarkdown
+            CONTENT=$(echo "$CONTENT" | sed '/<!-- cover_image:.*-->/d')
+
             QUERY='mutation PublishPost($input: PublishPostInput!) { publishPost(input: $input) { post { id title url } } }'
 
-            PAYLOAD=$(jq -n \
-              --arg query "$QUERY" \
-              --arg title "$TITLE" \
-              --arg content "$CONTENT" \
-              --arg pubId "$HASHNODE_PUBLICATION_ID" \
-              '{
-                query: $query,
-                variables: {
-                  input: {
-                    title: $title,
-                    contentMarkdown: $content,
-                    publicationId: $pubId,
-                    tags: []
+            # Build payload with or without cover image
+            if [ -n "$COVER_IMAGE" ]; then
+              PAYLOAD=$(jq -n \
+                --arg query "$QUERY" \
+                --arg title "$TITLE" \
+                --arg content "$CONTENT" \
+                --arg pubId "$HASHNODE_PUBLICATION_ID" \
+                --arg coverUrl "$COVER_IMAGE" \
+                '{
+                  query: $query,
+                  variables: {
+                    input: {
+                      title: $title,
+                      contentMarkdown: $content,
+                      publicationId: $pubId,
+                      coverImageOptions: {
+                        coverImageURL: $coverUrl
+                      },
+                      tags: []
+                    }
                   }
-                }
-              }')
+                }')
+            else
+              PAYLOAD=$(jq -n \
+                --arg query "$QUERY" \
+                --arg title "$TITLE" \
+                --arg content "$CONTENT" \
+                --arg pubId "$HASHNODE_PUBLICATION_ID" \
+                '{
+                  query: $query,
+                  variables: {
+                    input: {
+                      title: $title,
+                      contentMarkdown: $content,
+                      publicationId: $pubId,
+                      tags: []
+                    }
+                  }
+                }')
+            fi
 
             RESPONSE=$(curl -s -X POST "https://gql.hashnode.com" \
               -H "Content-Type: application/json" \
