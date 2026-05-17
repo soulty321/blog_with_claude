@@ -56,9 +56,9 @@
     "2026-04-28": {
       "source": "음성 251018_130113_original.md",
       "draft_file": "drafts/2026-04-28-UX-디자인-어디서-배워야-할까-교과서-없는-시대의-학습법.md",
-      "status": "questions_sent",
+      "status": "published",
       "questions_file": "data/questions/2026-04-28.json",
-      "published_file": null,
+      "published_file": "published/2026-04-28-UX-디자인은-어디서-배워야-할까-교과서-없는-시대의-학습법.md",
       "images_file": "data/images/2026-04-28.json"
     },
     "2026-04-29": {
