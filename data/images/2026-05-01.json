@@ -1,0 +1,67 @@
+{
+  "date": "2026-05-01",
+  "draft_file": "C:\\Users\\soult\\workSpace\\blog\\drafts\\2026-05-01-AI-시대의-UX-디자이너는-무엇을-준비해야-하는가.md",
+  "search_keywords": ["AI UX design future", "artificial intelligence user experience", "designer AI tools"],
+  "candidates": [
+    {
+      "id": 1,
+      "url": "https://unsplash.com/photos/3d-rendering-modern-template-for-concept-design-of-holographic-floating-liquid-blobs-metaballs-with-depth-of-field-trendy-colored-abstract-background-futuristic-fluid-art-digital-illustration-PDeZSpW3TQg/download",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/photos/3d-rendering-modern-template-for-concept-design-of-holographic-floating-liquid-blobs-metaballs-with-depth-of-field-trendy-colored-abstract-background-futuristic-fluid-art-digital-illustration-PDeZSpW3TQg",
+      "photographer": "Getty Images",
+      "alt_text": "미래지향적인 홀로그래픽 디지털 아트 — AI 시대의 디자인을 상징하는 추상 이미지",
+      "description": "AI 시대의 UX를 상징하는 미래지향적 비주얼로, 기사의 '새 매체와 디자인의 진화' 주제와 잘 맞음",
+      "suggested_placement": "cover"
+    },
+    {
+      "id": 2,
+      "url": "https://unsplash.com/s/photos/future-ai",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/s/photos/future-ai",
+      "photographer": "Various (Unsplash Collection)",
+      "alt_text": "AI와 미래 기술을 표현하는 이미지 컬렉션",
+      "description": "AI 미래 관련 다양한 고품질 이미지를 탐색할 수 있는 컬렉션 페이지",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 3,
+      "url": "https://www.pexels.com/photo/close-up-of-a-smartphone-displaying-a-conversation-with-chatgpt-15940011/download",
+      "source_name": "Pexels",
+      "source_url": "https://www.pexels.com/photo/close-up-of-a-smartphone-displaying-a-conversation-with-chatgpt-15940011/",
+      "photographer": "Sanket Mishra",
+      "alt_text": "스마트폰에 표시된 ChatGPT 대화 화면 클로즈업",
+      "description": "AI 인터페이스의 실제 사용 모습으로, 기사에서 언급하는 'AI 닥터' 등 실무 AI 도구 맥락에 적합",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 4,
+      "url": "https://www.pexels.com/photo/chatgpt-is-always-here-to-help-whether-on-your-phone-or-laptop-16689312/download",
+      "source_name": "Pexels",
+      "source_url": "https://www.pexels.com/photo/chatgpt-is-always-here-to-help-whether-on-your-phone-or-laptop-16689312/",
+      "photographer": "Matheus Bertelli",
+      "alt_text": "노트북과 스마트폰에서 AI 챗봇을 사용하는 모습",
+      "description": "멀티 디바이스에서 AI를 활용하는 장면으로, UX 디자이너의 새로운 작업 환경을 보여줌",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 5,
+      "url": "https://unsplash.com/s/photos/ux-design",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/s/photos/ux-design",
+      "photographer": "Various (Unsplash Collection)",
+      "alt_text": "UX 디자인 작업 과정을 담은 이미지 컬렉션",
+      "description": "UX 디자인 과정의 다양한 장면(와이어프레임, 프로토타입 등)을 보여주는 컬렉션",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 6,
+      "url": "https://unsplash.com/s/photos/artificial-intelligence",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/s/photos/artificial-intelligence",
+      "photographer": "Various (Unsplash Collection)",
+      "alt_text": "인공지능을 주제로 한 다양한 이미지 컬렉션",
+      "description": "5,600장 이상의 AI 관련 사진과 3,500장의 일러스트가 포함된 대규모 컬렉션으로, 커버 대안 탐색 가능",
+      "suggested_placement": "inline"
+    }
+  ]
+}

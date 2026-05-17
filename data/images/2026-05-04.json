@@ -1,0 +1,67 @@
+{
+  "date": "2026-05-04",
+  "draft_file": "C:\\Users\\soult\\workSpace\\blog\\drafts\\2026-05-04-리텐션이-안-오르는-B2B-SaaS-훅-모델로-다시-설계하기.md",
+  "search_keywords": ["B2B SaaS retention strategy", "hook model product design", "user engagement loop"],
+  "candidates": [
+    {
+      "id": 1,
+      "url": "https://www.pexels.com/photo/graph-on-laptop-screen-3861957/download",
+      "source_name": "Pexels",
+      "source_url": "https://www.pexels.com/photo/graph-on-laptop-screen-3861957/",
+      "photographer": "Lukas",
+      "alt_text": "노트북 화면에 표시된 성장 그래프 — 데이터 분석과 리텐션 지표를 상징",
+      "description": "B2B SaaS 리텐션 지표 분석 장면으로, 기사의 'DAU/MAU가 0.1대를 넘기 어려운 현실' 주제에 직접 연결",
+      "suggested_placement": "cover"
+    },
+    {
+      "id": 2,
+      "url": "https://www.pexels.com/photo/close-up-shot-of-a-laptop-computer-12969403/download",
+      "source_name": "Pexels",
+      "source_url": "https://www.pexels.com/photo/close-up-shot-of-a-laptop-computer-12969403/",
+      "photographer": "Pexels Photographer",
+      "alt_text": "분석 대시보드를 보여주는 노트북 클로즈업",
+      "description": "실시간 데이터 트래킹과 분석 도구 화면으로, SaaS 대시보드 맥락에 적합",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 3,
+      "url": "https://unsplash.com/photos/kpi-business-analytics-data-dashboard-analyst-using-computer-ziDnvOJGoMA/download",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/photos/kpi-business-analytics-data-dashboard-analyst-using-computer-ziDnvOJGoMA",
+      "photographer": "Unsplash Photographer",
+      "alt_text": "KPI 비즈니스 분석 대시보드를 사용하는 분석가",
+      "description": "KPI 대시보드 분석 장면으로, 훅 모델의 '가변 보상' 단계에서 사용자가 데이터를 확인하는 모습과 연결",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 4,
+      "url": "https://www.pexels.com/photo/a-person-using-a-laptop-with-a-chart-on-screen-5716016/download",
+      "source_name": "Pexels",
+      "source_url": "https://www.pexels.com/photo/a-person-using-a-laptop-with-a-chart-on-screen-5716016/",
+      "photographer": "Pexels Photographer",
+      "alt_text": "차트가 표시된 노트북을 사용하는 사람",
+      "description": "데이터 분석 작업 장면으로, '트리거-액션-보상-투자' 사이클을 설명하는 섹션에 적합",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 5,
+      "url": "https://www.pexels.com/photo/a-person-using-a-laptop-5717784/download",
+      "source_name": "Pexels",
+      "source_url": "https://www.pexels.com/photo/a-person-using-a-laptop-5717784/",
+      "photographer": "Pexels Photographer",
+      "alt_text": "노트북으로 재무 데이터 그래프를 분석하는 사람",
+      "description": "SaaS 사용자가 데이터를 분석하는 실무 장면으로, 이상치 감지 트리거 패턴 섹션에 활용 가능",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 6,
+      "url": "https://www.pexels.com/photo/smartphone-display-with-app-notifications-32944547/download",
+      "source_name": "Pexels",
+      "source_url": "https://www.pexels.com/photo/smartphone-display-with-app-notifications-32944547/",
+      "photographer": "Pexels Photographer",
+      "alt_text": "앱 알림이 표시된 스마트폰 화면",
+      "description": "외부 트리거(푸시 알림)를 시각적으로 보여주는 이미지로, 훅 모델 1단계 트리거 섹션에 적합",
+      "suggested_placement": "inline"
+    }
+  ]
+}

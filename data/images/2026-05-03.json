@@ -1,0 +1,67 @@
+{
+  "date": "2026-05-03",
+  "draft_file": "C:\\Users\\soult\\workSpace\\blog\\drafts\\2026-05-03-인간-중심-설계는-끝났다-인간성-중심-디자인의-시대.md",
+  "search_keywords": ["human centered design evolution", "inclusive design", "humanity centered design"],
+  "candidates": [
+    {
+      "id": 1,
+      "url": "https://unsplash.com/photos/diverse-business-team-collaborating-in-a-modern-office-_4tpElFQemQ/download",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/photos/diverse-business-team-collaborating-in-a-modern-office-_4tpElFQemQ",
+      "photographer": "Unsplash Photographer",
+      "alt_text": "현대적인 사무실에서 협업하는 다양한 배경의 비즈니스 팀",
+      "description": "인간성 중심 디자인의 핵심인 다양성과 포용성을 상징하는 협업 장면으로, 기사의 메인 테마에 적합",
+      "suggested_placement": "cover"
+    },
+    {
+      "id": 2,
+      "url": "https://unsplash.com/photos/a-diverse-group-collaborates-and-discusses-together-OhU8vlVI3dQ/download",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/photos/a-diverse-group-collaborates-and-discusses-together-OhU8vlVI3dQ",
+      "photographer": "Unsplash Photographer",
+      "alt_text": "다양한 사람들이 함께 토론하고 협력하는 모습",
+      "description": "'등장인물은 더 이상 사람만이 아니에요' 섹션에서 인간 중심에서 확장된 관점을 보여주기에 좋음",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 3,
+      "url": "https://www.pexels.com/photo/a-team-having-a-discussion-at-the-office-6248956/download",
+      "source_name": "Pexels",
+      "source_url": "https://www.pexels.com/photo/a-team-having-a-discussion-at-the-office-6248956/",
+      "photographer": "Pexels Photographer",
+      "alt_text": "사무실에서 토론하는 팀원들의 모습",
+      "description": "팀 기반 디자인 사고와 인간 중심 접근법을 시각적으로 표현",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 4,
+      "url": "https://unsplash.com/s/photos/inclusive-design",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/s/photos/inclusive-design",
+      "photographer": "Various (Unsplash Collection)",
+      "alt_text": "포용적 디자인을 주제로 한 이미지 컬렉션",
+      "description": "100장 이상의 포용적 디자인 이미지로, HCD에서 인간성 중심 디자인으로의 전환을 표현",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 5,
+      "url": "https://www.pexels.com/photo/group-of-people-putting-their-hands-together-9630217/download",
+      "source_name": "Pexels",
+      "source_url": "https://www.pexels.com/photo/group-of-people-putting-their-hands-together-9630217/",
+      "photographer": "Pexels Photographer",
+      "alt_text": "다양한 사람들이 손을 모아 하나로 합치는 모습",
+      "description": "인간성 중심 디자인의 연대와 공동체 가치를 상징하는 이미지",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 6,
+      "url": "https://pixabay.com/images/search/humanity/",
+      "source_name": "Pixabay",
+      "source_url": "https://pixabay.com/images/search/humanity/",
+      "photographer": "Various (Pixabay Collection)",
+      "alt_text": "인류와 인간성을 주제로 한 무료 이미지 컬렉션",
+      "description": "20,000장 이상의 인류/인간성 관련 이미지로, 기사의 철학적 주제에 맞는 비주얼 탐색 가능",
+      "suggested_placement": "inline"
+    }
+  ]
+}

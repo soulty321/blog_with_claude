@@ -1,0 +1,67 @@
+{
+  "date": "2026-05-09",
+  "draft_file": "C:\\Users\\soult\\workSpace\\blog\\drafts\\2026-05-09-게슈탈트-법칙으로-B2B-대시보드의-시각-위계-다시-짜기.md",
+  "search_keywords": ["gestalt principles design", "visual hierarchy dashboard", "data visualization layout"],
+  "candidates": [
+    {
+      "id": 1,
+      "url": "https://unsplash.com/photos/abstract-arrangement-of-colorful-cubes-and-geometric-shapes-amaozEGyZm0",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/photos/abstract-arrangement-of-colorful-cubes-and-geometric-shapes-amaozEGyZm0",
+      "photographer": "Unsplash Contributor",
+      "alt_text": "다채로운 큐브와 기하학적 도형의 추상적 배열",
+      "description": "게슈탈트 법칙의 핵심인 '요소들의 관계와 패턴'을 시각적으로 보여주는 기하학적 배열 이미지",
+      "suggested_placement": "cover"
+    },
+    {
+      "id": 2,
+      "url": "https://unsplash.com/photos/colored-geometric-shapes-arranged-in-a-grid--tiKSYEBZzY",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/photos/colored-geometric-shapes-arranged-in-a-grid--tiKSYEBZzY",
+      "photographer": "Paul Campbell",
+      "alt_text": "격자 형태로 배열된 컬러 기하학적 도형들",
+      "description": "근접성과 유사성 등 게슈탈트 그루핑 원리를 직관적으로 보여주는 바우하우스 스타일 이미지",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 3,
+      "url": "https://unsplash.com/photos/abstract-geometric-shapes-in-vibrant-layered-colors-DqZltTH2-9U",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/photos/abstract-geometric-shapes-in-vibrant-layered-colors-DqZltTH2-9U",
+      "photographer": "Maxim Berg",
+      "alt_text": "생생한 레이어드 컬러의 추상 기하학적 도형들",
+      "description": "시각 위계와 레이어링 개념을 표현하는 다층 기하학 이미지",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 4,
+      "url": "https://unsplash.com/photos/graphs-of-performance-analytics-on-a-laptop-screen-JKUTrJ4vK00",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/photos/graphs-of-performance-analytics-on-a-laptop-screen-JKUTrJ4vK00",
+      "photographer": "Luke Chesser",
+      "alt_text": "노트북 화면에 표시된 성능 분석 대시보드 그래프",
+      "description": "실제 B2B 대시보드의 시각 위계를 보여주는 분석 화면 이미지",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 5,
+      "url": "https://unsplash.com/photos/colorful-3d-shapes-arranged-in-a-fun-design-Qjau9gKeJSQ",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/photos/colorful-3d-shapes-arranged-in-a-fun-design-Qjau9gKeJSQ",
+      "photographer": "Hirzul Maulana",
+      "alt_text": "재미있는 디자인으로 배열된 다채로운 3D 도형들",
+      "description": "유사성과 근접성의 게슈탈트 원리를 생동감 있게 표현하는 3D 일러스트",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 6,
+      "url": "https://pixabay.com/images/search/data%20visualization/",
+      "source_name": "Pixabay",
+      "source_url": "https://pixabay.com/images/search/data%20visualization/",
+      "photographer": "Pixabay Contributors",
+      "alt_text": "데이터 시각화 관련 그래프와 차트 이미지",
+      "description": "대시보드 데이터 시각화 레이아웃의 실제 사례를 보여주는 이미지",
+      "suggested_placement": "inline"
+    }
+  ]
+}

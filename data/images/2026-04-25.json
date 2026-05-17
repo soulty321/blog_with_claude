@@ -1,0 +1,67 @@
+{
+  "date": "2026-04-25",
+  "draft_file": "C:\\Users\\soult\\workSpace\\blog\\drafts\\2026-04-25-유튜브-채널을-팬덤으로-만드는-네트워크-효과-전략.md",
+  "search_keywords": ["network effect growth", "community building social media", "YouTube fandom community"],
+  "candidates": [
+    {
+      "id": 1,
+      "url": "https://unsplash.com/s/photos/social-network",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/s/photos/social-network",
+      "photographer": "Unsplash Collection",
+      "alt_text": "소셜 네트워크 연결 구조를 보여주는 이미지",
+      "description": "네트워크 효과의 핵심 개념인 '연결'을 시각화. 전화기 비유로 네트워크 효과를 설명하는 도입부 커버에 적합",
+      "suggested_placement": "cover"
+    },
+    {
+      "id": 2,
+      "url": "https://unsplash.com/s/photos/community",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/s/photos/community",
+      "photographer": "Unsplash Collection",
+      "alt_text": "함께 모인 커뮤니티 사람들",
+      "description": "커뮤니티 형성 이미지. 치바 젯츠 팬덤이 성장하는 과정을 설명하는 섹션에 적합",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 3,
+      "url": "https://unsplash.com/s/photos/people-connected",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/s/photos/people-connected",
+      "photographer": "Unsplash Collection",
+      "alt_text": "서로 연결된 사람들의 모습",
+      "description": "'쓰는 사람이 늘어날수록 가치가 커지는 현상'을 표현할 수 있는 연결 이미지",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 4,
+      "url": "https://unsplash.com/s/photos/digital-growth",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/s/photos/digital-growth",
+      "photographer": "Unsplash Collection",
+      "alt_text": "디지털 성장 그래프와 데이터 시각화",
+      "description": "유튜브 채널 구독자 18만, 조회수 267만 등 성장 지표를 다루는 섹션에 적합한 성장 그래프 이미지",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 5,
+      "url": "https://www.pexels.com/search/community%20building/",
+      "source_name": "Pexels",
+      "source_url": "https://www.pexels.com/search/community%20building/",
+      "photographer": "Pexels Collection",
+      "alt_text": "커뮤니티 빌딩과 팀 협력 모습",
+      "description": "팬덤 커뮤니티 구축 과정을 시각적으로 보여줄 수 있는 이미지. 네트워크 효과 사이클 설명에 활용",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 6,
+      "url": "https://unsplash.com/s/photos/growth-graph",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/s/photos/growth-graph",
+      "photographer": "Unsplash Collection",
+      "alt_text": "상승하는 성장 그래프 차트",
+      "description": "알고리즘 추천으로 노출이 늘어나는 선순환 구조를 설명하는 섹션에 적합한 성장 그래프",
+      "suggested_placement": "inline"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "date": "2026-05-15",
+  "draft_file": "C:\\Users\\soult\\workSpace\\blog\\drafts\\2026-05-15-한-번에-다-보여주지-마라-B2B-분석-도구의-프로그레시브-디스클로저-설계법.md",
+  "search_keywords": ["progressive disclosure UX", "information architecture design", "complexity management UX"],
+  "candidates": [
+    {
+      "id": 1,
+      "url": "https://unsplash.com/photos/a-group-of-three-nesting-dolls-sitting-on-top-of-a-wooden-table-5PCeHBkMCmk",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/photos/a-group-of-three-nesting-dolls-sitting-on-top-of-a-wooden-table-5PCeHBkMCmk",
+      "photographer": "Sandy Millar",
+      "alt_text": "나무 테이블 위에 놓인 세 개의 마트료시카 인형",
+      "description": "프로그레시브 디스클로저의 핵심 개념인 '단계적 공개'를 러시아 마트료시카 인형의 중첩 구조로 은유적으로 표현",
+      "suggested_placement": "cover"
+    },
+    {
+      "id": 2,
+      "url": "https://unsplash.com/photos/several-matryoshka-dolls-on-shelf-RPLwFFzNvp0",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/photos/several-matryoshka-dolls-on-shelf-RPLwFFzNvp0",
+      "photographer": "Alina Grubnyak",
+      "alt_text": "선반 위에 진열된 여러 마트료시카 인형들",
+      "description": "정보의 계층적 구조와 단계적 공개를 상징하는 다양한 크기의 마트료시카 인형",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 3,
+      "url": "https://unsplash.com/s/photos/information-architecture",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/s/photos/information-architecture",
+      "photographer": "Unsplash Contributors",
+      "alt_text": "정보 아키텍처 관련 이미지",
+      "description": "정보 구조 설계의 체계적 접근을 보여주는 이미지, IA 설계 섹션에 적합",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 4,
+      "url": "https://unsplash.com/photos/a-white-board-with-sticky-notes-attached-to-it-BuD00MfwvFY",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/photos/a-white-board-with-sticky-notes-attached-to-it-BuD00MfwvFY",
+      "photographer": "Walls.io",
+      "alt_text": "포스트잇이 붙어있는 화이트보드",
+      "description": "프로그레시브 디스클로저 설계 과정에서의 정보 분류 작업을 연상시키는 화이트보드 이미지",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 5,
+      "url": "https://unsplash.com/photos/matryoshka-doll-lot-lcmgm3mlHP8",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/photos/matryoshka-doll-lot-lcmgm3mlHP8",
+      "photographer": "Eduardo Casajus Gorostiaga",
+      "alt_text": "다양한 마트료시카 인형 컬렉션",
+      "description": "복잡성의 단계적 관리라는 주제를 다양한 크기와 패턴의 인형으로 시각화",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 6,
+      "url": "https://unsplash.com/s/photos/user-experience-design",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/s/photos/user-experience-design",
+      "photographer": "Unsplash Contributors",
+      "alt_text": "사용자 경험 디자인 작업 이미지",
+      "description": "UX 디자인 프로세스를 보여주는 이미지로 프로그레시브 디스클로저 적용 사례 섹션에 적합",
+      "suggested_placement": "inline"
+    }
+  ]
+}

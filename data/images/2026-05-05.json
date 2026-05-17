@@ -1,0 +1,67 @@
+{
+  "date": "2026-05-05",
+  "draft_file": "C:\\Users\\soult\\workSpace\\blog\\drafts\\2026-05-05-복잡한-데이터를-단순하게-B2B-분석-도구에서-쓰는-UX-법칙-5가지.md",
+  "search_keywords": ["UX laws design principles", "data analytics dashboard UX", "simplify complex data visualization"],
+  "candidates": [
+    {
+      "id": 1,
+      "url": "https://unsplash.com/photos/trading-charts-displayed-on-multiple-screens-and-tablet-vKNRKjSNbTo/download",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/photos/trading-charts-displayed-on-multiple-screens-and-tablet-vKNRKjSNbTo",
+      "photographer": "Unsplash Photographer",
+      "alt_text": "여러 스크린과 태블릿에 표시된 데이터 차트 — 복잡한 데이터 시각화 환경",
+      "description": "멀티 스크린 데이터 분석 환경으로, 기사의 '지표 50개, 차원 30개, 필터 20개' 복잡성 문제를 직관적으로 보여줌",
+      "suggested_placement": "cover"
+    },
+    {
+      "id": 2,
+      "url": "https://unsplash.com/s/photos/data-visualization",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/s/photos/data-visualization",
+      "photographer": "Various (Unsplash Collection)",
+      "alt_text": "데이터 시각화 관련 이미지 컬렉션",
+      "description": "1,000장 이상의 데이터 시각화 이미지로, 차트와 그래프 관련 다양한 비주얼 탐색 가능",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 3,
+      "url": "https://www.pexels.com/photo/graph-displayed-on-laptop-screen-7567486/download",
+      "source_name": "Pexels",
+      "source_url": "https://www.pexels.com/photo/graph-displayed-on-laptop-screen-7567486/",
+      "photographer": "Pexels Photographer",
+      "alt_text": "노트북 화면에 표시된 데이터 그래프를 분석하는 모습",
+      "description": "데이터 분석 도구 사용 장면으로, 제이콥의 법칙(기존 도구와 유사한 패턴) 섹션에 활용 가능",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 4,
+      "url": "https://www.pexels.com/photo/data-dashboard-stock-photos/download",
+      "source_name": "Pexels",
+      "source_url": "https://www.pexels.com/search/data%20dashboard/",
+      "photographer": "Various (Pexels Collection)",
+      "alt_text": "데이터 대시보드 스톡 사진 컬렉션",
+      "description": "10,000장 이상의 데이터 대시보드 이미지로, 분석 도구 UI 관련 다양한 비주얼 탐색 가능",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 5,
+      "url": "https://unsplash.com/s/photos/analytics-dashboard",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/s/photos/analytics-dashboard",
+      "photographer": "Various (Unsplash Collection)",
+      "alt_text": "분석 대시보드 이미지 컬렉션",
+      "description": "분석 대시보드 관련 100장 이상의 무료 이미지로, 힉의 법칙(선택지 줄이기) 시각화에 활용 가능",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 6,
+      "url": "https://unsplash.com/s/photos/design-principles",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/s/photos/design-principles",
+      "photographer": "Various (Unsplash Collection)",
+      "alt_text": "디자인 원칙을 주제로 한 이미지 컬렉션",
+      "description": "디자인 원칙 관련 59장의 무료 이미지로, UX 법칙 개념을 시각적으로 보완할 수 있음",
+      "suggested_placement": "inline"
+    }
+  ]
+}

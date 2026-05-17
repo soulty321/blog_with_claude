@@ -1,0 +1,67 @@
+{
+  "date": "2026-04-24-UI",
+  "draft_file": "C:\\Users\\soult\\workSpace\\blog\\drafts\\2026-04-24-기대를-뛰어넘는-UI를-만드는-법.md",
+  "search_keywords": ["UI design excellence", "user interface design", "digital product design screen"],
+  "candidates": [
+    {
+      "id": 1,
+      "url": "https://unsplash.com/photos/web-designer-ux-ui-designer-designing-mobile-application-user-interface-creative-planning-application-development-sketch-layout-wireframe-design-J40RHcMB3Y0/download",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/photos/web-designer-ux-ui-designer-designing-mobile-application-user-interface-creative-planning-application-development-sketch-layout-wireframe-design-J40RHcMB3Y0",
+      "photographer": "Unsplash Contributor",
+      "alt_text": "모바일 앱 UI를 설계 중인 UX/UI 디자이너의 작업 모습",
+      "description": "와이어프레임과 스케치 레이아웃을 설계하는 디자이너 사진. TeamLab 발표에서 다룬 '구조적 사고' 주제와 직접적으로 연결",
+      "suggested_placement": "cover"
+    },
+    {
+      "id": 2,
+      "url": "https://unsplash.com/photos/graphical-user-interface-application-Uln4sEaUwGE/download",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/photos/graphical-user-interface-application-Uln4sEaUwGE",
+      "photographer": "Unsplash Contributor",
+      "alt_text": "그래픽 사용자 인터페이스 애플리케이션 화면",
+      "description": "실제 앱 인터페이스 화면. '사용자가 진짜 원하는 걸 본질적으로 채워주는 UI' 섹션에 적합",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 3,
+      "url": "https://unsplash.com/photos/graphical-user-interface-application-gL1Z-bkOZ2o/download",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/photos/graphical-user-interface-application-gL1Z-bkOZ2o",
+      "photographer": "Unsplash Contributor",
+      "alt_text": "프로필 화면이 보이는 그래픽 사용자 인터페이스",
+      "description": "프로필 UI 화면. 사용자 욕구에서 서비스, 프로덕트, UI로 이어지는 흐름 설명 섹션에 활용 가능",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 4,
+      "url": "https://unsplash.com/photos/graphical-user-interface-0KMCxhGFKvc/download",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/photos/graphical-user-interface-0KMCxhGFKvc",
+      "photographer": "Unsplash Contributor",
+      "alt_text": "금융 관련 그래픽 사용자 인터페이스 화면",
+      "description": "데이터 시각화가 포함된 UI 화면. 기대를 뛰어넘는 UI의 구체적 사례를 보여주는 섹션에 적합",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 5,
+      "url": "https://unsplash.com/photos/graphical-user-interface-5_asf_AsG-I/download",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/photos/graphical-user-interface-5_asf_AsG-I",
+      "photographer": "Unsplash Contributor",
+      "alt_text": "텍스처가 돋보이는 그래픽 사용자 인터페이스",
+      "description": "텍스처 중심의 UI 이미지. 디자인의 세밀한 디테일을 강조하는 본문 중간 삽입용",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 6,
+      "url": "https://www.pexels.com/photo/ux-design/download",
+      "source_name": "Pexels",
+      "source_url": "https://www.pexels.com/search/ux%20design/",
+      "photographer": "Pexels Collection",
+      "alt_text": "UX 디자인 작업 환경과 프로토타입 화면",
+      "description": "UX 디자인 작업 환경 사진. '좋은 UI를 다시 생각해 보기' 도입부에 활용 가능",
+      "suggested_placement": "inline"
+    }
+  ]
+}

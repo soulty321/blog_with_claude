@@ -1,0 +1,67 @@
+{
+  "date": "2026-05-13",
+  "draft_file": "C:\\Users\\soult\\workSpace\\blog\\drafts\\2026-05-13-사용성-휴리스틱으로-B2B-분석-도구의-UX-문제를-진단하는-법.md",
+  "search_keywords": ["usability heuristics evaluation", "UX audit checklist", "Nielsen heuristics design"],
+  "candidates": [
+    {
+      "id": 1,
+      "url": "https://unsplash.com/photos/a-set-of-paper-with-a-magnifying-glass-bl9w-1wYX9c",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/photos/a-set-of-paper-with-a-magnifying-glass-bl9w-1wYX9c",
+      "photographer": "Mariia Shalabaieva",
+      "alt_text": "문서 위에 놓인 돋보기",
+      "description": "휴리스틱 평가의 핵심인 '체계적 점검'을 돋보기와 문서로 직관적으로 표현한 이미지",
+      "suggested_placement": "cover"
+    },
+    {
+      "id": 2,
+      "url": "https://unsplash.com/s/photos/usability-testing",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/s/photos/usability-testing",
+      "photographer": "Unsplash Contributors",
+      "alt_text": "사용성 테스트 과정 이미지",
+      "description": "실제 사용성 테스트 과정을 보여주는 이미지로 휴리스틱 평가 맥락에 적합",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 3,
+      "url": "https://unsplash.com/s/photos/ux-research",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/s/photos/ux-research",
+      "photographer": "Unsplash Contributors",
+      "alt_text": "UX 리서치 작업 환경 이미지",
+      "description": "UX 리서치와 분석 과정을 보여주는 작업 환경 이미지",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 4,
+      "url": "https://unsplash.com/collections/4785201/usability-%2B-ux",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/collections/4785201/usability-%2B-ux",
+      "photographer": "Unsplash Collection",
+      "alt_text": "사용성과 UX 관련 큐레이션 이미지 모음",
+      "description": "사용성+UX 큐레이션 컬렉션으로 디자인, 오피스, 텍스트 관련 19개 고품질 이미지 포함",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 5,
+      "url": "https://unsplash.com/photos/a-wall-with-a-bunch-of-sticky-notes-on-it-fQOyF0D0cDU",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/photos/a-wall-with-a-bunch-of-sticky-notes-on-it-fQOyF0D0cDU",
+      "photographer": "Jakub Zerdzicki",
+      "alt_text": "벽에 붙어있는 다양한 색상의 포스트잇 메모들",
+      "description": "휴리스틱 평가 결과를 정리하는 어피니티 다이어그램을 연상시키는 포스트잇 이미지",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 6,
+      "url": "https://unsplash.com/s/photos/audit",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/s/photos/audit",
+      "photographer": "Unsplash Contributors",
+      "alt_text": "감사 및 점검 관련 이미지",
+      "description": "UX 감사(audit)의 체계적 점검 과정을 상징하는 이미지",
+      "suggested_placement": "inline"
+    }
+  ]
+}

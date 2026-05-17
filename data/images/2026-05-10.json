@@ -1,0 +1,67 @@
+{
+  "date": "2026-05-10",
+  "draft_file": "C:\\Users\\soult\\workSpace\\blog\\drafts\\2026-05-10-넛지의-그림자-슬러지를-피하는-B2B-분석-도구-설계법.md",
+  "search_keywords": ["dark pattern UX design", "ethical UX design", "sludge design patterns"],
+  "candidates": [
+    {
+      "id": 1,
+      "url": "https://unsplash.com/s/photos/dark-pattern",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/s/photos/dark-pattern",
+      "photographer": "Unsplash Contributors",
+      "alt_text": "어두운 추상 패턴 배경 이미지",
+      "description": "슬러지(어두운 넛지)를 시각적 은유로 표현하는 어두운 패턴 이미지, 글의 주제인 '넛지의 그림자'와 직결",
+      "suggested_placement": "cover"
+    },
+    {
+      "id": 2,
+      "url": "https://www.pexels.com/photo/frustrated-man-in-front-of-a-laptop-7927357/",
+      "source_name": "Pexels",
+      "source_url": "https://www.pexels.com/photo/frustrated-man-in-front-of-a-laptop-7927357/",
+      "photographer": "Nicola Barts",
+      "alt_text": "노트북 앞에서 좌절하는 남성",
+      "description": "슬러지로 인한 사용자 불편함과 좌절을 직접적으로 보여주는 이미지",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 3,
+      "url": "https://unsplash.com/s/photos/ux-design",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/s/photos/ux-design",
+      "photographer": "Unsplash Contributors",
+      "alt_text": "UX 디자인 작업 과정 이미지",
+      "description": "올바른 UX 설계 과정을 보여주는 이미지로 슬러지 해결 섹션에 적합",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 4,
+      "url": "https://www.pexels.com/search/ethics/",
+      "source_name": "Pexels",
+      "source_url": "https://www.pexels.com/search/ethics/",
+      "photographer": "Pexels Contributors",
+      "alt_text": "윤리와 관련된 개념적 이미지",
+      "description": "윤리적 UX 설계의 중요성을 강조하는 이미지",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 5,
+      "url": "https://unsplash.com/photos/symmetrical-abstract-pattern-of-dark-curved-shapes-QRTINALdbq8",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/photos/symmetrical-abstract-pattern-of-dark-curved-shapes-QRTINALdbq8",
+      "photographer": "Unsplash Contributor",
+      "alt_text": "대칭적인 어두운 곡선 형태의 추상 패턴",
+      "description": "슬러지의 교묘함을 시각적으로 은유하는 대칭적이면서도 어두운 추상 패턴",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 6,
+      "url": "https://unsplash.com/photos/a-dark-background-with-an-orange-and-red-pattern-7ELYu7jeEwo",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/photos/a-dark-background-with-an-orange-and-red-pattern-7ELYu7jeEwo",
+      "photographer": "Unsplash Contributor",
+      "alt_text": "주황색과 빨간색 패턴이 있는 어두운 배경",
+      "description": "넛지의 '경고성'과 '그림자'라는 이중적 의미를 담은 색상 대비 이미지",
+      "suggested_placement": "inline"
+    }
+  ]
+}

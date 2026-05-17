@@ -1,0 +1,67 @@
+{
+  "date": "2026-05-11",
+  "draft_file": "C:\\Users\\soult\\workSpace\\blog\\drafts\\2026-05-11-B2B-분석-도구에-변동-보상을-넣어도-될까-훅-모델의-가장-위험한-단계.md",
+  "search_keywords": ["variable reward design psychology", "gamification UX", "engagement design ethics"],
+  "candidates": [
+    {
+      "id": 1,
+      "url": "https://www.pexels.com/photo/slot-machines-3021120/",
+      "source_name": "Pexels",
+      "source_url": "https://www.pexels.com/photo/slot-machines-3021120/",
+      "photographer": "Darya Sannikova",
+      "alt_text": "네온 조명 아래 카지노 슬롯 머신들",
+      "description": "변동 보상의 대표적 예시인 슬롯 머신으로, 훅 모델의 '예측 불가능한 보상' 개념을 직관적으로 전달",
+      "suggested_placement": "cover"
+    },
+    {
+      "id": 2,
+      "url": "https://www.pexels.com/photo/close-up-of-casino-slot-machine-interface-30516010/",
+      "source_name": "Pexels",
+      "source_url": "https://www.pexels.com/photo/close-up-of-casino-slot-machine-interface-30516010/",
+      "photographer": "Ercan Evcimen",
+      "alt_text": "카지노 슬롯 머신 인터페이스 클로즈업",
+      "description": "인터페이스 관점에서 변동 보상 메커니즘을 보여주는 클로즈업 이미지",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 3,
+      "url": "https://www.pexels.com/photo/a-row-of-slot-machines-in-a-casino-27977516/",
+      "source_name": "Pexels",
+      "source_url": "https://www.pexels.com/photo/a-row-of-slot-machines-in-a-casino-27977516/",
+      "photographer": "Hailey Smith",
+      "alt_text": "카지노에 줄지어 있는 슬롯 머신들",
+      "description": "대규모 도파민 시스템을 상징하는 슬롯 머신 행렬, 변동 보상의 산업적 규모를 시사",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 4,
+      "url": "https://www.pexels.com/search/psychology/",
+      "source_name": "Pexels",
+      "source_url": "https://www.pexels.com/search/psychology/",
+      "photographer": "Pexels Contributors",
+      "alt_text": "심리학 관련 개념적 이미지",
+      "description": "행동 심리학과 보상 메커니즘의 학문적 맥락을 보여주는 이미지",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 5,
+      "url": "https://www.pexels.com/photo/rows-of-gambling-chips-in-a-tray-7594229/",
+      "source_name": "Pexels",
+      "source_url": "https://www.pexels.com/photo/rows-of-gambling-chips-in-a-tray-7594229/",
+      "photographer": "Pavel Danilyuk",
+      "alt_text": "트레이에 정렬된 다양한 색상의 카지노 칩들",
+      "description": "보상의 등급과 가치를 시각적으로 보여주는 이미지, 변동 보상의 세 가지 유형 섹션에 적합",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 6,
+      "url": "https://www.pexels.com/search/reward/",
+      "source_name": "Pexels",
+      "source_url": "https://www.pexels.com/search/reward/",
+      "photographer": "Pexels Contributors",
+      "alt_text": "보상과 관련된 개념적 이미지",
+      "description": "보상 디자인의 긍정적 측면을 강조하는 이미지, B2B에서의 안전한 보상 설계 섹션에 적합",
+      "suggested_placement": "inline"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "date": "2026-04-26",
+  "draft_file": "C:\\Users\\soult\\workSpace\\blog\\drafts\\2026-04-26-미래를-여는-디자이너의-조건.md",
+  "search_keywords": ["future designer skills", "design career growth", "creative thinking roadmap"],
+  "candidates": [
+    {
+      "id": 1,
+      "url": "https://unsplash.com/s/photos/career-path",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/s/photos/career-path",
+      "photographer": "Unsplash Collection",
+      "alt_text": "앞으로 뻗어나가는 커리어 경로를 상징하는 길 이미지",
+      "description": "커리어를 '지도처럼 그려라'는 기사 핵심 메시지와 직결되는 경로/길 이미지. 커버 이미지로 최적",
+      "suggested_placement": "cover"
+    },
+    {
+      "id": 2,
+      "url": "https://unsplash.com/s/photos/design-thinking",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/s/photos/design-thinking",
+      "photographer": "Unsplash Collection",
+      "alt_text": "디자인 씽킹 프로세스와 아이디어 구상 과정",
+      "description": "디자인 사고 과정 이미지. 야마하에서 25년간 쌓은 디자인 경험과 미래 비전 섹션에 적합",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 3,
+      "url": "https://unsplash.com/s/photos/future-skills",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/s/photos/future-skills",
+      "photographer": "Unsplash Collection",
+      "alt_text": "미래 역량과 스킬을 상징하는 이미지",
+      "description": "'미래는 예측하는 게 아니라 직접 발명하는 것'이라는 메시지를 보강하는 미래 지향적 이미지",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 4,
+      "url": "https://unsplash.com/s/photos/growth-mindset",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/s/photos/growth-mindset",
+      "photographer": "Unsplash Collection",
+      "alt_text": "성장 마인드셋을 상징하는 새싹과 발전 이미지",
+      "description": "세 가지 미래(일어날 법한/가능한/바람직한)를 동시에 그리는 섹션에 적합한 성장 마인드셋 이미지",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 5,
+      "url": "https://www.pexels.com/search/design%20thinking/",
+      "source_name": "Pexels",
+      "source_url": "https://www.pexels.com/search/design%20thinking/",
+      "photographer": "Pexels Collection",
+      "alt_text": "디자인 씽킹 워크숍과 포스트잇 브레인스토밍",
+      "description": "미래 지도(Future Map) 작성 과정을 연상시키는 디자인 씽킹 워크숍 이미지",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 6,
+      "url": "https://www.pexels.com/search/career%20development/",
+      "source_name": "Pexels",
+      "source_url": "https://www.pexels.com/search/career%20development/",
+      "photographer": "Pexels Collection",
+      "alt_text": "커리어 개발과 전문성 성장을 위한 학습 모습",
+      "description": "다나카 교수의 25년 경력과 커리어 발전 이야기를 보강하는 전문 성장 이미지",
+      "suggested_placement": "inline"
+    }
+  ]
+}

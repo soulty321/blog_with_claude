@@ -1,0 +1,67 @@
+{
+  "date": "2026-05-08",
+  "draft_file": "C:\\Users\\soult\\workSpace\\blog\\drafts\\2026-05-08-AI-에이전트-생태계-B2B-분석-서비스가-에이전트-친화적으로-진화하는-법.md",
+  "search_keywords": ["AI agent ecosystem", "autonomous AI agents", "AI agent user interface"],
+  "candidates": [
+    {
+      "id": 1,
+      "url": "https://unsplash.com/photos/a-hand-reaching-out-towards-a-robot-hand-f_u6pLLjGuo",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/photos/a-hand-reaching-out-towards-a-robot-hand-f_u6pLLjGuo",
+      "photographer": "Cash Macanaya",
+      "alt_text": "사람 손과 로봇 손이 서로를 향해 뻗고 있는 모습",
+      "description": "AI 에이전트와 인간의 협업이라는 글의 핵심 주제를 직관적으로 전달하는 이미지",
+      "suggested_placement": "cover"
+    },
+    {
+      "id": 2,
+      "url": "https://unsplash.com/photos/a-friendly-orange-robot-with-a-digital-face-72ZSJYmDYpc",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/photos/a-friendly-orange-robot-with-a-digital-face-72ZSJYmDYpc",
+      "photographer": "Enchanted Tools",
+      "alt_text": "디지털 얼굴을 가진 친근한 오렌지색 로봇",
+      "description": "에이전트 친화적 인터페이스를 상징하는 친근한 AI 로봇 이미지",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 3,
+      "url": "https://unsplash.com/photos/a-robot-holding-a-human-hand-in-the-air-mqeQ_ql0Jas",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/photos/a-robot-holding-a-human-hand-in-the-air-mqeQ_ql0Jas",
+      "photographer": "Alex Shuper",
+      "alt_text": "로봇이 사람의 손을 잡고 있는 3D 렌더링 이미지",
+      "description": "사람과 에이전트의 공존이라는 메시지를 전달하는 3D 렌더링 이미지",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 4,
+      "url": "https://www.pexels.com/search/AI%20agents/",
+      "source_name": "Pexels",
+      "source_url": "https://www.pexels.com/search/AI%20agents/",
+      "photographer": "Pexels Contributors",
+      "alt_text": "AI 에이전트 관련 디지털 인터페이스 이미지",
+      "description": "AI 에이전트 생태계를 시각화하는 디지털 인터페이스 사진",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 5,
+      "url": "https://unsplash.com/s/photos/ai-automation",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/s/photos/ai-automation",
+      "photographer": "Unsplash Contributors",
+      "alt_text": "AI 자동화 관련 기술 이미지",
+      "description": "에이전트의 자율적 작업 수행을 상징하는 AI 자동화 이미지",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 6,
+      "url": "https://www.pexels.com/photo/conversational-ai-deepseek-user-interface-30530418/",
+      "source_name": "Pexels",
+      "source_url": "https://www.pexels.com/photo/conversational-ai-deepseek-user-interface-30530418/",
+      "photographer": "Pexels Contributor",
+      "alt_text": "대화형 AI 사용자 인터페이스 화면",
+      "description": "에이전트가 도구를 호출하는 UI의 실제 사례를 보여주는 인터페이스 이미지",
+      "suggested_placement": "inline"
+    }
+  ]
+}

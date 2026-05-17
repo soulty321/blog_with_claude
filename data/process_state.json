@@ -18,49 +18,56 @@
       "draft_file": "drafts/2026-04-24_감정을_불러일으키는_광창.md",
       "status": "questions_sent",
       "questions_file": "data/questions/2026-04-24-광창.json",
-      "published_file": null
+      "published_file": null,
+      "images_file": "data/images/2026-04-24-광창.json"
     },
     "2026-04-24-UI": {
       "source": "기대를 뛰어넘는 ui는 이렇게 만든다_original.md",
       "draft_file": "drafts/2026-04-24-기대를-뛰어넘는-UI를-만드는-법.md",
       "status": "questions_sent",
       "questions_file": "data/questions/2026-04-24-UI.json",
-      "published_file": null
+      "published_file": null,
+      "images_file": "data/images/2026-04-24-UI.json"
     },
     "2026-04-25": {
       "source": "네트워크 효과를 불러오는 방법_original.md",
       "draft_file": "drafts/2026-04-25-유튜브-채널을-팬덤으로-만드는-네트워크-효과-전략.md",
       "status": "questions_sent",
       "questions_file": "data/questions/2026-04-25.json",
-      "published_file": null
+      "published_file": null,
+      "images_file": "data/images/2026-04-25.json"
     },
     "2026-04-26": {
       "source": "미래를 여는 디자이너의 조건_original.md",
       "draft_file": "drafts/2026-04-26-미래를-여는-디자이너의-조건.md",
       "status": "questions_sent",
       "questions_file": "data/questions/2026-04-26.json",
-      "published_file": null
+      "published_file": null,
+      "images_file": "data/images/2026-04-26.json"
     },
     "2026-04-27": {
       "source": "아이디어를 정리하는 법_original.md",
       "draft_file": "drafts/2026-04-27-각자-준비해서-합치는-협업은-왜-실패하는가.md",
       "status": "questions_sent",
       "questions_file": "data/questions/2026-04-27.json",
-      "published_file": null
+      "published_file": null,
+      "images_file": "data/images/2026-04-27.json"
     },
     "2026-04-28": {
       "source": "음성 251018_130113_original.md",
       "draft_file": "drafts/2026-04-28-UX-디자인-어디서-배워야-할까-교과서-없는-시대의-학습법.md",
       "status": "questions_sent",
       "questions_file": "data/questions/2026-04-28.json",
-      "published_file": null
+      "published_file": null,
+      "images_file": "data/images/2026-04-28.json"
     },
     "2026-04-29": {
       "source": "음성 251018_133007_original.md",
       "draft_file": "drafts/2026-04-29-스타워즈로-미래-농업을-디자인한-이야기-Future-Story-Prototyping.md",
       "status": "draft_created",
       "questions_file": null,
-      "published_file": null
+      "published_file": null,
+      "images_file": "data/images/2026-04-29.json"
     },
     "2026-05-01": {
       "source": "음성 251018_140811_original.md",
@@ -68,7 +75,8 @@
       "draft_file": "drafts/2026-05-01-AI-시대의-UX-디자이너는-무엇을-준비해야-하는가.md",
       "status": "questions_sent",
       "questions_file": "data/questions/2026-05-01.json",
-      "published_file": null
+      "published_file": null,
+      "images_file": "data/images/2026-05-01.json"
     },
     "2026-05-02": {
       "source": "이념을 가시화하는 브랜드 로고 제작법_original.md",
@@ -76,7 +84,8 @@
       "draft_file": "drafts/2026-05-02-이념을-가시화하는-브랜드-로고는-어떻게-탄생하는가.md",
       "status": "questions_sent",
       "questions_file": "data/questions/2026-05-02.json",
-      "published_file": null
+      "published_file": null,
+      "images_file": "data/images/2026-05-02.json"
     },
     "2026-05-03": {
       "source": "인간 중심 설계란 무엇이었나_original.md",
@@ -84,7 +93,8 @@
       "draft_file": "drafts/2026-05-03-인간-중심-설계는-끝났다-인간성-중심-디자인의-시대.md",
       "status": "questions_sent",
       "questions_file": "data/questions/2026-05-03.json",
-      "published_file": null
+      "published_file": null,
+      "images_file": "data/images/2026-05-03.json"
     },
     "2026-05-04": {
       "source": "notebook.md#훅: 일상을 사로잡는 제품의 비밀",
@@ -92,7 +102,8 @@
       "draft_file": "drafts/2026-05-04-리텐션이-안-오르는-B2B-SaaS-훅-모델로-다시-설계하기.md",
       "status": "questions_sent",
       "questions_file": "data/questions/2026-05-04.json",
-      "published_file": null
+      "published_file": null,
+      "images_file": "data/images/2026-05-04.json"
     },
     "2026-05-05": {
       "source": "notebook.md#UX의 법칙들",
@@ -100,7 +111,8 @@
       "draft_file": "drafts/2026-05-05-복잡한-데이터를-단순하게-B2B-분석-도구에서-쓰는-UX-법칙-5가지.md",
       "status": "questions_sent",
       "questions_file": "data/questions/2026-05-05.json",
-      "published_file": null
+      "published_file": null,
+      "images_file": "data/images/2026-05-05.json"
     },
     "2026-05-06": {
       "source": "notebook.md#UXUI 디자인 교과서",
@@ -108,7 +120,8 @@
       "draft_file": "drafts/2026-05-06-UXUI-교과서를-B2B-데이터-분석-서비스에-적용하는-법.md",
       "status": "questions_sent",
       "questions_file": "data/questions/2026-05-06.json",
-      "published_file": null
+      "published_file": null,
+      "images_file": "data/images/2026-05-06.json"
     },
     "2026-05-07": {
       "source": "notebook.md#넛지",
@@ -116,7 +129,8 @@
       "draft_file": "drafts/2026-05-07-B2B-분석-도구의-넛지-디자인-사용자의-더-나은-결정을-이끄는-방법.md",
       "status": "questions_sent",
       "questions_file": "data/questions/2026-05-07.json",
-      "published_file": null
+      "published_file": null,
+      "images_file": "data/images/2026-05-07.json"
     },
     "2026-05-08": {
       "source": "notebook.md#AI 에이전트 생태계",
@@ -124,7 +138,8 @@
       "draft_file": "drafts/2026-05-08-AI-에이전트-생태계-B2B-분석-서비스가-에이전트-친화적으로-진화하는-법.md",
       "status": "questions_sent",
       "questions_file": "data/questions/2026-05-08.json",
-      "published_file": null
+      "published_file": null,
+      "images_file": "data/images/2026-05-08.json"
     },
     "2026-05-09": {
       "source": "notebook.md#UX의 법칙들 (게슈탈트 심화)",
@@ -132,7 +147,8 @@
       "draft_file": "drafts/2026-05-09-게슈탈트-법칙으로-B2B-대시보드의-시각-위계-다시-짜기.md",
       "status": "questions_sent",
       "questions_file": "data/questions/2026-05-09.json",
-      "published_file": null
+      "published_file": null,
+      "images_file": "data/images/2026-05-09.json"
     },
     "2026-05-10": {
       "source": "notebook.md#넛지",
@@ -140,7 +156,8 @@
       "draft_file": "drafts/2026-05-10-넛지의-그림자-슬러지를-피하는-B2B-분석-도구-설계법.md",
       "status": "questions_sent",
       "questions_file": "data/questions/2026-05-10.json",
-      "published_file": null
+      "published_file": null,
+      "images_file": "data/images/2026-05-10.json"
     },
     "2026-05-11": {
       "source": "notebook.md#훅: 일상을 사로잡는 제품의 비밀 (변동 보상 심화)",
@@ -148,7 +165,8 @@
       "draft_file": "drafts/2026-05-11-B2B-분석-도구에-변동-보상을-넣어도-될까-훅-모델의-가장-위험한-단계.md",
       "status": "questions_sent",
       "questions_file": "data/questions/2026-05-11.json",
-      "published_file": null
+      "published_file": null,
+      "images_file": "data/images/2026-05-11.json"
     },
     "2026-05-13": {
       "source": "notebook.md#UXUI 디자인 교과서 (사용성 휴리스틱 심화)",
@@ -156,7 +174,8 @@
       "draft_file": "drafts/2026-05-13-사용성-휴리스틱으로-B2B-분석-도구의-UX-문제를-진단하는-법.md",
       "status": "questions_sent",
       "questions_file": "data/questions/2026-05-13.json",
-      "published_file": null
+      "published_file": null,
+      "images_file": "data/images/2026-05-13.json"
     },
     "2026-05-14": {
       "source": "notebook.md#AI 에이전트 생태계 (도구 사용 & 자율성 심화)",
@@ -164,7 +183,8 @@
       "draft_file": "drafts/2026-05-14-AI-에이전트가-도구를-쓰는-순간-PD가-설계해야-할-3가지-안전장치.md",
       "status": "questions_sent",
       "questions_file": "data/questions/2026-05-14.json",
-      "published_file": null
+      "published_file": null,
+      "images_file": "data/images/2026-05-14.json"
     },
     "2026-05-15": {
       "source": "notebook.md#progressive_disclosure",
@@ -172,7 +192,8 @@
       "draft_file": "drafts/2026-05-15-한-번에-다-보여주지-마라-B2B-분석-도구의-프로그레시브-디스클로저-설계법.md",
       "status": "questions_sent",
       "questions_file": "data/questions/2026-05-15.json",
-      "published_file": null
+      "published_file": null,
+      "images_file": "data/images/2026-05-15.json"
     },
     "2026-05-17": {
       "source": "notebook.md#훅: 일상을 사로잡는 제품의 비밀 (트리거 단계)",
@@ -180,7 +201,8 @@
       "draft_file": "drafts/2026-05-17-B2B-분석-도구에서-사용자를-재방문하게-만드는-트리거-설계법.md",
       "status": "questions_sent",
       "questions_file": "data/questions/2026-05-17.json",
-      "published_file": null
+      "published_file": null,
+      "images_file": "data/images/2026-05-17.json"
     }
   }
 }

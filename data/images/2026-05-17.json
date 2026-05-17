@@ -1,0 +1,67 @@
+{
+  "date": "2026-05-17",
+  "draft_file": "C:\\Users\\soult\\workSpace\\blog\\drafts\\2026-05-17-B2B-분석-도구에서-사용자를-재방문하게-만드는-트리거-설계법.md",
+  "search_keywords": ["trigger design user engagement", "notification UX design", "user retention triggers"],
+  "candidates": [
+    {
+      "id": 1,
+      "url": "https://unsplash.com/s/photos/trigger",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/s/photos/trigger",
+      "photographer": "Unsplash Contributors",
+      "alt_text": "트리거(방아쇠) 관련 개념적 이미지",
+      "description": "훅 모델의 첫 단계인 '트리거'를 시각적 은유로 표현하는 이미지, 글의 핵심 키워드와 직결",
+      "suggested_placement": "cover"
+    },
+    {
+      "id": 2,
+      "url": "https://www.pexels.com/search/notification%20bell/",
+      "source_name": "Pexels",
+      "source_url": "https://www.pexels.com/search/notification%20bell/",
+      "photographer": "Pexels Contributors",
+      "alt_text": "알림 벨 아이콘 관련 이미지",
+      "description": "외부 트리거의 대표적 형태인 알림(notification)을 보여주는 벨 이미지",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 3,
+      "url": "https://unsplash.com/s/photos/customer-engagement",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/s/photos/customer-engagement",
+      "photographer": "Unsplash Contributors",
+      "alt_text": "고객 참여 관련 이미지",
+      "description": "사용자 재방문과 참여 유도를 상징하는 고객 인게이지먼트 이미지",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 4,
+      "url": "https://www.pexels.com/search/alert%20message/",
+      "source_name": "Pexels",
+      "source_url": "https://www.pexels.com/search/alert%20message/",
+      "photographer": "Pexels Contributors",
+      "alt_text": "알림 메시지 관련 이미지",
+      "description": "외부 트리거 설계의 4가지 원칙 섹션에 적합한 알림 메시지 이미지",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 5,
+      "url": "https://unsplash.com/s/photos/ux-design",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/s/photos/ux-design",
+      "photographer": "Unsplash Contributors",
+      "alt_text": "UX 디자인 작업 환경 이미지",
+      "description": "트리거 설계 프로세스를 보여주는 UX 디자인 워크스페이스 이미지",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 6,
+      "url": "https://www.pexels.com/search/notifications/",
+      "source_name": "Pexels",
+      "source_url": "https://www.pexels.com/search/notifications/",
+      "photographer": "Pexels Contributors",
+      "alt_text": "모바일 알림 화면 이미지",
+      "description": "알림 피로를 피하는 트리거 설계를 논의할 때 실제 알림 화면을 보여주는 이미지",
+      "suggested_placement": "inline"
+    }
+  ]
+}

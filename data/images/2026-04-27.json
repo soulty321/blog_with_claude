@@ -1,0 +1,67 @@
+{
+  "date": "2026-04-27",
+  "draft_file": "C:\\Users\\soult\\workSpace\\blog\\drafts\\2026-04-27-각자-준비해서-합치는-협업은-왜-실패하는가.md",
+  "search_keywords": ["design collaboration teamwork", "team workshop whiteboard", "collaborative brainstorming"],
+  "candidates": [
+    {
+      "id": 1,
+      "url": "https://www.pexels.com/photo/people-at-the-office-facing-white-board-7698826/download",
+      "source_name": "Pexels",
+      "source_url": "https://www.pexels.com/photo/people-at-the-office-facing-white-board-7698826/",
+      "photographer": "Pexels Contributor",
+      "alt_text": "화이트보드를 바라보며 회의하는 사무실 팀원들",
+      "description": "화이트보드 앞에서 회의하는 팀 사진. KDDI와 히타치의 공동 작업 과정을 상징. 2달간 난항을 겪다가 돌파구를 찾은 이야기의 커버로 최적",
+      "suggested_placement": "cover"
+    },
+    {
+      "id": 2,
+      "url": "https://www.pexels.com/photo/people-making-a-plan-on-a-board-17724732/download",
+      "source_name": "Pexels",
+      "source_url": "https://www.pexels.com/photo/people-making-a-plan-on-a-board-17724732/",
+      "photographer": "Pexels Contributor",
+      "alt_text": "보드에 계획을 세우고 있는 두 동료",
+      "description": "보드에 아이디어를 정리하는 모습. '각자 기획안을 가져와서 합치는 방식'의 문제를 시각적으로 보여줌",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 3,
+      "url": "https://www.pexels.com/photo/people-brainstorming-in-a-meeting-8278898/download",
+      "source_name": "Pexels",
+      "source_url": "https://www.pexels.com/photo/people-brainstorming-in-a-meeting-8278898/",
+      "photographer": "Pexels Contributor",
+      "alt_text": "회의에서 브레인스토밍하는 다양한 팀원들",
+      "description": "다양한 구성원이 브레인스토밍하는 모습. 대등한 파트너십에서의 협업 어려움을 다루는 섹션에 적합",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 4,
+      "url": "https://www.pexels.com/photo/project-team-brainstorming-12903342/download",
+      "source_name": "Pexels",
+      "source_url": "https://www.pexels.com/photo/project-team-brainstorming-12903342/",
+      "photographer": "Pexels Contributor",
+      "alt_text": "프로젝트 팀의 브레인스토밍 세션",
+      "description": "프로젝트 팀 브레인스토밍 장면. 2주 만에 돌파구를 찾은 워크숍 과정을 설명하는 섹션에 활용",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 5,
+      "url": "https://unsplash.com/s/photos/design-workshop",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/s/photos/design-workshop",
+      "photographer": "Unsplash Collection",
+      "alt_text": "디자인 워크숍에서 아이디어를 공유하는 참가자들",
+      "description": "디자인 워크숍 이미지. 오사카 엑스포 전시 준비 과정의 공동 작업 모습을 연상시킴",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 6,
+      "url": "https://www.pexels.com/photo/colleagues-brainstorming-a-business-project-at-a-meeting-7550308/download",
+      "source_name": "Pexels",
+      "source_url": "https://www.pexels.com/photo/colleagues-brainstorming-a-business-project-at-a-meeting-7550308/",
+      "photographer": "Pexels Contributor",
+      "alt_text": "회의에서 비즈니스 프로젝트를 브레인스토밍하는 동료들",
+      "description": "랩탑을 중심으로 협업하는 동료들. KDDI와 히타치의 공동 전시 기획 회의를 시각적으로 보강",
+      "suggested_placement": "inline"
+    }
+  ]
+}

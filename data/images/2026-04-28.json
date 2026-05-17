@@ -1,0 +1,67 @@
+{
+  "date": "2026-04-28",
+  "draft_file": "C:\\Users\\soult\\workSpace\\blog\\drafts\\2026-04-28-UX-디자인-어디서-배워야-할까-교과서-없는-시대의-학습법.md",
+  "search_keywords": ["UX design education", "learning UX design", "design study resources"],
+  "candidates": [
+    {
+      "id": 1,
+      "url": "https://www.pexels.com/photo/students-studying-in-a-library-using-laptop-and-books-8199759/download",
+      "source_name": "Pexels",
+      "source_url": "https://www.pexels.com/photo/students-studying-in-a-library-using-laptop-and-books-8199759/",
+      "photographer": "Yan Krukau",
+      "alt_text": "도서관에서 노트북과 책으로 공부하는 학생들",
+      "description": "노트북과 책을 활용한 학습 장면. '교과서가 없는 시대의 학습법'이라는 기사 주제와 직결되는 커버 이미지",
+      "suggested_placement": "cover"
+    },
+    {
+      "id": 2,
+      "url": "https://www.pexels.com/photo/thoughtful-student-using-laptop-at-table-with-many-different-books-7034451/download",
+      "source_name": "Pexels",
+      "source_url": "https://www.pexels.com/photo/thoughtful-student-using-laptop-at-table-with-many-different-books-7034451/",
+      "photographer": "George Milton",
+      "alt_text": "다양한 책들 사이에서 노트북으로 공부하는 사려 깊은 학생",
+      "description": "책과 노트북 사이에서 고민하는 학생. UX의 넓은 범위와 학습 난이도를 설명하는 섹션에 적합",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 3,
+      "url": "https://www.pexels.com/photo/man-studying-using-a-laptop-7683820/download",
+      "source_name": "Pexels",
+      "source_url": "https://www.pexels.com/photo/man-studying-using-a-laptop-7683820/",
+      "photographer": "RDNE Stock project",
+      "alt_text": "노트북을 사용해 공부하는 남성",
+      "description": "자기주도 학습 모습. '누가 가르쳐 줄 거라고 기대하지 말고' 섹션의 독학 메시지와 연결",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 4,
+      "url": "https://www.pexels.com/photo/unrecognizable-students-with-laptops-and-books-studying-in-public-library-4397200/download",
+      "source_name": "Pexels",
+      "source_url": "https://www.pexels.com/photo/unrecognizable-students-with-laptops-and-books-studying-in-public-library-4397200/",
+      "photographer": "Mathias Reding",
+      "alt_text": "공공 도서관에서 노트북과 책으로 공부하는 학생들",
+      "description": "도서관 학습 환경. 타키 코퍼레이션의 UX 학습 시스템 4단계를 설명하는 배경 이미지로 활용",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 5,
+      "url": "https://unsplash.com/s/photos/ux-research",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/s/photos/ux-research",
+      "photographer": "Unsplash Collection",
+      "alt_text": "UX 리서치 작업을 수행하는 디자이너",
+      "description": "UX 리서치 관련 이미지. 리서치부터 비즈니스 전략까지 넓은 UX 범위를 다루는 섹션에 적합",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 6,
+      "url": "https://unsplash.com/s/photos/learning",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/s/photos/learning",
+      "photographer": "Unsplash Collection",
+      "alt_text": "학습과 교육 활동을 보여주는 이미지",
+      "description": "학습 장면 이미지. '가르치는 쪽으로 돌아서야 한다'는 메시지를 전달하는 후반부 섹션에 활용",
+      "suggested_placement": "inline"
+    }
+  ]
+}

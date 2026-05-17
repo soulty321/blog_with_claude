@@ -1,0 +1,67 @@
+{
+  "date": "2026-04-24-광창",
+  "draft_file": "C:\\Users\\soult\\workSpace\\blog\\drafts\\2026-04-24_감정을_불러일으키는_광창.md",
+  "search_keywords": ["cosmetic packaging design", "luxury skincare bottle", "POLA brand cosmetics"],
+  "candidates": [
+    {
+      "id": 1,
+      "url": "https://unsplash.com/photos/cosmetic-cream-jars-serum-dropper-bottle-and-dry-flowers-leaves-on-beige-background-natural-skincare-products-organic-beauty-products-ShuXkYOkDvs/download",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/photos/cosmetic-cream-jars-serum-dropper-bottle-and-dry-flowers-leaves-on-beige-background-natural-skincare-products-organic-beauty-products-ShuXkYOkDvs",
+      "photographer": "Getty Images (Unsplash)",
+      "alt_text": "베이지 배경 위에 놓인 화장품 크림 병과 세럼 드롭퍼, 드라이 플라워",
+      "description": "POLA COSMOLOGY의 감성적 패키지 디자인 철학과 어울리는 미니멀 화장품 스틸 라이프. 고급스러운 톤과 자연 소재 조합이 기사의 '감정을 불러일으키는' 테마에 적합",
+      "suggested_placement": "cover"
+    },
+    {
+      "id": 2,
+      "url": "https://unsplash.com/photos/cosmetics-and-skincare-products-are-arranged-neatly-BCozEYDNmOQ/download",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/photos/cosmetics-and-skincare-products-are-arranged-neatly-BCozEYDNmOQ",
+      "photographer": "Unsplash Contributor",
+      "alt_text": "깔끔하게 정리된 화장품과 스킨케어 제품들",
+      "description": "정돈된 화장품 배치가 POLA의 체계적인 패키지 디자인 프로세스를 시각적으로 표현. 브랜드 전략 섹션에 활용 가능",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 3,
+      "url": "https://unsplash.com/photos/bottles-of-skincare-products-displayed-on-shelves-RJ0v-mj0Yxs/download",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/photos/bottles-of-skincare-products-displayed-on-shelves-RJ0v-mj0Yxs",
+      "photographer": "Unsplash Contributor",
+      "alt_text": "진열대에 디스플레이된 스킨케어 제품 병들",
+      "description": "매장 진열 형태의 화장품 사진. 소비자가 제품을 마주하는 순간의 경험을 다루는 섹션에 적합",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 4,
+      "url": "https://unsplash.com/photos/a-bottle-of-lotion-sitting-next-to-a-box-se2CVSvugok/download",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/photos/a-bottle-of-lotion-sitting-next-to-a-box-se2CVSvugok",
+      "photographer": "Unsplash Contributor",
+      "alt_text": "박스 옆에 놓인 로션 병 — 패키지 디자인 목업",
+      "description": "패키지 박스와 제품 병의 조합. POLA가 구조 설계도까지 직접 그린다는 내용과 연결되는 이미지",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 5,
+      "url": "https://unsplash.com/photos/black-and-white-labeled-bottle-Pm0K9Y3EPUc/download",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/photos/black-and-white-labeled-bottle-Pm0K9Y3EPUc",
+      "photographer": "Unsplash Contributor",
+      "alt_text": "흑백 라벨이 붙은 미니멀 스킨케어 병",
+      "description": "미니멀한 패키지 디자인 사진. 기사에서 다루는 '우주' 콘셉트의 절제된 미학과 잘 어울림",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 6,
+      "url": "https://www.pexels.com/photo/minimalist-skincare-products-display-with-neutral-aesthetic-34939759/download",
+      "source_name": "Pexels",
+      "source_url": "https://www.pexels.com/photo/minimalist-skincare-products-display-with-neutral-aesthetic-34939759/",
+      "photographer": "Pexels Contributor",
+      "alt_text": "중립 톤의 미니멀 스킨케어 제품 디스플레이",
+      "description": "뉴트럴 톤의 고급 스킨케어 디스플레이. COSMOLOGY 라인의 우주적이고 차분한 분위기와 매칭",
+      "suggested_placement": "inline"
+    }
+  ]
+}

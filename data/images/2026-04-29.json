@@ -1,0 +1,67 @@
+{
+  "date": "2026-04-29",
+  "draft_file": "C:\\Users\\soult\\workSpace\\blog\\drafts\\2026-04-29-스타워즈로-미래-농업을-디자인한-이야기-Future-Story-Prototyping.md",
+  "search_keywords": ["speculative design future", "futuristic agriculture technology", "sci-fi desert landscape"],
+  "candidates": [
+    {
+      "id": 1,
+      "url": "https://pixabay.com/photos/star-wars-sci-fi-futuristic-vader-5226839/download",
+      "source_name": "Pixabay",
+      "source_url": "https://pixabay.com/photos/star-wars-sci-fi-futuristic-vader-5226839/",
+      "photographer": "Pixabay Contributor",
+      "alt_text": "스타워즈 풍의 SF 미래적 풍경 이미지",
+      "description": "스타워즈 테마의 SF 이미지. '스타워즈로 미래 농업을 디자인한 이야기'라는 기사 제목과 직접 연결되는 커버",
+      "suggested_placement": "cover"
+    },
+    {
+      "id": 2,
+      "url": "https://pixabay.com/illustrations/landscape-planet-sci-fi-alien-8016635/download",
+      "source_name": "Pixabay",
+      "source_url": "https://pixabay.com/illustrations/landscape-planet-sci-fi-alien-8016635/",
+      "photographer": "Pixabay Contributor",
+      "alt_text": "외계 행성의 SF 풍경 일러스트레이션",
+      "description": "외계 행성 풍경 일러스트. 영화의 세계관을 필드워크 삼아 미래를 구상하는 방법론 섹션에 적합",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 3,
+      "url": "https://pixabay.com/photos/alien-landscape-planet-terrain-4849957/download",
+      "source_name": "Pixabay",
+      "source_url": "https://pixabay.com/photos/alien-landscape-planet-terrain-4849957/",
+      "photographer": "Pixabay Contributor",
+      "alt_text": "외계 지형과 행성이 보이는 황량한 풍경",
+      "description": "황량한 외계 지형 사진. 30년 후의 미래를 상상하는 스펙큘러티브 디자인 컨셉과 매칭",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 4,
+      "url": "https://unsplash.com/s/photos/agriculture-technology",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/s/photos/agriculture-technology",
+      "photographer": "Unsplash Collection",
+      "alt_text": "농업 기술과 스마트팜 장비 이미지",
+      "description": "농업 기술 이미지. 실제 농가 리서치와 농기구 회사 파트너십을 다루는 1단계 섹션에 적합",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 5,
+      "url": "https://pixabay.com/images/search/robot%20agriculture/",
+      "source_name": "Pixabay",
+      "source_url": "https://pixabay.com/images/search/robot%20agriculture/",
+      "photographer": "Pixabay Collection",
+      "alt_text": "농업용 로봇과 자동화 기술 이미지",
+      "description": "농업 로봇 관련 이미지. '30년 후의 농업 로봇을 만들어 보세요'라는 과제를 시각화하는 섹션에 활용",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 6,
+      "url": "https://unsplash.com/s/photos/futuristic-design",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/s/photos/futuristic-design",
+      "photographer": "Unsplash Collection",
+      "alt_text": "미래적 디자인과 콘셉트 아트 이미지",
+      "description": "미래적 디자인 이미지. Future Story Prototyping 방법론의 최종 결과물 섹션을 보강하는 비주얼",
+      "suggested_placement": "inline"
+    }
+  ]
+}

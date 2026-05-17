@@ -1,0 +1,67 @@
+{
+  "date": "2026-05-07",
+  "draft_file": "C:\\Users\\soult\\workSpace\\blog\\drafts\\2026-05-07-B2B-분석-도구의-넛지-디자인-사용자의-더-나은-결정을-이끄는-방법.md",
+  "search_keywords": ["nudge design UX", "behavioral design patterns", "choice architecture UX"],
+  "candidates": [
+    {
+      "id": 1,
+      "url": "https://unsplash.com/photos/a-pole-with-a-bunch-of-signs-on-it-qcIkeYYALT4/download",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/photos/a-pole-with-a-bunch-of-signs-on-it-qcIkeYYALT4",
+      "photographer": "Astrid Schaffner",
+      "alt_text": "여러 방향을 가리키는 표지판들이 달린 기둥 — 선택과 방향 안내를 상징",
+      "description": "다양한 방향의 표지판으로, 넛지 디자인의 핵심인 '부드러운 방향 안내'를 시각적으로 완벽히 표현",
+      "suggested_placement": "cover"
+    },
+    {
+      "id": 2,
+      "url": "https://www.pexels.com/photo/close-up-of-a-signpost-in-new-york-city-25312314/download",
+      "source_name": "Pexels",
+      "source_url": "https://www.pexels.com/photo/close-up-of-a-signpost-in-new-york-city-25312314/",
+      "photographer": "Pexels Photographer",
+      "alt_text": "뉴욕 시내의 방향 표지판 클로즈업",
+      "description": "도시 속 방향 안내 표지판으로, 사용자의 선택을 돕는 넛지의 은유적 표현에 적합",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 3,
+      "url": "https://www.pexels.com/photo/an-alert-message-on-a-cellphone-7821762/download",
+      "source_name": "Pexels",
+      "source_url": "https://www.pexels.com/photo/an-alert-message-on-a-cellphone-7821762/",
+      "photographer": "Pexels Photographer",
+      "alt_text": "핸드폰에 표시된 알림 메시지",
+      "description": "손실 회피 프레이밍 섹션에서 알림을 통한 행동 유도를 시각적으로 보여주기에 적합",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 4,
+      "url": "https://www.pexels.com/search/decision%20making/",
+      "source_name": "Pexels",
+      "source_url": "https://www.pexels.com/search/decision%20making/",
+      "photographer": "Various (Pexels Collection)",
+      "alt_text": "의사결정 관련 스톡 사진 컬렉션",
+      "description": "30,000장 이상의 의사결정 관련 이미지로, 행동경제학과 넛지 개념의 다양한 비주얼 탐색 가능",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 5,
+      "url": "https://unsplash.com/s/photos/crossroads",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/s/photos/crossroads",
+      "photographer": "Various (Unsplash Collection)",
+      "alt_text": "갈림길과 교차로 이미지 컬렉션 — 선택의 순간을 상징",
+      "description": "500장 이상의 갈림길 이미지로, '사용자의 더 나은 결정을 이끄는' 기사 테마의 은유적 표현",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 6,
+      "url": "https://unsplash.com/photos/a-winding-forest-path-leads-uphill-toward-the-light-1aCxlDogCCM/download",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/photos/a-winding-forest-path-leads-uphill-toward-the-light-1aCxlDogCCM",
+      "photographer": "Alexandra",
+      "alt_text": "빛을 향해 오르막으로 이어지는 숲속 오솔길",
+      "description": "올바른 방향으로 사용자를 안내하는 넛지의 은유로, '기본값이 올바른 길이어야 한다'는 메시지와 부합",
+      "suggested_placement": "inline"
+    }
+  ]
+}

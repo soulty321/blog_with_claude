@@ -1,0 +1,67 @@
+{
+  "date": "2026-05-02",
+  "draft_file": "C:\\Users\\soult\\workSpace\\blog\\drafts\\2026-05-02-이념을-가시화하는-브랜드-로고는-어떻게-탄생하는가.md",
+  "search_keywords": ["brand logo design process", "visual identity creation", "logo design branding"],
+  "candidates": [
+    {
+      "id": 1,
+      "url": "https://www.pexels.com/photo/person-drawing-on-a-sketchbook-4238497/download",
+      "source_name": "Pexels",
+      "source_url": "https://www.pexels.com/photo/person-drawing-on-a-sketchbook-4238497/",
+      "photographer": "Ivan S",
+      "alt_text": "사무실에서 스케치북에 디자인을 그리는 디자이너의 모습",
+      "description": "로고 디자인 프로세스의 스케치 단계를 시각적으로 보여주며, 기사의 '6개월짜리 프로세스' 주제와 부합",
+      "suggested_placement": "cover"
+    },
+    {
+      "id": 2,
+      "url": "https://unsplash.com/s/photos/brand-identity",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/s/photos/brand-identity",
+      "photographer": "Various (Unsplash Collection)",
+      "alt_text": "브랜드 아이덴티티 디자인 작업물 컬렉션",
+      "description": "브랜드 아이덴티티 관련 100장 이상의 무료 이미지, 로고와 비주얼 시스템을 보여줌",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 3,
+      "url": "https://unsplash.com/s/photos/logo-design-process",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/s/photos/logo-design-process",
+      "photographer": "Various (Unsplash Collection)",
+      "alt_text": "로고 디자인 프로세스를 담은 이미지 컬렉션",
+      "description": "로고 디자인 과정의 다양한 단계를 보여주는 무료 이미지 컬렉션",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 4,
+      "url": "https://www.pexels.com/photo/photo-of-pen-on-top-of-notebook-3183170/download",
+      "source_name": "Pexels",
+      "source_url": "https://www.pexels.com/photo/photo-of-pen-on-top-of-notebook-3183170/",
+      "photographer": "fauxels",
+      "alt_text": "노트북 위에 놓인 펜 — 디자인 기획 단계를 상징",
+      "description": "킥오프 및 기획 단계를 상징하는 심플한 이미지로, 브랜드 정의 과정 섹션에 적합",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 5,
+      "url": "https://unsplash.com/s/photos/branding",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/s/photos/branding",
+      "photographer": "Various (Unsplash Collection)",
+      "alt_text": "브랜딩 작업 관련 다양한 디자인 이미지",
+      "description": "270장 이상의 브랜딩 관련 이미지로, 기업 이념과 시각적 표현의 연결을 보여줌",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 6,
+      "url": "https://www.pexels.com/search/branding%20identity/",
+      "source_name": "Pexels",
+      "source_url": "https://www.pexels.com/search/branding%20identity/",
+      "photographer": "Various (Pexels Collection)",
+      "alt_text": "브랜딩 아이덴티티 디자인 스톡 사진 컬렉션",
+      "description": "70,000장 이상의 브랜딩 아이덴티티 무료 이미지로, 다양한 브랜드 시각 요소 탐색 가능",
+      "suggested_placement": "inline"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "date": "2026-05-06",
+  "draft_file": "C:\\Users\\soult\\workSpace\\blog\\drafts\\2026-05-06-UXUI-교과서를-B2B-데이터-분석-서비스에-적용하는-법.md",
+  "search_keywords": ["UX UI design system", "B2B product design", "design principles application"],
+  "candidates": [
+    {
+      "id": 1,
+      "url": "https://www.pexels.com/photo/notebook-beside-the-iphone-on-table-196644/download",
+      "source_name": "Pexels",
+      "source_url": "https://www.pexels.com/photo/notebook-beside-the-iphone-on-table-196644/",
+      "photographer": "picjumbo.com",
+      "alt_text": "테이블 위의 와이어프레임 노트북과 아이폰 — UX 디자인 프로세스",
+      "description": "와이어프레임 스케치가 담긴 노트북으로, 교과서적 UX 원칙을 실무에 적용하는 기사 테마와 직접 연결",
+      "suggested_placement": "cover"
+    },
+    {
+      "id": 2,
+      "url": "https://www.pexels.com/photo/white-board-with-colorful-sticky-notes-15543114/download",
+      "source_name": "Pexels",
+      "source_url": "https://www.pexels.com/photo/white-board-with-colorful-sticky-notes-15543114/",
+      "photographer": "Pexels Photographer",
+      "alt_text": "색색의 포스트잇이 붙은 화이트보드 — UX 기획 워크숍",
+      "description": "UX 기획 과정을 보여주는 화이트보드로, '가시성', '일치성' 등 원칙 적용 워크숍 분위기 전달",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 3,
+      "url": "https://www.pexels.com/photo/sticky-notes-on-a-whiteboard-15543113/download",
+      "source_name": "Pexels",
+      "source_url": "https://www.pexels.com/photo/sticky-notes-on-a-whiteboard-15543113/",
+      "photographer": "Pexels Photographer",
+      "alt_text": "화이트보드에 정리된 포스트잇 메모들",
+      "description": "디자인 원칙을 정리하고 분류하는 과정을 시각적으로 표현, 점진적 공개 섹션에 적합",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 4,
+      "url": "https://www.pexels.com/photo/close-up-photo-of-sticky-notes-on-whiteboard-5990265/download",
+      "source_name": "Pexels",
+      "source_url": "https://www.pexels.com/photo/close-up-photo-of-sticky-notes-on-whiteboard-5990265/",
+      "photographer": "Pexels Photographer",
+      "alt_text": "화이트보드 위 포스트잇 메모 클로즈업 — 태스크 정리와 기획",
+      "description": "작업 정리와 우선순위 설정 장면으로, 기사의 실무 적용 가이드 분위기에 적합",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 5,
+      "url": "https://unsplash.com/s/photos/ux-ui-design",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/s/photos/ux-ui-design",
+      "photographer": "Various (Unsplash Collection)",
+      "alt_text": "UX/UI 디자인 작업 관련 이미지 컬렉션",
+      "description": "100장 이상의 UX/UI 디자인 이미지로, 디자인 시스템과 컴포넌트 관련 비주얼 탐색 가능",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 6,
+      "url": "https://pixabay.com/images/search/wireframe/",
+      "source_name": "Pixabay",
+      "source_url": "https://pixabay.com/images/search/wireframe/",
+      "photographer": "Various (Pixabay Collection)",
+      "alt_text": "와이어프레임 디자인 관련 무료 이미지 컬렉션",
+      "description": "300장 이상의 와이어프레임 이미지로, B2B 서비스 화면 설계 과정을 보여주는 비주얼 탐색 가능",
+      "suggested_placement": "inline"
+    }
+  ]
+}
