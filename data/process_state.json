@@ -203,6 +203,15 @@
       "questions_file": "data/questions/2026-05-17.json",
       "published_file": null,
       "images_file": "data/images/2026-05-17.json"
+    },
+    "2026-05-18": {
+      "source": "notebook.md#UXUI 디자인 교과서 (시각적 위계 설계 심화)",
+      "source_type": "notebook",
+      "draft_file": "drafts/2026-05-18-정보가-많을수록-흐릿해지는-이유-B2B-대시보드-시각적-위계-설계법.md",
+      "status": "questions_sent",
+      "questions_file": "data/questions/2026-05-18.json",
+      "published_file": null,
+      "images_file": "data/images/2026-05-18.json"
     }
   }
 }

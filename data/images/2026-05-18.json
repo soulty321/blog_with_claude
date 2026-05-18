@@ -1,0 +1,37 @@
+{
+  "date": "2026-05-18",
+  "draft_file": "drafts/2026-05-18-정보가-많을수록-흐릿해지는-이유-B2B-대시보드-시각적-위계-설계법.md",
+  "search_keywords": ["visual hierarchy dashboard", "B2B analytics UI design", "정보 시각화 위계"],
+  "candidates": [
+    {
+      "id": 1,
+      "url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/photos/data-dashboard-analytics",
+      "photographer": "Luke Chesser",
+      "alt_text": "깔끔한 데이터 대시보드 화면",
+      "description": "B2B 분석 대시보드의 시각적 위계 예시로 적합한 커버 이미지",
+      "suggested_placement": "cover"
+    },
+    {
+      "id": 2,
+      "url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/photos/laptop-analytics-charts",
+      "photographer": "Carlos Muza",
+      "alt_text": "노트북 화면에 표시된 분석 차트",
+      "description": "데이터 시각화 본문 삽입용",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 3,
+      "url": "https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/photos/minimalist-workspace",
+      "photographer": "Galymzhan Abdugalimov",
+      "alt_text": "여백이 강조된 미니멀 워크스페이스",
+      "description": "공백(여백)의 중요성을 시각적으로 표현하는 이미지",
+      "suggested_placement": "inline"
+    }
+  ]
+}
