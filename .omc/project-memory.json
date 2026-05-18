@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastScanned": 1776991766395,
+  "lastScanned": 1779026317091,
   "projectRoot": "C:\\Users\\soult\\workSpace\\blog",
   "techStack": {
     "languages": [],
@@ -36,7 +36,7 @@
       "path": "data",
       "purpose": "Data files",
       "fileCount": 1,
-      "lastAccessed": 1776991766371,
+      "lastAccessed": 1779026317058,
       "keyFiles": [
         "process_state.json"
       ]
@@ -44,17 +44,39 @@
     "drafts": {
       "path": "drafts",
       "purpose": null,
-      "fileCount": 1,
-      "lastAccessed": 1776991766371,
+      "fileCount": 22,
+      "lastAccessed": 1779026317059,
       "keyFiles": [
-        "2026-04-24_감정을_불러일으키는_광창.md"
+        "2026-04-24-기대를-뛰어넘는-UI를-만드는-법.md",
+        "2026-04-24_감정을_불러일으키는_광창.md",
+        "2026-04-25-유튜브-채널을-팬덤으로-만드는-네트워크-효과-전략.md",
+        "2026-04-26-미래를-여는-디자이너의-조건.md",
+        "2026-04-27-각자-준비해서-합치는-협업은-왜-실패하는가.md"
+      ]
+    },
+    "published": {
+      "path": "published",
+      "purpose": null,
+      "fileCount": 1,
+      "lastAccessed": 1779026317059,
+      "keyFiles": []
+    },
+    "text-style": {
+      "path": "text-style",
+      "purpose": null,
+      "fileCount": 3,
+      "lastAccessed": 1779026317060,
+      "keyFiles": [
+        "blog_1.md",
+        "blog_2.md",
+        "blog_3.md"
       ]
     },
     "일본 컨퍼런스 자료": {
       "path": "일본 컨퍼런스 자료",
       "purpose": null,
       "fileCount": 11,
-      "lastAccessed": 1776991766372,
+      "lastAccessed": 1779026317060,
       "keyFiles": [
         "ai가 밝혀내는 진정한 인사이트_original.md",
         "감정을 불러일으키는 광창_original.md",
@@ -67,8 +89,98 @@
   "hotPaths": [
     {
       "path": "data\\process_state.json",
+      "accessCount": 17,
+      "lastAccessed": 1779066641937,
+      "type": "file"
+    },
+    {
+      "path": "drafts\\2026-04-24_감정을_불러일으키는_광창.md",
+      "accessCount": 3,
+      "lastAccessed": 1779027866246,
+      "type": "file"
+    },
+    {
+      "path": "drafts\\2026-05-04-리텐션이-안-오르는-B2B-SaaS-훅-모델로-다시-설계하기.md",
       "accessCount": 2,
-      "lastAccessed": 1777388577065,
+      "lastAccessed": 1779026760591,
+      "type": "file"
+    },
+    {
+      "path": "drafts\\2026-05-09-게슈탈트-법칙으로-B2B-대시보드의-시각-위계-다시-짜기.md",
+      "accessCount": 2,
+      "lastAccessed": 1779026765469,
+      "type": "file"
+    },
+    {
+      "path": "data\\images\\2026-04-24-광창.json",
+      "accessCount": 2,
+      "lastAccessed": 1779028010159,
+      "type": "file"
+    },
+    {
+      "path": "drafts\\2026-04-24-기대를-뛰어넘는-UI를-만드는-법.md",
+      "accessCount": 2,
+      "lastAccessed": 1779028404222,
+      "type": "file"
+    },
+    {
+      "path": "data\\images\\2026-04-24-UI.json",
+      "accessCount": 2,
+      "lastAccessed": 1779028404393,
+      "type": "file"
+    },
+    {
+      "path": "drafts\\2026-04-25-유튜브-채널을-팬덤으로-만드는-네트워크-효과-전략.md",
+      "accessCount": 2,
+      "lastAccessed": 1779028678847,
+      "type": "file"
+    },
+    {
+      "path": "data\\images\\2026-04-25.json",
+      "accessCount": 2,
+      "lastAccessed": 1779028679033,
+      "type": "file"
+    },
+    {
+      "path": "drafts\\2026-04-26-미래를-여는-디자이너의-조건.md",
+      "accessCount": 2,
+      "lastAccessed": 1779028925663,
+      "type": "file"
+    },
+    {
+      "path": "data\\images\\2026-04-26.json",
+      "accessCount": 2,
+      "lastAccessed": 1779028925967,
+      "type": "file"
+    },
+    {
+      "path": "drafts\\2026-04-27-각자-준비해서-합치는-협업은-왜-실패하는가.md",
+      "accessCount": 2,
+      "lastAccessed": 1779029309446,
+      "type": "file"
+    },
+    {
+      "path": "drafts\\2026-04-28-UX-디자인-어디서-배워야-할까-교과서-없는-시대의-학습법.md",
+      "accessCount": 2,
+      "lastAccessed": 1779029643155,
+      "type": "file"
+    },
+    {
+      "path": "data\\images\\2026-04-28.json",
+      "accessCount": 2,
+      "lastAccessed": 1779029643629,
+      "type": "file"
+    },
+    {
+      "path": "drafts\\2026-05-01-AI-시대의-UX-디자이너는-무엇을-준비해야-하는가.md",
+      "accessCount": 2,
+      "lastAccessed": 1779053440102,
+      "type": "file"
+    },
+    {
+      "path": "drafts\\2026-05-02-이념을-가시화하는-브랜드-로고는-어떻게-탄생하는가.md",
+      "accessCount": 2,
+      "lastAccessed": 1779066664406,
       "type": "file"
     },
     {
@@ -81,6 +193,198 @@
       "path": "env.local",
       "accessCount": 1,
       "lastAccessed": 1777389748035,
+      "type": "file"
+    },
+    {
+      "path": "drafts\\2026-04-29-스타워즈로-미래-농업을-디자인한-이야기-Future-Story-Prototyping.md",
+      "accessCount": 1,
+      "lastAccessed": 1779026741862,
+      "type": "file"
+    },
+    {
+      "path": "drafts\\2026-05-03-인간-중심-설계는-끝났다-인간성-중심-디자인의-시대.md",
+      "accessCount": 1,
+      "lastAccessed": 1779026760491,
+      "type": "file"
+    },
+    {
+      "path": "drafts\\2026-05-07-B2B-분석-도구의-넛지-디자인-사용자의-더-나은-결정을-이끄는-방법.md",
+      "accessCount": 1,
+      "lastAccessed": 1779026760546,
+      "type": "file"
+    },
+    {
+      "path": "drafts\\2026-05-05-복잡한-데이터를-단순하게-B2B-분석-도구에서-쓰는-UX-법칙-5가지.md",
+      "accessCount": 1,
+      "lastAccessed": 1779026760570,
+      "type": "file"
+    },
+    {
+      "path": "drafts\\2026-05-06-UXUI-교과서를-B2B-데이터-분석-서비스에-적용하는-법.md",
+      "accessCount": 1,
+      "lastAccessed": 1779026760624,
+      "type": "file"
+    },
+    {
+      "path": "drafts\\2026-05-08-AI-에이전트-생태계-B2B-분석-서비스가-에이전트-친화적으로-진화하는-법.md",
+      "accessCount": 1,
+      "lastAccessed": 1779026764342,
+      "type": "file"
+    },
+    {
+      "path": "drafts\\2026-05-10-넛지의-그림자-슬러지를-피하는-B2B-분석-도구-설계법.md",
+      "accessCount": 1,
+      "lastAccessed": 1779026766440,
+      "type": "file"
+    },
+    {
+      "path": "drafts\\2026-05-11-B2B-분석-도구에-변동-보상을-넣어도-될까-훅-모델의-가장-위험한-단계.md",
+      "accessCount": 1,
+      "lastAccessed": 1779026767186,
+      "type": "file"
+    },
+    {
+      "path": "drafts\\2026-05-13-사용성-휴리스틱으로-B2B-분석-도구의-UX-문제를-진단하는-법.md",
+      "accessCount": 1,
+      "lastAccessed": 1779026767668,
+      "type": "file"
+    },
+    {
+      "path": "drafts\\2026-05-14-AI-에이전트가-도구를-쓰는-순간-PD가-설계해야-할-3가지-안전장치.md",
+      "accessCount": 1,
+      "lastAccessed": 1779026768416,
+      "type": "file"
+    },
+    {
+      "path": "drafts\\2026-05-15-한-번에-다-보여주지-마라-B2B-분석-도구의-프로그레시브-디스클로저-설계법.md",
+      "accessCount": 1,
+      "lastAccessed": 1779026769340,
+      "type": "file"
+    },
+    {
+      "path": "drafts\\2026-05-17-B2B-분석-도구에서-사용자를-재방문하게-만드는-트리거-설계법.md",
+      "accessCount": 1,
+      "lastAccessed": 1779026770108,
+      "type": "file"
+    },
+    {
+      "path": "data\\images\\2026-05-01.json",
+      "accessCount": 1,
+      "lastAccessed": 1779026842193,
+      "type": "file"
+    },
+    {
+      "path": "data\\images\\2026-05-02.json",
+      "accessCount": 1,
+      "lastAccessed": 1779026856903,
+      "type": "file"
+    },
+    {
+      "path": "data\\images\\2026-05-03.json",
+      "accessCount": 1,
+      "lastAccessed": 1779026874246,
+      "type": "file"
+    },
+    {
+      "path": "data\\images\\2026-05-08.json",
+      "accessCount": 1,
+      "lastAccessed": 1779026882164,
+      "type": "file"
+    },
+    {
+      "path": "data\\images\\2026-05-04.json",
+      "accessCount": 1,
+      "lastAccessed": 1779026893095,
+      "type": "file"
+    },
+    {
+      "path": "data\\images\\2026-05-09.json",
+      "accessCount": 1,
+      "lastAccessed": 1779026898334,
+      "type": "file"
+    },
+    {
+      "path": "data\\images\\2026-05-05.json",
+      "accessCount": 1,
+      "lastAccessed": 1779026909467,
+      "type": "file"
+    },
+    {
+      "path": "data\\images\\2026-05-10.json",
+      "accessCount": 1,
+      "lastAccessed": 1779026914867,
+      "type": "file"
+    },
+    {
+      "path": "data\\images\\2026-05-06.json",
+      "accessCount": 1,
+      "lastAccessed": 1779026926833,
+      "type": "file"
+    },
+    {
+      "path": "data\\images\\2026-04-27.json",
+      "accessCount": 1,
+      "lastAccessed": 1779026929029,
+      "type": "file"
+    },
+    {
+      "path": "data\\images\\2026-05-11.json",
+      "accessCount": 1,
+      "lastAccessed": 1779026931062,
+      "type": "file"
+    },
+    {
+      "path": "data\\images\\2026-05-07.json",
+      "accessCount": 1,
+      "lastAccessed": 1779026945176,
+      "type": "file"
+    },
+    {
+      "path": "data\\images\\2026-05-13.json",
+      "accessCount": 1,
+      "lastAccessed": 1779026945681,
+      "type": "file"
+    },
+    {
+      "path": "data\\images\\2026-04-29.json",
+      "accessCount": 1,
+      "lastAccessed": 1779026960320,
+      "type": "file"
+    },
+    {
+      "path": "data\\images\\2026-05-14.json",
+      "accessCount": 1,
+      "lastAccessed": 1779026963372,
+      "type": "file"
+    },
+    {
+      "path": "data\\images\\2026-05-15.json",
+      "accessCount": 1,
+      "lastAccessed": 1779026980862,
+      "type": "file"
+    },
+    {
+      "path": "data\\images\\2026-05-17.json",
+      "accessCount": 1,
+      "lastAccessed": 1779026993232,
+      "type": "file"
+    },
+    {
+      "path": "data\\questions\\2026-04-24-광창.json",
+      "accessCount": 1,
+      "lastAccessed": 1779027865068,
+      "type": "file"
+    },
+    {
+      "path": "data\\answers\\2026-04-24-광창.json",
+      "accessCount": 1,
+      "lastAccessed": 1779027865967,
+      "type": "file"
+    },
+    {
+      "path": "published\\2026-04-24-우주에서-배운-디자인-철학-POLA가-패키지에-감정을-담는-방법.md",
+      "accessCount": 1,
+      "lastAccessed": 1779028309596,
       "type": "file"
     }
   ],
