@@ -1,4 +1,4 @@
-name: Create Draft on Hashnode
+name: Notify Discord on Publish
 
 on:
   push:
@@ -8,7 +8,7 @@ on:
       - 'published/*.md'
 
 jobs:
-  publish:
+  notify:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -36,7 +36,7 @@ jobs:
             # Header message
             curl -s -X POST "$DISCORD_WEBHOOK_URL" \
               -H "Content-Type: application/json" \
-              -d "$(jq -n --arg c "✅ **실무자 관점이 보강된 완성본이 발행되었습니다!**\n📄 파일: \`$FILENAME\`" '{content: $c}')"
+              -d "$(jq -n --arg c "✅ **완성본 준비됨 — 브런치에 올려주세요!**\n📄 파일: \`$FILENAME\`" '{content: $c}')"
 
             sleep 1
 
@@ -63,76 +63,4 @@ jobs:
               CHUNK_NUM=$((CHUNK_NUM + 1))
               sleep 1
             done
-          done
-
-      - name: Create Draft on Hashnode
-        if: steps.changed.outputs.files != ''
-        env:
-          HASHNODE_API_TOKEN: ${{ secrets.HASHNODE_API_TOKEN }}
-          HASHNODE_PUBLICATION_ID: ${{ secrets.HASHNODE_PUBLICATION_ID }}
-        run: |
-          for FILE in ${{ steps.changed.outputs.files }}; do
-            if [ ! -f "$FILE" ]; then continue; fi
-
-            TITLE=$(head -1 "$FILE" | sed 's/^# //')
-            CONTENT=$(cat "$FILE")
-
-            # Extract cover image URL from HTML comment
-            COVER_IMAGE=$(grep -oP '<!-- cover_image: \K[^ ]+(?= -->)' "$FILE" || echo "")
-            # Remove the HTML comment from contentMarkdown
-            CONTENT=$(echo "$CONTENT" | sed '/<!-- cover_image:.*-->/d')
-
-            QUERY='mutation CreateDraft($input: CreateDraftInput!) { createDraft(input: $input) { draft { id slug title } } }'
-
-            # Build payload with or without cover image
-            if [ -n "$COVER_IMAGE" ]; then
-              PAYLOAD=$(jq -n \
-                --arg query "$QUERY" \
-                --arg title "$TITLE" \
-                --arg content "$CONTENT" \
-                --arg pubId "$HASHNODE_PUBLICATION_ID" \
-                --arg coverUrl "$COVER_IMAGE" \
-                '{
-                  query: $query,
-                  variables: {
-                    input: {
-                      title: $title,
-                      contentMarkdown: $content,
-                      publicationId: $pubId,
-                      coverImageOptions: {
-                        coverImageURL: $coverUrl
-                      },
-                      tags: []
-                    }
-                  }
-                }')
-            else
-              PAYLOAD=$(jq -n \
-                --arg query "$QUERY" \
-                --arg title "$TITLE" \
-                --arg content "$CONTENT" \
-                --arg pubId "$HASHNODE_PUBLICATION_ID" \
-                '{
-                  query: $query,
-                  variables: {
-                    input: {
-                      title: $title,
-                      contentMarkdown: $content,
-                      publicationId: $pubId,
-                      tags: []
-                    }
-                  }
-                }')
-            fi
-
-            RESPONSE=$(curl -s -L -X POST "https://gql.hashnode.com" \
-              -H "Content-Type: application/json" \
-              -H "Authorization: $HASHNODE_API_TOKEN" \
-              -d "$PAYLOAD")
-
-            echo "Hashnode response: $RESPONSE"
-
-            DRAFT_ID=$(echo "$RESPONSE" | jq -r '.data.createDraft.draft.id // "error"')
-            DRAFT_TITLE=$(echo "$RESPONSE" | jq -r '.data.createDraft.draft.title // "unknown"')
-            echo "Draft created: $DRAFT_TITLE (id: $DRAFT_ID)"
           done

@@ -4,7 +4,7 @@
 
 - **GitHub:** `soulty321/blog_with_claude` (private)
 - **로컬 경로:** `C:\Users\soult\workSpace\blog\`
-- **발행 플랫폼:** Hashnode (GitHub Actions로 자동 발행)
+- **발행 플랫폼:** 브런치 (수동 업로드, 공개 타이밍 직접 결정)
 - **소스:** 일본 컨퍼런스 자료 11개 (7개 발행 완료, 4개 진행 중)
 
 ---
@@ -25,7 +25,8 @@
 3. 사용자가 질문에 답변 입력
 4. 이미지 후보에서 커버 1장 + 인라인 2-3장 선택
 5. 실무자 관점 보강 + 이미지 삽입 → 완성본 작성
-6. `published/` push → Hashnode 자동 발행 + Discord 완성본 알림
+6. `published/` push → Discord 완성본 알림
+7. 브런치 작가의 서랍에 수동 업로드 → 공개 타이밍에 맞춰 발행
 
 ---
 
