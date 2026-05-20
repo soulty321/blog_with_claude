@@ -1,0 +1,67 @@
+{
+  "date": "2026-05-20",
+  "draft_file": "drafts/2026-05-20-디폴트-옵션이-B2B-분석-도구의-온보딩-이탈을-막는-방법.md",
+  "search_keywords": ["default option", "onboarding UX", "B2B dashboard", "empty state", "nudge"],
+  "candidates": [
+    {
+      "id": 1,
+      "url": "https://www.pexels.com/search/data%20dashboard/",
+      "source_name": "Pexels",
+      "source_url": "https://www.pexels.com/search/data%20dashboard/",
+      "photographer": "Pexels Contributors",
+      "alt_text": "B2B 데이터 대시보드 화면 컬렉션",
+      "description": "커버 이미지 후보 — 디폴트로 채워진 대시보드 첫 화면을 표현",
+      "suggested_placement": "cover"
+    },
+    {
+      "id": 2,
+      "url": "https://www.freepik.com/free-photos-vectors/empty-dashboard",
+      "source_name": "Freepik",
+      "source_url": "https://www.freepik.com/free-photos-vectors/empty-dashboard",
+      "photographer": "Freepik Contributors",
+      "alt_text": "빈 대시보드 일러스트",
+      "description": "본문 도입부 — '빈 캔버스' 문제 시각화",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 3,
+      "url": "https://dribbble.com/search/b2b-dashboard",
+      "source_name": "Dribbble",
+      "source_url": "https://dribbble.com/search/b2b-dashboard",
+      "photographer": "Dribbble Designers",
+      "alt_text": "B2B 분석 도구 대시보드 디자인 모음",
+      "description": "본문 1~2장 사이 — 잘 설정된 첫 화면 예시",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 4,
+      "url": "https://craftwork.design/blog/20-illustrations-for-onboarding-and-ux",
+      "source_name": "Craftwork",
+      "source_url": "https://craftwork.design/blog/20-illustrations-for-onboarding-and-ux",
+      "photographer": "Craftwork",
+      "alt_text": "온보딩 일러스트 컬렉션",
+      "description": "본문 2장 — 온보딩 흐름 일러스트",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 5,
+      "url": "https://www.figma.com/templates/dashboard-designs/",
+      "source_name": "Figma Community",
+      "source_url": "https://www.figma.com/templates/dashboard-designs/",
+      "photographer": "Figma Community Designers",
+      "alt_text": "대시보드 디자인 템플릿",
+      "description": "본문 3장 — 디폴트 위젯 사전 배치 사례",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 6,
+      "url": "https://www.istockphoto.com/photos/analytics-dashboard",
+      "source_name": "iStock",
+      "source_url": "https://www.istockphoto.com/photos/analytics-dashboard",
+      "photographer": "iStock Contributors",
+      "alt_text": "분석 대시보드 측정 지표 시각화",
+      "description": "본문 4장 — 디폴트 효과 측정 지표 시각화",
+      "suggested_placement": "inline"
+    }
+  ]
+}

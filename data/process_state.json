@@ -212,6 +212,15 @@
       "questions_file": "data/questions/2026-05-18.json",
       "published_file": null,
       "images_file": "data/images/2026-05-18.json"
+    },
+    "2026-05-20": {
+      "source": "notebook.md#넛지 (디폴트 옵션 심화)",
+      "source_type": "notebook",
+      "draft_file": "drafts/2026-05-20-디폴트-옵션이-B2B-분석-도구의-온보딩-이탈을-막는-방법.md",
+      "status": "questions_sent",
+      "questions_file": "data/questions/2026-05-20.json",
+      "images_file": "data/images/2026-05-20.json",
+      "published_file": null
     }
   }
 }
