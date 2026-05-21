@@ -221,6 +221,15 @@
       "questions_file": "data/questions/2026-05-20.json",
       "images_file": "data/images/2026-05-20.json",
       "published_file": null
+    },
+    "2026-05-21": {
+      "source": "notebook.md#UX의 법칙들 (도허티 임계값 & 체감 성능 심화)",
+      "source_type": "notebook",
+      "draft_file": "drafts/2026-05-21-체감-성능을-끌어올리는-B2B-분석-도구의-도허티-임계값-설계법.md",
+      "status": "questions_sent",
+      "questions_file": "data/questions/2026-05-21.json",
+      "images_file": "data/images/2026-05-21.json",
+      "published_file": null
     }
   }
 }

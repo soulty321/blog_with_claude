@@ -1,0 +1,68 @@
+{
+  "date": "2026-05-21",
+  "draft_file": "drafts/2026-05-21-체감-성능을-끌어올리는-B2B-분석-도구의-도허티-임계값-설계법.md",
+  "search_keywords": ["B2B 분석 대시보드", "analytics dashboard", "체감 성능", "loading speed", "도허티 임계값", "hourglass time flow"],
+  "candidates": [
+    {
+      "id": 1,
+      "url": "https://unsplash.com/s/photos/analytics-dashboard",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/s/photos/analytics-dashboard",
+      "photographer": "Unsplash contributors",
+      "alt_text": "데이터 분석 대시보드 화면",
+      "description": "글의 핵심 소재인 B2B 분석 대시보드를 대표하는 커버 후보",
+      "suggested_placement": "cover"
+    },
+    {
+      "id": 2,
+      "url": "https://unsplash.com/s/photos/website-speed",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/s/photos/website-speed",
+      "photographer": "Unsplash contributors",
+      "alt_text": "웹사이트 속도/성능 개념 이미지",
+      "description": "체감 성능·응답 속도 섹션에 어울리는 이미지",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 3,
+      "url": "https://pixabay.com/illustrations/stopwatch-time-management-time-2061855/",
+      "source_name": "Pixabay",
+      "source_url": "https://pixabay.com/illustrations/stopwatch-time-management-time-2061855/",
+      "photographer": "Pixabay contributor",
+      "alt_text": "스톱워치와 시간 관리 일러스트",
+      "description": "도허티 임계값(400ms)·응답 시간을 상징하는 스톱워치 이미지",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 4,
+      "url": "https://unsplash.com/s/photos/data-analytics",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/s/photos/data-analytics",
+      "photographer": "Unsplash contributors",
+      "alt_text": "데이터 분석 시각화",
+      "description": "점진적 렌더링·차트 위젯 설명 섹션 보조 이미지",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 5,
+      "url": "https://pixabay.com/illustrations/hourglass-flow-of-time-broken-time-3257906/",
+      "source_name": "Pixabay",
+      "source_url": "https://pixabay.com/illustrations/hourglass-flow-of-time-broken-time-3257906/",
+      "photographer": "Pixabay contributor",
+      "alt_text": "시간의 흐름을 표현한 모래시계 일러스트",
+      "description": "기다림/체감 대기 시간을 은유하는 모래시계 이미지",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 6,
+      "url": "https://www.pexels.com/search/speed/",
+      "source_name": "Pexels",
+      "source_url": "https://www.pexels.com/search/speed/",
+      "photographer": "Pexels contributors",
+      "alt_text": "속도/흐름(flow) 개념 이미지",
+      "description": "몰입(flow)·빠른 흐름을 표현하는 마무리 섹션 이미지",
+      "suggested_placement": "inline"
+    }
+  ],
+  "fallback_note": "원격 실행 환경에서 WebSearch는 직접 이미지 파일 URL이 아닌 갤러리/소스 페이지만 반환했습니다. 각 candidate의 url/source_url은 후보 페이지이며, /blog-enhance 실행 시 해당 페이지에서 최종 이미지 파일을 선택·다운로드해야 합니다."
+}
