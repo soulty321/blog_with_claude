@@ -230,6 +230,15 @@
       "questions_file": "data/questions/2026-05-21.json",
       "images_file": "data/images/2026-05-21.json",
       "published_file": null
+    },
+    "2026-05-22": {
+      "source": "notebook.md#훅: 일상을 사로잡는 제품의 비밀 (투자 단계 심화)",
+      "source_type": "notebook",
+      "draft_file": "drafts/2026-05-22-B2B-분석-도구는-왜-저장으로-사용자를-붙잡는가-훅-모델-투자-단계-설계법.md",
+      "status": "questions_sent",
+      "questions_file": "data/questions/2026-05-22.json",
+      "images_file": "data/images/2026-05-22.json",
+      "published_file": null
     }
   }
 }

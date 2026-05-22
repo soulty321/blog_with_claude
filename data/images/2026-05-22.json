@@ -1,0 +1,57 @@
+{
+  "date": "2026-05-22",
+  "draft_file": "drafts/2026-05-22-B2B-분석-도구는-왜-저장으로-사용자를-붙잡는가-훅-모델-투자-단계-설계법.md",
+  "search_keywords": ["훅 모델", "habit loop", "데이터 대시보드", "data dashboard", "user retention"],
+  "candidates": [
+    {
+      "id": 1,
+      "url": "https://unsplash.com/s/photos/data-dashboard",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/s/photos/data-dashboard",
+      "photographer": "Carlos Muza / Luke Chesser 외",
+      "alt_text": "노트북 화면에 표시된 데이터 분석 대시보드와 차트",
+      "description": "글의 핵심 소재인 B2B 분석 도구를 직관적으로 보여주는 대시보드 이미지 — 커버에 적합",
+      "suggested_placement": "cover"
+    },
+    {
+      "id": 2,
+      "url": "https://unsplash.com/s/photos/data-visualization",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/s/photos/data-visualization",
+      "photographer": "Stephen Dawson 외",
+      "alt_text": "다양한 그래프로 구성된 데이터 시각화 화면",
+      "description": "본문 1(저장된 가치=맥락)에서 세그먼트/지표/뷰를 설명할 때 인라인으로 사용",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 3,
+      "url": "https://productgrowth.in/insights/consumer/habit-loop-product-design/",
+      "source_name": "Product Growth (개념 다이어그램 참고)",
+      "source_url": "https://productgrowth.in/insights/consumer/habit-loop-product-design/",
+      "photographer": "-",
+      "alt_text": "트리거→행동→보상→투자로 순환하는 훅 모델 다이어그램",
+      "description": "본문 3(투자가 다음 트리거를 장전)의 순환 구조 설명에 도식 참고. 직접 게재 시 자체 제작 권장",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 4,
+      "url": "https://unsplash.com/s/photos/analytics-dashboard",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/s/photos/analytics-dashboard",
+      "photographer": "path digital 외",
+      "alt_text": "분석 대시보드를 함께 보며 논의하는 팀",
+      "description": "본문 2(보상 직후 투자 요청) 또는 협업/공유 맥락의 인라인 이미지",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 5,
+      "url": "https://www.pexels.com/search/customer%20retention/",
+      "source_name": "Pexels",
+      "source_url": "https://www.pexels.com/search/customer%20retention/",
+      "photographer": "-",
+      "alt_text": "고객 리텐션/충성도를 상징하는 일러스트",
+      "description": "마치며(축적이 곧 리텐션 곡선) 결론부 인라인 또는 썸네일 보조 이미지",
+      "suggested_placement": "inline"
+    }
+  ]
+}
