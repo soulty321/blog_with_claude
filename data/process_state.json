@@ -239,6 +239,15 @@
       "questions_file": "data/questions/2026-05-22.json",
       "images_file": "data/images/2026-05-22.json",
       "published_file": null
+    },
+    "2026-05-23": {
+      "source": "notebook.md#훅: 일상을 사로잡는 제품의 비밀 (행동 단계 심화)",
+      "source_type": "notebook",
+      "draft_file": "drafts/2026-05-23-사용자는-동기가-아니라-쉬움으로-움직인다-B2B-분석-도구의-훅-모델-행동-단계-설계법.md",
+      "status": "questions_sent",
+      "questions_file": "data/questions/2026-05-23.json",
+      "images_file": "data/images/2026-05-23.json",
+      "published_file": null
     }
   }
 }

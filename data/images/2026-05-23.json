@@ -1,0 +1,67 @@
+{
+  "date": "2026-05-23",
+  "draft_file": "drafts/2026-05-23-사용자는-동기가-아니라-쉬움으로-움직인다-B2B-분석-도구의-훅-모델-행동-단계-설계법.md",
+  "search_keywords": ["행동 설계", "behavior design", "사용자 온보딩", "user onboarding", "포그 행동 모델", "fogg behavior model"],
+  "candidates": [
+    {
+      "id": 1,
+      "url": "https://unsplash.com/s/photos/onboarding",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/s/photos/onboarding",
+      "photographer": "Unsplash 기여자 다수",
+      "alt_text": "앱 온보딩 화면을 사용하는 사용자의 손",
+      "description": "글의 핵심인 '첫 행동을 쉽게 만드는 온보딩'을 직관적으로 보여주는 커버 이미지",
+      "suggested_placement": "cover"
+    },
+    {
+      "id": 2,
+      "url": "https://www.behaviormodel.org/",
+      "source_name": "Fogg Behavior Model (BJ Fogg, 공식 사이트)",
+      "source_url": "https://www.behaviormodel.org/",
+      "photographer": "-",
+      "alt_text": "동기·능력·프롬프트의 곡선 관계를 보여주는 B=MAT 행동 모델 도식",
+      "description": "들어가며/본문 1의 B=MAT 공식과 동기-능력 트레이드오프 곡선 설명에 참고. 직접 게재 시 자체 제작 권장(출처 표기 필요)",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 3,
+      "url": "https://unsplash.com/s/photos/ux-design",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/s/photos/ux-design",
+      "photographer": "Unsplash 기여자 다수",
+      "alt_text": "와이어프레임과 UI 화면을 설계하는 디자이너의 작업 장면",
+      "description": "본문 2(핵심 행동 정의·경로 단순화) 설명 구간의 인라인 이미지",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 4,
+      "url": "https://unsplash.com/s/photos/analytics-dashboard",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/s/photos/analytics-dashboard",
+      "photographer": "Luke Chesser / path digital 외",
+      "alt_text": "지표와 차트가 정리된 분석 대시보드 화면",
+      "description": "본문 3(원클릭 진입점·기본값)에서 B2B 분석 도구 맥락을 보여주는 인라인 이미지",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 5,
+      "url": "https://www.pexels.com/search/onboarding%20process%20steps/",
+      "source_name": "Pexels",
+      "source_url": "https://www.pexels.com/search/onboarding%20process%20steps/",
+      "photographer": "Pexels 기여자 다수",
+      "alt_text": "단계별 프로세스를 시각화한 이미지",
+      "description": "본문 4(점진적 디스클로저·단계적 능력 요구) 설명에 적합한 인라인 이미지",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 6,
+      "url": "https://pixabay.com/images/search/customer%20onboarding/",
+      "source_name": "Pixabay",
+      "source_url": "https://pixabay.com/images/search/customer%20onboarding/",
+      "photographer": "Pixabay 기여자 다수",
+      "alt_text": "고객 온보딩/첫 사용 경험을 상징하는 일러스트",
+      "description": "마치며(첫 가치까지의 시간) 결론부 인라인 또는 썸네일 보조 이미지",
+      "suggested_placement": "inline"
+    }
+  ]
+}
