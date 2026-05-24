@@ -1,0 +1,68 @@
+{
+  "date": "2026-05-24",
+  "draft_file": "drafts/2026-05-24-자주-쓰는-기능일수록-크고-가깝게-B2B-분석-도구의-피츠의-법칙-설계법.md",
+  "search_keywords": ["피츠의 법칙", "Fitts's law", "B2B 대시보드", "analytics dashboard", "UX UI", "touch target"],
+  "candidates": [
+    {
+      "id": 1,
+      "url": "https://pixabay.com/illustrations/dashboard-data-analytics-graph-7559210/",
+      "source_name": "Pixabay",
+      "source_url": "https://pixabay.com/illustrations/dashboard-data-analytics-graph-7559210/",
+      "photographer": "Pixabay contributor",
+      "alt_text": "데이터 분석 대시보드와 그래프 일러스트레이션",
+      "description": "글 전체 주제(B2B 분석 도구 화면)를 대표하는 대시보드 일러스트 — 커버 후보",
+      "suggested_placement": "cover"
+    },
+    {
+      "id": 2,
+      "url": "https://unsplash.com/s/photos/analytics-dashboard",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/s/photos/analytics-dashboard",
+      "photographer": "Various (Unsplash)",
+      "alt_text": "분석 대시보드 화면 사진 모음",
+      "description": "밀도 높은 분석 화면 본문 삽화 후보 (상업적 사용 무료, 출처 표기 불필요)",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 3,
+      "url": "https://unsplash.com/s/photos/data-dashboard",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/s/photos/data-dashboard",
+      "photographer": "Various (Unsplash)",
+      "alt_text": "데이터 대시보드 화면 사진 모음",
+      "description": "표·차트가 빽빽한 화면 예시 — '화면 밀도' 섹션 삽화 후보",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 4,
+      "url": "https://www.pexels.com/search/data%20dashboard/",
+      "source_name": "Pexels",
+      "source_url": "https://www.pexels.com/search/data%20dashboard/",
+      "photographer": "Various (Pexels)",
+      "alt_text": "데이터 대시보드 스톡 사진 모음",
+      "description": "실제 업무 화면 톤의 사진 후보 — 도입부 또는 마무리 삽화",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 5,
+      "url": "https://pixabay.com/illustrations/search/ux%20ui/",
+      "source_name": "Pixabay",
+      "source_url": "https://pixabay.com/illustrations/search/ux%20ui/",
+      "photographer": "Various (Pixabay)",
+      "alt_text": "UX/UI 일러스트레이션 모음",
+      "description": "버튼·타깃·상호작용 개념을 추상화한 UX/UI 일러스트 — 피츠의 법칙 개념 설명 삽화 후보",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 6,
+      "url": "https://pixabay.com/illustrations/search/ux%20design/",
+      "source_name": "Pixabay",
+      "source_url": "https://pixabay.com/illustrations/search/ux%20design/",
+      "photographer": "Various (Pixabay)",
+      "alt_text": "UX 디자인 일러스트레이션 모음",
+      "description": "터치/포인터 인터랙션 추상 일러스트 — 모바일·터치 섹션 삽화 후보",
+      "suggested_placement": "inline"
+    }
+  ],
+  "fallback_note": "이 실행 환경에는 이미지 검색 API가 없어 WebSearch로 확인 가능한 실제 출처 페이지(컬렉션/검색 결과 및 특정 일러스트 1건)만 수집했습니다. 각 항목의 url은 직접 이미지 파일 링크가 아니라 출처 페이지이므로, 발행 전 해당 페이지에서 라이선스를 확인하고 실제 에셋을 골라 직접 다운로드/삽입하세요."
+}
