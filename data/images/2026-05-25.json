@@ -1,0 +1,68 @@
+{
+  "date": "2026-05-25",
+  "draft_file": "drafts/2026-05-25-끝내지-못한-일이-사용자를-다시-부른다-B2B-분석-도구의-자이가르닉-효과-설계법.md",
+  "search_keywords": ["자이가르닉 효과", "Zeigarnik effect", "진행 막대", "progress bar", "온보딩 체크리스트", "onboarding checklist", "미완성 작업", "unfinished task"],
+  "candidates": [
+    {
+      "id": 1,
+      "url": "https://pixabay.com/vectors/progress-progress-bar-graphic-4718613/",
+      "source_name": "Pixabay",
+      "source_url": "https://pixabay.com/vectors/progress-progress-bar-graphic-4718613/",
+      "photographer": "Pixabay contributor",
+      "alt_text": "부분적으로 채워진 진행 막대 그래픽 일러스트레이션",
+      "description": "글의 핵심 은유인 '비어 있는 칸(미완성 진행률)'을 가장 직관적으로 보여주는 진행 막대 일러스트 — 커버 후보",
+      "suggested_placement": "cover"
+    },
+    {
+      "id": 2,
+      "url": "https://pixabay.com/illustrations/download-progress-bar-success-rise-961797/",
+      "source_name": "Pixabay",
+      "source_url": "https://pixabay.com/illustrations/download-progress-bar-success-rise-961797/",
+      "photographer": "Pixabay contributor",
+      "alt_text": "완료를 향해 차오르는 진행 막대 일러스트레이션",
+      "description": "거의 다 찬 진행 막대 — '70~90% 지점에서 완료 욕구가 강해진다'는 2장 온보딩 섹션 삽화 후보",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 3,
+      "url": "https://unsplash.com/s/photos/checklist",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/s/photos/checklist",
+      "photographer": "Various (Unsplash)",
+      "alt_text": "체크리스트 사진 모음",
+      "description": "온보딩 체크리스트(완료/미완료 항목)를 표현할 삽화 후보 — 상업적 사용 무료, 출처 표기 불필요",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 4,
+      "url": "https://unsplash.com/s/photos/to-do-list",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/s/photos/to-do-list",
+      "photographer": "Various (Unsplash)",
+      "alt_text": "끝내지 못한 할 일 목록 사진 모음",
+      "description": "'끝내지 못한 일'이라는 자이가르닉 효과의 핵심 정서를 담은 to-do 리스트 사진 — 도입부 삽화 후보",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 5,
+      "url": "https://www.pexels.com/search/checklist/",
+      "source_name": "Pexels",
+      "source_url": "https://www.pexels.com/search/checklist/",
+      "photographer": "Various (Pexels)",
+      "alt_text": "체크리스트 스톡 사진 모음",
+      "description": "실제 업무 톤의 체크리스트 사진 — 3장 '저장된 작업/드래프트' 섹션 삽화 후보",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 6,
+      "url": "https://unsplash.com/s/photos/analytics-dashboard",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/s/photos/analytics-dashboard",
+      "photographer": "Various (Unsplash)",
+      "alt_text": "분석 대시보드 화면 사진 모음",
+      "description": "B2B 분석 도구라는 글의 배경(분석 워크플로우)을 보여줄 대시보드 화면 — 본문/마무리 삽화 후보",
+      "suggested_placement": "inline"
+    }
+  ],
+  "fallback_note": "이 실행 환경에는 직접 이미지 다운로드 API가 없어 WebSearch로 확인 가능한 실제 출처(특정 일러스트 2건 + 컬렉션/검색 결과 4건)만 수집했습니다. 각 항목의 url은 직접 이미지 파일 링크가 아니라 출처 페이지이므로, 발행 전 해당 페이지에서 라이선스를 확인하고 실제 에셋을 골라 직접 다운로드/삽입하세요."
+}
