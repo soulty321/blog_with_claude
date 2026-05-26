@@ -266,6 +266,15 @@
       "questions_file": "data/questions/2026-05-25.json",
       "images_file": "data/images/2026-05-25.json",
       "published_file": null
+    },
+    "2026-05-26": {
+      "source": "notebook.md#UX의 법칙들 (잭의 법칙 심화)",
+      "source_type": "notebook",
+      "draft_file": "drafts/2026-05-26-사용자는-이미-다른-도구에-익숙하다-B2B-분석-도구의-잭의-법칙-설계법.md",
+      "status": "questions_sent",
+      "questions_file": "data/questions/2026-05-26.json",
+      "images_file": "data/images/2026-05-26.json",
+      "published_file": null
     }
   }
 }

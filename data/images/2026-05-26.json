@@ -1,0 +1,68 @@
+{
+  "date": "2026-05-26",
+  "draft_file": "drafts/2026-05-26-사용자는-이미-다른-도구에-익숙하다-B2B-분석-도구의-잭의-법칙-설계법.md",
+  "search_keywords": ["잭의 법칙", "Jakob's Law", "디자인 컨벤션", "design convention", "B2B 대시보드", "B2B dashboard", "UX 표준", "UX standard", "사용자 멘탈 모델", "user mental model"],
+  "candidates": [
+    {
+      "id": 1,
+      "url": "https://unsplash.com/s/photos/dashboard-ui",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/s/photos/dashboard-ui",
+      "photographer": "Various (Unsplash)",
+      "alt_text": "여러 분석 대시보드 화면 사진 모음",
+      "description": "잭의 법칙의 핵심 — 사용자가 이미 익숙한 '비슷한 대시보드 UI' 컬렉션. 도입부 또는 커버 후보.",
+      "suggested_placement": "cover"
+    },
+    {
+      "id": 2,
+      "url": "https://www.pexels.com/search/spreadsheet/",
+      "source_name": "Pexels",
+      "source_url": "https://www.pexels.com/search/spreadsheet/",
+      "photographer": "Various (Pexels)",
+      "alt_text": "스프레드시트와 표 형태의 데이터 작업 사진 모음",
+      "description": "사용자의 가장 깊은 멘탈 모델인 Excel·스프레드시트를 대표하는 이미지 — 1장 '왜 B2B 분석 도구일수록 강력한가' 섹션 삽화 후보.",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 3,
+      "url": "https://unsplash.com/s/photos/keyboard-shortcut",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/s/photos/keyboard-shortcut",
+      "photographer": "Various (Unsplash)",
+      "alt_text": "키보드 단축키 사진 모음",
+      "description": "Cmd+K 등 사실상 표준이 된 단축키를 시각화 — 2장 '키보드 단축키' 영역 삽화 후보.",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 4,
+      "url": "https://pixabay.com/images/search/chart%20interface/",
+      "source_name": "Pixabay",
+      "source_url": "https://pixabay.com/images/search/chart%20interface/",
+      "photographer": "Various (Pixabay)",
+      "alt_text": "차트 인터페이스 일러스트 모음",
+      "description": "차트 인터랙션 컨벤션(호버 툴팁, 범례 토글, 줌)을 묘사할 일러스트 — 2장 '차트 인터랙션 컨벤션' 섹션 삽화 후보.",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 5,
+      "url": "https://www.pexels.com/search/onboarding/",
+      "source_name": "Pexels",
+      "source_url": "https://www.pexels.com/search/onboarding/",
+      "photographer": "Various (Pexels)",
+      "alt_text": "온보딩 화면/투어 관련 사진 모음",
+      "description": "새 인터랙션 도입 시의 코치마크·온보딩 투어를 대표하는 사진 — 4장 '체크리스트' 또는 5장 '전환 비용 보조' 섹션 삽화 후보.",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 6,
+      "url": "https://unsplash.com/s/photos/ai-chat-interface",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/s/photos/ai-chat-interface",
+      "photographer": "Various (Unsplash)",
+      "alt_text": "AI 채팅 인터페이스 사진 모음",
+      "description": "ChatGPT 이후 형성 중인 AI 어시스턴트 컨벤션을 표현 — 3장 'AI 어시스턴트의 대화형 인터랙션' 섹션 삽화 후보.",
+      "suggested_placement": "inline"
+    }
+  ],
+  "fallback_note": "이 실행 환경에는 직접 이미지 다운로드 API가 없어 검색 결과 페이지 URL만 수집했습니다. 각 url은 직접 이미지 파일 링크가 아니라 출처 페이지이므로, 발행 전 해당 페이지에서 라이선스를 확인하고 실제 에셋을 골라 직접 다운로드/삽입하세요."
+}
