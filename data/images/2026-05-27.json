@@ -1,0 +1,67 @@
+{
+  "date": "2026-05-27",
+  "draft_file": "drafts/2026-05-27-선택지가-많을수록-사용자는-떠난다-힉의-법칙으로-본-B2B-대시보드-단순화-전략.md",
+  "search_keywords": ["힉의 법칙", "Hick's Law", "B2B 대시보드", "analytics dashboard", "decision making", "paradox of choice"],
+  "candidates": [
+    {
+      "id": 1,
+      "url": "https://unsplash.com/s/photos/analytics-dashboard",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/s/photos/analytics-dashboard",
+      "photographer": "Unsplash 컬렉션",
+      "alt_text": "분석 대시보드 화면 — 다양한 차트와 필터가 배치된 B2B 대시보드 예시",
+      "description": "글의 본문 3~4장(B2B 대시보드 단순화 전략)을 시각화. 커버 이미지로 적합.",
+      "suggested_placement": "cover"
+    },
+    {
+      "id": 2,
+      "url": "https://unsplash.com/s/photos/decision-making",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/s/photos/decision-making",
+      "photographer": "Unsplash 컬렉션",
+      "alt_text": "결정 앞에서 망설이는 손과 옵션 선택지",
+      "description": "1장(힉의 법칙 정의) 또는 결론 직전 도입부에서 결정 시간의 본질을 환기.",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 3,
+      "url": "https://unsplash.com/s/photos/paradox",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/s/photos/paradox",
+      "photographer": "Unsplash 컬렉션",
+      "alt_text": "선택의 역설을 상징하는 갈림길 / 다중 선택지 이미지",
+      "description": "2장(B2B 대시보드가 특히 취약한 이유)에서 선택의 역설을 강조하는 인서트.",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 4,
+      "url": "https://unsplash.com/s/photos/data-analytics",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/s/photos/data-analytics",
+      "photographer": "Unsplash 컬렉션",
+      "alt_text": "데이터 분석 화면 — 다양한 지표와 필터가 노출된 대시보드",
+      "description": "3장(인지 부하 패턴 4가지) 첫머리에 사용해 'B2B 데이터 제품의 정글'을 표현.",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 5,
+      "url": "https://unsplash.com/s/photos/ux-design",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/s/photos/ux-design",
+      "photographer": "Unsplash 컬렉션",
+      "alt_text": "UX 디자이너의 작업 모습 — 와이어프레임/포스트잇",
+      "description": "5장(실무 체크리스트) 또는 결론에서 '디자이너의 책임'을 강조.",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 6,
+      "url": "https://unsplash.com/s/photos/dashboards",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/s/photos/dashboards",
+      "photographer": "Unsplash 컬렉션",
+      "alt_text": "여러 대시보드 화면이 나열된 모니터들",
+      "description": "결론 직전, '데이터의 정글 vs 데이터의 지도' 메타포 시각화.",
+      "suggested_placement": "inline"
+    }
+  ]
+}
