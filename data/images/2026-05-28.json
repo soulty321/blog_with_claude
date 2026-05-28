@@ -1,0 +1,68 @@
+{
+  "date": "2026-05-28",
+  "draft_file": "drafts/2026-05-28-7개의-마법-B2B-대시보드를-구하는-밀러의-법칙.md",
+  "search_keywords": ["B2B 대시보드", "data dashboard", "밀러의 법칙", "Miller's law", "정보 청킹", "data visualization"],
+  "fallback_note": "WebSearch가 개별 이미지 URL 대신 컬렉션 페이지만 반환했습니다. Unsplash 검색 페이지를 후보로 등록했으며, /blog-enhance 단계에서 직접 사진을 선택해 교체하는 것을 권장합니다.",
+  "candidates": [
+    {
+      "id": 1,
+      "url": "https://unsplash.com/s/photos/data-dashboard",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/s/photos/data-dashboard",
+      "photographer": "Various (Luke Chesser, Carlos Muza 등 추천)",
+      "alt_text": "B2B 데이터 대시보드 화면 클로즈업",
+      "description": "글 도입부의 '16개 위젯과 23개 필터' 장면을 시각화하기 좋은 데이터 대시보드 사진 컬렉션. 모니터에 차트가 가득한 컷이 적합.",
+      "suggested_placement": "cover"
+    },
+    {
+      "id": 2,
+      "url": "https://unsplash.com/s/photos/analytics-dashboard",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/s/photos/analytics-dashboard",
+      "photographer": "Various",
+      "alt_text": "여러 KPI 카드가 그리드로 배치된 분석 대시보드",
+      "description": "본문 패턴 A(시각적 그룹핑) 섹션에 사용. 그리드 간격으로 청크가 갈리는 모습을 보여주는 컷 추천.",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 3,
+      "url": "https://unsplash.com/s/photos/data-visualization",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/s/photos/data-visualization",
+      "photographer": "Various (Conny Schneider 추천)",
+      "alt_text": "복잡한 그래프와 차트가 겹쳐진 데이터 시각화 추상 이미지",
+      "description": "'정보를 줄이지 못해도 구조는 줄일 수 있다' 문단을 시각화. 추상적인 데이터 그래픽 컷이 적합.",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 4,
+      "url": "https://unsplash.com/s/photos/data-analysis",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/s/photos/data-analysis",
+      "photographer": "Various",
+      "alt_text": "노트북 화면을 보며 데이터를 분석하는 실무자",
+      "description": "후속 연구 4±1 섹션(슬랙 알림·회의 직전 5분 자투리 시간)을 묘사. 멀티태스킹 상황을 보여주는 컷 추천.",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 5,
+      "url": "https://unsplash.com/s/photos/dashboard-panel",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/s/photos/dashboard-panel",
+      "photographer": "Various",
+      "alt_text": "정리된 위젯 카드 레이아웃의 대시보드 화면",
+      "description": "패턴 B(의미적 그룹핑) 섹션에 사용. 카테고리별로 정렬된 위젯 컷 추천.",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 6,
+      "url": "https://unsplash.com/s/photos/digital-dashboard",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/s/photos/digital-dashboard",
+      "photographer": "Various",
+      "alt_text": "디지털 분석 대시보드 화면",
+      "description": "결론부의 '대시보드 개선 회의' 장면에 사용. 깔끔한 디지털 분석 화면 컷 추천.",
+      "suggested_placement": "inline"
+    }
+  ]
+}

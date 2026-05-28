@@ -284,6 +284,15 @@
       "questions_file": "data/questions/2026-05-27.json",
       "images_file": "data/images/2026-05-27.json",
       "published_file": null
+    },
+    "2026-05-28": {
+      "source": "notebook.md#UX의 법칙들 (밀러의 법칙 심화)",
+      "source_type": "notebook",
+      "draft_file": "drafts/2026-05-28-7개의-마법-B2B-대시보드를-구하는-밀러의-법칙.md",
+      "status": "questions_sent",
+      "questions_file": "data/questions/2026-05-28.json",
+      "images_file": "data/images/2026-05-28.json",
+      "published_file": null
     }
   }
 }
