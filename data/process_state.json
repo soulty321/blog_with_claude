@@ -293,6 +293,15 @@
       "questions_file": "data/questions/2026-05-28.json",
       "images_file": "data/images/2026-05-28.json",
       "published_file": null
+    },
+    "2026-05-29": {
+      "source": "notebook.md#UX의 법칙들 (포스텔의 법칙 심화)",
+      "source_type": "notebook",
+      "draft_file": "drafts/2026-05-29-포스텔의-법칙-관대한-입력-엄격한-출력.md",
+      "status": "questions_sent",
+      "questions_file": "data/questions/2026-05-29.json",
+      "images_file": "data/images/2026-05-29.json",
+      "published_file": null
     }
   }
 }

@@ -1,0 +1,67 @@
+{
+  "date": "2026-05-29",
+  "draft_file": "drafts/2026-05-29-포스텔의-법칙-관대한-입력-엄격한-출력.md",
+  "search_keywords": ["포스텔의 법칙", "Postel's Law", "form input UX", "data input design", "robustness principle"],
+  "candidates": [
+    {
+      "id": 1,
+      "url": "https://unsplash.com/s/photos/ux-design",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/s/photos/ux-design",
+      "photographer": "Various",
+      "alt_text": "UX 디자이너가 폼 입력 인터페이스를 설계하는 모습",
+      "description": "관대한 입력의 핵심 — 사용자 폼 UX 설계 컨셉, 커버 이미지로 적합",
+      "suggested_placement": "cover"
+    },
+    {
+      "id": 2,
+      "url": "https://unsplash.com/s/photos/ui-ux-design",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/s/photos/ui-ux-design",
+      "photographer": "Various",
+      "alt_text": "다양한 형식의 데이터 입력 폼이 늘어선 모바일 화면",
+      "description": "전화번호·이메일·날짜 등 다양한 입력 형식을 보여주는 폼 UI 사례",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 3,
+      "url": "https://www.freepik.com/vectors/input-data",
+      "source_name": "Freepik",
+      "source_url": "https://www.freepik.com/vectors/input-data",
+      "photographer": "Freepik",
+      "alt_text": "데이터 입력 벡터 일러스트 — 화살표가 박스로 들어가는 모습",
+      "description": "관대한 입력 → 엄격한 출력 변환의 메타포로 적합",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 4,
+      "url": "https://www.freepik.com/vectors/form-interface",
+      "source_name": "Freepik",
+      "source_url": "https://www.freepik.com/vectors/form-interface",
+      "photographer": "Freepik",
+      "alt_text": "복잡한 폼 인터페이스가 깔끔한 출력으로 변환되는 일러스트",
+      "description": "정규화 로직 — 다양한 입력을 표준 포맷으로 통일하는 컨셉",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 5,
+      "url": "https://unsplash.com/s/photos/user-experience-design",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/s/photos/user-experience-design",
+      "photographer": "Various",
+      "alt_text": "사용자가 SaaS 대시보드에서 데이터를 입력하는 모습",
+      "description": "B2B SaaS 환경에서의 폼 UX — 결론부 일러스트로 적합",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 6,
+      "url": "https://unsplash.com/s/photos/ux-designer",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/s/photos/ux-designer",
+      "photographer": "Various",
+      "alt_text": "디자이너가 와이어프레임에서 입력 필드 흐름을 다듬는 모습",
+      "description": "포스텔의 법칙을 적용한 폼 설계 프로세스 시각화",
+      "suggested_placement": "inline"
+    }
+  ]
+}
