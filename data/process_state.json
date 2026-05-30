@@ -302,6 +302,15 @@
       "questions_file": "data/questions/2026-05-29.json",
       "images_file": "data/images/2026-05-29.json",
       "published_file": null
+    },
+    "2026-05-30": {
+      "source": "notebook.md#UX의 법칙들 (테슬러의 법칙 / 복잡성 보존)",
+      "source_type": "notebook",
+      "draft_file": "drafts/2026-05-30-테슬러의-법칙-복잡성을-어디로-옮길-것인가.md",
+      "status": "questions_sent",
+      "questions_file": "data/questions/2026-05-30.json",
+      "images_file": "data/images/2026-05-30.json",
+      "published_file": null
     }
   }
 }
