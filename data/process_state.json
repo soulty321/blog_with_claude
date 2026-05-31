@@ -311,6 +311,15 @@
       "questions_file": "data/questions/2026-05-30.json",
       "images_file": "data/images/2026-05-30.json",
       "published_file": null
+    },
+    "2026-05-31": {
+      "source": "notebook.md#UX의 법칙들 (피크엔드 법칙 심화)",
+      "source_type": "notebook",
+      "draft_file": "drafts/2026-05-31-사용자가-기억하는-건-시작도-과정도-아니다-피크엔드-법칙.md",
+      "status": "questions_sent",
+      "questions_file": "data/questions/2026-05-31.json",
+      "images_file": "data/images/2026-05-31.json",
+      "published_file": null
     }
   }
 }

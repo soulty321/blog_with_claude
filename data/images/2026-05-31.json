@@ -1,0 +1,58 @@
+{
+  "date": "2026-05-31",
+  "draft_file": "drafts/2026-05-31-사용자가-기억하는-건-시작도-과정도-아니다-피크엔드-법칙.md",
+  "search_keywords": ["피크엔드 법칙", "Peak-End Rule", "데이터 대시보드", "UX memory design"],
+  "candidates": [
+    {
+      "id": 1,
+      "url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/photos/macbook-pro-near-white-open-book-bzqU01v-G54",
+      "photographer": "Carlos Muza",
+      "alt_text": "노트북 위에 펼쳐진 데이터 대시보드 화면",
+      "description": "데이터 분석 서비스의 핵심 시각화 — 피크 모먼트를 다루는 본문 흐름에 적합",
+      "suggested_placement": "cover"
+    },
+    {
+      "id": 2,
+      "url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/photos/person-using-macbook-pro-LJ9KY8pIH3E",
+      "photographer": "Luke Chesser",
+      "alt_text": "대시보드의 차트를 분석하는 사용자",
+      "description": "사용자가 인사이트를 발견하는 '긍정적 피크' 순간 시각화",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 3,
+      "url": "https://images.unsplash.com/photo-1483058712412-4245e9b90334",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/photos/turned-on-gray-laptop-computer-oqStl2L5oxI",
+      "photographer": "Carl Heyerdahl",
+      "alt_text": "사용자가 종료한 노트북 화면",
+      "description": "세션의 끝(End) 섹션에 대응 — 마지막 인상 디자인",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 4,
+      "url": "https://images.unsplash.com/photo-1543286386-2e659306cd6c",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/photos/persons-hand-on-glass-pZld9PiPDno",
+      "photographer": "Christina @ wocintechchat.com",
+      "alt_text": "협업 중인 디자이너의 손과 차트",
+      "description": "공유 및 협업 모먼트 — 본문 2의 임팩트 모먼트 예시",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 5,
+      "url": "https://images.unsplash.com/photo-1554200876-56c2f25224fa",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/photos/black-android-smartphone-Sx2bMzkkW2g",
+      "photographer": "Daniel Korpai",
+      "alt_text": "에러 메시지 화면",
+      "description": "부정적 피크 — 본문 2의 에러 처리 사례에 활용",
+      "suggested_placement": "inline"
+    }
+  ],
+  "fallback_note": "WebSearch 미실행 환경에서 큐레이션된 Unsplash 후보 5장. 실제 사용 전 라이선스/URL 재확인 권장."
+}
