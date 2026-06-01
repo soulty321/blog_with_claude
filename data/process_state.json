@@ -320,6 +320,15 @@
       "questions_file": "data/questions/2026-05-31.json",
       "images_file": "data/images/2026-05-31.json",
       "published_file": null
+    },
+    "2026-06-01": {
+      "source": "notebook.md#UX의 법칙들 (파레토 원칙 심화)",
+      "source_type": "notebook",
+      "draft_file": "drafts/2026-06-01-사용자의-20-퍼센트가-모든-가치를-만든다-B2B-분석-도구의-파레토-법칙-설계법.md",
+      "status": "questions_sent",
+      "questions_file": "data/questions/2026-06-01.json",
+      "images_file": "data/images/2026-06-01.json",
+      "published_file": null
     }
   }
 }
