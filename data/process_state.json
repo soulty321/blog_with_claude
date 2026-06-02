@@ -329,6 +329,15 @@
       "questions_file": "data/questions/2026-06-01.json",
       "images_file": "data/images/2026-06-01.json",
       "published_file": null
+    },
+    "2026-06-02": {
+      "source": "notebook.md#UX의 법칙들 (미학적-사용성 효과 심화)",
+      "source_type": "notebook",
+      "draft_file": "drafts/2026-06-02-예쁜-B2B-분석-도구가-더-잘-쓰이는-이유-미학적-사용성-효과-설계법.md",
+      "status": "questions_sent",
+      "questions_file": "data/questions/2026-06-02.json",
+      "images_file": "data/images/2026-06-02.json",
+      "published_file": null
     }
   }
 }
