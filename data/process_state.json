@@ -338,6 +338,15 @@
       "questions_file": "data/questions/2026-06-02.json",
       "images_file": "data/images/2026-06-02.json",
       "published_file": null
+    },
+    "2026-06-03": {
+      "source": "notebook.md#AI 에이전트 생태계 (휴먼-인-더-루프 심화)",
+      "source_type": "notebook",
+      "draft_file": "drafts/2026-06-03-AI-에이전트-시대의-휴먼인더루프-디자인-신뢰를-설계하는-법.md",
+      "status": "questions_sent",
+      "questions_file": "data/questions/2026-06-03.json",
+      "images_file": "data/images/2026-06-03.json",
+      "published_file": null
     }
   }
 }
