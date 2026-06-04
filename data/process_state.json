@@ -347,6 +347,15 @@
       "questions_file": "data/questions/2026-06-03.json",
       "images_file": "data/images/2026-06-03.json",
       "published_file": null
+    },
+    "2026-06-04": {
+      "source": "notebook.md#넛지 (프레이밍 효과 심화)",
+      "source_type": "notebook",
+      "draft_file": "drafts/2026-06-04-같은-사실-다른-결정-프레이밍-효과로-디자인하는-법.md",
+      "status": "questions_sent",
+      "questions_file": "data/questions/2026-06-04.json",
+      "images_file": "data/images/2026-06-04.json",
+      "published_file": null
     }
   }
 }
