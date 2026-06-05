@@ -356,6 +356,15 @@
       "questions_file": "data/questions/2026-06-04.json",
       "images_file": "data/images/2026-06-04.json",
       "published_file": null
+    },
+    "2026-06-05": {
+      "source": "notebook.md#AI 에이전트 생태계 (멀티 에이전트 오케스트레이션 심화)",
+      "source_type": "notebook",
+      "draft_file": "drafts/2026-06-05-AI-에이전트-멀티에이전트-오케스트레이션.md",
+      "status": "questions_sent",
+      "questions_file": "data/questions/2026-06-05.json",
+      "images_file": "data/images/2026-06-05.json",
+      "published_file": null
     }
   }
 }
