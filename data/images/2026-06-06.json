@@ -1,0 +1,67 @@
+{
+  "date": "2026-06-06",
+  "draft_file": "drafts/2026-06-06-달라-보이는-것만-기억된다-B2B-분석-도구의-폰-레스토프-효과-설계법.md",
+  "search_keywords": ["폰 레스토프 효과", "B2B 대시보드", "Von Restorff effect", "analytics dashboard", "visual hierarchy", "anomaly highlight"],
+  "candidates": [
+    {
+      "id": 1,
+      "url": "https://unsplash.com/s/photos/analytics-dashboard",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/s/photos/analytics-dashboard",
+      "photographer": "Luke Chesser (collection)",
+      "alt_text": "다양한 차트와 KPI 카드로 구성된 B2B 분석 대시보드",
+      "description": "글의 메인 주제인 'B2B 분석 도구'를 시각적으로 직접 대표하는 이미지. 본문에서 다루는 '카드 그리드'와 '대시보드 화면'의 시각적 컨텍스트를 가장 잘 전달한다.",
+      "suggested_placement": "cover"
+    },
+    {
+      "id": 2,
+      "url": "https://unsplash.com/photos/business-data-analytics-dashboard-and-kpi-performance-bbWnj4u-AJc",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/photos/business-data-analytics-dashboard-and-kpi-performance-bbWnj4u-AJc",
+      "photographer": "Unsplash Contributor",
+      "alt_text": "KPI 카드가 빼곡한 비즈니스 데이터 분석 대시보드 화면",
+      "description": "'모든 지표가 강조되어 강조가 사라진' Before 상태를 보여주는 비주얼로 적합. 도입부 또는 '실패 패턴' 섹션에 인라인 배치 추천.",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 3,
+      "url": "https://unsplash.com/s/photos/data-visualization",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/s/photos/data-visualization",
+      "photographer": "Various (Unsplash 컬렉션)",
+      "alt_text": "다양한 색상 코딩으로 구성된 데이터 시각화 컬렉션",
+      "description": "강조 토큰의 카테고리화(임계치 초과/추세 반전/신규 인사이트)를 설명하는 'Step 2' 섹션 인라인 이미지.",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 4,
+      "url": "https://www.pexels.com/search/focus/",
+      "source_name": "Pexels",
+      "source_url": "https://www.pexels.com/search/focus/",
+      "photographer": "Pexels Contributors",
+      "alt_text": "흐릿한 배경 속 한 점에 또렷이 맞춰진 초점",
+      "description": "폰 레스토프 효과의 핵심 메타포 — '평범한 배경 위 단 하나의 신호'. 본문 'Step 1: 기본 톤 낮추기' 또는 결론부 인라인 이미지로 적합.",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 5,
+      "url": "https://unsplash.com/illustrations/colorful-abstract-data-visualization-elements-on-dark-background-JkHe5j5ke6k",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/illustrations/colorful-abstract-data-visualization-elements-on-dark-background-JkHe5j5ke6k",
+      "photographer": "Unsplash Contributor",
+      "alt_text": "어두운 배경 위 한 개의 강조된 데이터 시각화 요소",
+      "description": "Anomaly 카드 리디자인(After) 섹션 인라인 이미지 — '회색 바다 속 검은 점'을 직접적으로 시각화.",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 6,
+      "url": "https://pixabay.com/images/search/concentration/",
+      "source_name": "Pixabay",
+      "source_url": "https://pixabay.com/images/search/concentration/",
+      "photographer": "Pixabay Contributors",
+      "alt_text": "한 곳에 집중된 시선을 표현한 추상 이미지",
+      "description": "결론부 — '사용자가 진짜로 봐야 할 것을 다르게 보이게 만든다'는 메시지를 강화하는 보조 이미지.",
+      "suggested_placement": "inline"
+    }
+  ]
+}

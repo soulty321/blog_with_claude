@@ -365,6 +365,15 @@
       "questions_file": "data/questions/2026-06-05.json",
       "images_file": "data/images/2026-06-05.json",
       "published_file": null
+    },
+    "2026-06-06": {
+      "source": "notebook.md#UX의 법칙들 (폰 레스토프 효과 심화)",
+      "source_type": "notebook",
+      "draft_file": "drafts/2026-06-06-달라-보이는-것만-기억된다-B2B-분석-도구의-폰-레스토프-효과-설계법.md",
+      "status": "questions_sent",
+      "questions_file": "data/questions/2026-06-06.json",
+      "images_file": "data/images/2026-06-06.json",
+      "published_file": null
     }
   }
 }
