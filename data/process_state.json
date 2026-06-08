@@ -383,6 +383,15 @@
       "questions_file": "data/questions/2026-06-07.json",
       "images_file": "data/images/2026-06-07.json",
       "published_file": null
+    },
+    "2026-06-08": {
+      "source": "notebook.md#넛지 (사회적 증거 심화)",
+      "source_type": "notebook",
+      "draft_file": "drafts/2026-06-08-당신은-혼자가-아니다-B2B-SaaS에서-사회적-증거를-설계하는-법.md",
+      "status": "questions_sent",
+      "questions_file": "data/questions/2026-06-08.json",
+      "images_file": "data/images/2026-06-08.json",
+      "published_file": null
     }
   }
 }
