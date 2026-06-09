@@ -392,6 +392,15 @@
       "questions_file": "data/questions/2026-06-08.json",
       "images_file": "data/images/2026-06-08.json",
       "published_file": null
+    },
+    "2026-06-09": {
+      "source": "notebook.md#UXUI 디자인 교과서 (정보 아키텍처 심화)",
+      "source_type": "notebook",
+      "draft_file": "drafts/2026-06-09-사용자는-네비게이션이-아니라-멘탈모델을-따라온다-B2B-분석-도구의-정보-아키텍처-설계법.md",
+      "status": "questions_sent",
+      "questions_file": "data/questions/2026-06-09.json",
+      "images_file": "data/images/2026-06-09.json",
+      "published_file": null
     }
   }
 }

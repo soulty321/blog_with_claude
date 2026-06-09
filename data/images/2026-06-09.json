@@ -1,0 +1,67 @@
+{
+  "date": "2026-06-09",
+  "draft_file": "drafts/2026-06-09-사용자는-네비게이션이-아니라-멘탈모델을-따라온다-B2B-분석-도구의-정보-아키텍처-설계법.md",
+  "search_keywords": ["정보 아키텍처", "Information Architecture", "Dashboard", "B2B SaaS Navigation", "UX Design"],
+  "candidates": [
+    {
+      "id": 1,
+      "url": "https://unsplash.com/s/photos/data-dashboard",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/s/photos/data-dashboard",
+      "photographer": "Various",
+      "alt_text": "다양한 데이터 대시보드 이미지 컬렉션",
+      "description": "분석 도구의 모니터링 단계를 보여주는 커버 후보. IA의 출발점이 의사결정 흐름임을 시각적으로 전달",
+      "suggested_placement": "cover"
+    },
+    {
+      "id": 2,
+      "url": "https://unsplash.com/s/photos/ux-design",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/s/photos/ux-design",
+      "photographer": "Various",
+      "alt_text": "UX 디자인 작업 화면",
+      "description": "본문 1번 — IA를 의사결정 경로로 정의하는 섹션에 사용",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 3,
+      "url": "https://unsplash.com/s/photos/user-experience-design",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/s/photos/user-experience-design",
+      "photographer": "Various",
+      "alt_text": "사용자 경험 디자인 워크숍",
+      "description": "본문 2번 — 카드 소팅 워크숍 설명에 적합",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 4,
+      "url": "https://unsplash.com/s/photos/dashboard-panel",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/s/photos/dashboard-panel",
+      "photographer": "Various",
+      "alt_text": "대시보드 패널과 차트",
+      "description": "본문 3번 — 분석 사이클과 이동성 설명에 사용",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 5,
+      "url": "https://unsplash.com/s/photos/saas",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/s/photos/saas",
+      "photographer": "Various",
+      "alt_text": "SaaS 인터페이스 디자인",
+      "description": "본문 4번 — 라벨링과 사용자 어휘 섹션에 사용",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 6,
+      "url": "https://unsplash.com/s/photos/user-interface",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/s/photos/user-interface",
+      "photographer": "Various",
+      "alt_text": "사용자 인터페이스 화면",
+      "description": "결론 섹션 — IA가 화면이 아닌 지도라는 메시지 강화",
+      "suggested_placement": "inline"
+    }
+  ]
+}
