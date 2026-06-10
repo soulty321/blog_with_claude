@@ -1,0 +1,58 @@
+{
+  "date": "2026-06-10",
+  "draft_file": "drafts/2026-06-10-손실-회피-심리를-활용한-UX-설계-같은-가치-다른-반응을-만드는-법.md",
+  "search_keywords": ["loss aversion", "손실 회피", "UX design", "empty state dashboard", "behavioral economics"],
+  "candidates": [
+    {
+      "id": 1,
+      "url": "https://unsplash.com/s/photos/ux-design",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/s/photos/ux-design",
+      "photographer": "Unsplash collection",
+      "alt_text": "UX 디자이너의 화면 작업 환경",
+      "description": "커버 이미지 — 디자이너가 화면 위 와이어프레임을 분석하는 장면. 손실 회피의 'UX 설계' 맥락을 시각적으로 잡아준다.",
+      "suggested_placement": "cover"
+    },
+    {
+      "id": 2,
+      "url": "https://unsplash.com/s/photos/ui%2Fux-design",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/s/photos/ui%2Fux-design",
+      "photographer": "Unsplash collection",
+      "alt_text": "데이터 대시보드 비교 위젯 화면",
+      "description": "본문 '비교 대시보드 — 나의 어제 vs 오늘' 섹션에 적합한 차트·대시보드 UI 이미지",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 3,
+      "url": "https://uxdesign.cc/cognitive-biases-loss-aversion-925149360f46",
+      "source_name": "UX Collective (illustration reference)",
+      "source_url": "https://uxdesign.cc/cognitive-biases-loss-aversion-925149360f46",
+      "photographer": "Michael Gearon",
+      "alt_text": "손실 회피 개념을 설명하는 일러스트레이션",
+      "description": "본문 '손실 회피의 본질' 섹션에서 전망 이론 곡선/이득-손실 비대칭을 보여주는 참조 이미지. 직접 사용보다는 자체 일러스트 제작 가이드로 활용.",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 4,
+      "url": "https://www.eleken.co/blog-posts/empty-state-ux",
+      "source_name": "Eleken (empty state examples)",
+      "source_url": "https://www.eleken.co/blog-posts/empty-state-ux",
+      "photographer": "Eleken design team",
+      "alt_text": "비어있는 대시보드 화면 예시",
+      "description": "본문 '빈 상태(Empty State)를 기회 손실의 거울로' 섹션 참조 이미지",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 5,
+      "url": "https://unsplash.com/s/photos/ux-designer",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/s/photos/ux-designer",
+      "photographer": "Unsplash collection",
+      "alt_text": "디자이너의 노트와 스케치",
+      "description": "본문 '결론' 섹션 클로징 이미지로 적합 — 손으로 그리는 설계 과정의 정직한 느낌",
+      "suggested_placement": "inline"
+    }
+  ],
+  "fallback_note": "WebSearch 결과로부터 직접 다운로드 URL은 제한적이며 Unsplash 검색 결과 페이지 URL을 후보로 저장. 발행 시 실제 이미지 1장 선택 후 Unsplash 직링크로 교체 필요."
+}

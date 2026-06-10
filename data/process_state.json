@@ -401,6 +401,15 @@
       "questions_file": "data/questions/2026-06-09.json",
       "images_file": "data/images/2026-06-09.json",
       "published_file": null
+    },
+    "2026-06-10": {
+      "source": "notebook.md#넛지 (손실 회피 심화)",
+      "source_type": "notebook",
+      "draft_file": "drafts/2026-06-10-손실-회피-심리를-활용한-UX-설계-같은-가치-다른-반응을-만드는-법.md",
+      "status": "questions_sent",
+      "questions_file": "data/questions/2026-06-10.json",
+      "images_file": "data/images/2026-06-10.json",
+      "published_file": null
     }
   }
 }
