@@ -1,0 +1,67 @@
+{
+  "date": "2026-06-11",
+  "draft_file": "drafts/2026-06-11-AI-에이전트의-장기-메모리는-어떻게-설계되는가.md",
+  "search_keywords": ["AI agent memory", "long-term memory", "data dashboard", "neural network brain", "privacy data control"],
+  "candidates": [
+    {
+      "id": 1,
+      "url": "https://unsplash.com/s/photos/abstract-brain",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/s/photos/abstract-brain",
+      "photographer": "Unsplash community",
+      "alt_text": "추상적인 뇌·신경망 이미지 — AI 에이전트의 기억 시스템 비유",
+      "description": "장기 메모리·단기 메모리 개념을 시각화하기에 적합한 추상 뇌 이미지 컬렉션. 글의 도입부 표지(cover)로 활용 가능.",
+      "suggested_placement": "cover"
+    },
+    {
+      "id": 2,
+      "url": "https://www.pexels.com/search/neural%20network%20brain/",
+      "source_name": "Pexels",
+      "source_url": "https://www.pexels.com/search/neural%20network%20brain/",
+      "photographer": "Pexels community",
+      "alt_text": "뉴럴 네트워크 시각화",
+      "description": "뉴런이 서로 연결된 형태의 시각화 — 시맨틱/에피소딕 메모리가 결합되는 섹션의 보조 이미지로 활용.",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 3,
+      "url": "https://unsplash.com/s/photos/data-dashboard",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/s/photos/data-dashboard",
+      "photographer": "Luke Chesser",
+      "alt_text": "B2B 데이터 대시보드 UI 화면",
+      "description": "5장의 'B2B 데이터 분석 서비스 적용 예시' 섹션에 사용할 대시보드 이미지.",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 4,
+      "url": "https://unsplash.com/photos/business-data-analytics-dashboard-and-kpi-performance-bbWnj4u-AJc",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/photos/business-data-analytics-dashboard-and-kpi-performance-bbWnj4u-AJc",
+      "photographer": "Unsplash 사용자",
+      "alt_text": "비즈니스 KPI 대시보드 사진",
+      "description": "워킹 노트(Scratchpad) 개념을 설명하는 부분에서 사용. 분석 작업의 임시 기록 맥락.",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 5,
+      "url": "https://pixabay.com/illustrations/gdpr-gdpr-icon-privacy-protection-3374574/",
+      "source_name": "Pixabay",
+      "source_url": "https://pixabay.com/illustrations/gdpr-gdpr-icon-privacy-protection-3374574/",
+      "photographer": "Pixabay 기여자",
+      "alt_text": "GDPR 잊혀질 권리 아이콘",
+      "description": "'잊혀질 권리' 섹션에 사용. 메모리 삭제·프라이버시 통제 카피와 매칭.",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 6,
+      "url": "https://pixabay.com/images/search/thinking%20silhouette/",
+      "source_name": "Pixabay",
+      "source_url": "https://pixabay.com/images/search/thinking%20silhouette/",
+      "photographer": "Pixabay 기여자",
+      "alt_text": "기억을 떠올리는 사람 실루엣",
+      "description": "결론(마치며) 섹션에서 사용. 사용자가 자신의 데이터 기억을 통제하는 모습을 상징.",
+      "suggested_placement": "inline"
+    }
+  ]
+}

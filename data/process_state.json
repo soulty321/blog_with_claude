@@ -410,6 +410,15 @@
       "questions_file": "data/questions/2026-06-10.json",
       "images_file": "data/images/2026-06-10.json",
       "published_file": null
+    },
+    "2026-06-11": {
+      "source": "notebook.md#AI 에이전트 생태계 (장기 메모리 & 컨텍스트 관리 심화)",
+      "source_type": "notebook",
+      "draft_file": "drafts/2026-06-11-AI-에이전트의-장기-메모리는-어떻게-설계되는가.md",
+      "status": "questions_sent",
+      "questions_file": "data/questions/2026-06-11.json",
+      "images_file": "data/images/2026-06-11.json",
+      "published_file": null
     }
   }
 }
