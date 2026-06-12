@@ -419,6 +419,15 @@
       "questions_file": "data/questions/2026-06-11.json",
       "images_file": "data/images/2026-06-11.json",
       "published_file": null
+    },
+    "2026-06-12": {
+      "source": "notebook.md#넛지 (앵커링 효과 심화)",
+      "source_type": "notebook",
+      "draft_file": "drafts/2026-06-12-앵커링-효과-숫자-하나가-사용자-선택을-바꾸는-법.md",
+      "status": "questions_sent",
+      "questions_file": "data/questions/2026-06-12.json",
+      "images_file": "data/images/2026-06-12.json",
+      "published_file": null
     }
   }
 }
