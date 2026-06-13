@@ -428,6 +428,15 @@
       "questions_file": "data/questions/2026-06-12.json",
       "images_file": "data/images/2026-06-12.json",
       "published_file": null
+    },
+    "2026-06-13": {
+      "source": "notebook.md#넛지 (멘탈 어카운팅 심화)",
+      "source_type": "notebook",
+      "draft_file": "drafts/2026-06-13-멘탈-어카운팅으로-읽는-B2B-대시보드.md",
+      "status": "questions_sent",
+      "questions_file": "data/questions/2026-06-13.json",
+      "images_file": "data/images/2026-06-13.json",
+      "published_file": null
     }
   }
 }

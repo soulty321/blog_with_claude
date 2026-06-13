@@ -1,0 +1,67 @@
+{
+  "date": "2026-06-13",
+  "draft_file": "drafts/2026-06-13-멘탈-어카운팅으로-읽는-B2B-대시보드.md",
+  "search_keywords": ["mental accounting", "analytics dashboard", "data dashboard", "behavioral economics wallet", "B2B analytics"],
+  "candidates": [
+    {
+      "id": 1,
+      "url": "https://unsplash.com/s/photos/analytics-dashboard",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/s/photos/analytics-dashboard",
+      "photographer": "Unsplash contributors",
+      "alt_text": "다수의 KPI 카드가 정렬된 분석 대시보드 화면",
+      "description": "본문 1번 '사용자는 지표를 통장처럼 묶어서 본다' 섹션에 사용. 다양한 KPI 카드가 한 화면에 노출된 분석 대시보드는 멘탈 어카운트 통장 비유에 직관적으로 부합.",
+      "suggested_placement": "cover"
+    },
+    {
+      "id": 2,
+      "url": "https://unsplash.com/s/photos/data-dashboard",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/s/photos/data-dashboard",
+      "photographer": "Unsplash contributors",
+      "alt_text": "데이터 대시보드 화면",
+      "description": "2번 '절대값보다 기준선' 섹션에 사용. 비교 기준선이 노출된 시각화 이미지로 KPI 보조 지표의 중요성을 설명.",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 3,
+      "url": "https://unsplash.com/s/photos/business-dashboard",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/s/photos/business-dashboard",
+      "photographer": "Unsplash contributors",
+      "alt_text": "비즈니스 대시보드 화면",
+      "description": "3번 '필터 전이' 섹션에 사용. 필터/세그먼트 컨트롤이 있는 비즈니스 대시보드 이미지로 통장 전환 개념을 시각화.",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 4,
+      "url": "https://www.pexels.com/photo/wallet-with-money-17674676/",
+      "source_name": "Pexels",
+      "source_url": "https://www.pexels.com/photo/wallet-with-money-17674676/",
+      "photographer": "Pexels contributor",
+      "alt_text": "지갑 속의 돈",
+      "description": "들어가며 섹션의 '월급 100만 vs 보너스 100만 vs 길에서 주운 100만' 비유를 보강. 멘탈 어카운팅의 원형이 되는 통장 비유와 직접 연결.",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 5,
+      "url": "https://unsplash.com/s/photos/business-analytics",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/s/photos/business-analytics",
+      "photographer": "Unsplash contributors",
+      "alt_text": "비즈니스 분석 화면",
+      "description": "4번 '비교 UI' 섹션에 사용. 비교 차트나 두 시점/두 세그먼트 분석이 가능한 분석 도구 화면.",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 6,
+      "url": "https://pixabay.com/images/search/behavioral%20economics/",
+      "source_name": "Pixabay",
+      "source_url": "https://pixabay.com/images/search/behavioral%20economics/",
+      "photographer": "Pixabay contributors",
+      "alt_text": "행동경제학 관련 시각 자료",
+      "description": "5번 '알림과 임계값' 섹션에 사용. 행동경제학 관련 시각 자료로 임계값 밴드/이분법의 인지 효과 강조.",
+      "suggested_placement": "inline"
+    }
+  ]
+}
