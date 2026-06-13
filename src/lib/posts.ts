@@ -34,6 +34,33 @@ function classifyCategory(title: string): { name: string; slug: string } {
   return { name: 'B2B SaaS', slug: 'b2b-saas' };
 }
 
+function toAsciiSlug(filename: string): string {
+  const base = filename.replace(/\.md$/, '');
+  // Extract ASCII words (letters, numbers, hyphens)
+  const asciiWords = base
+    .replace(/[^\x20-\x7E]/g, ' ')
+    .replace(/[^a-zA-Z0-9\s-]/g, '')
+    .trim()
+    .toLowerCase()
+    .split(/[\s-]+/)
+    .filter((w) => w.length > 0);
+
+  if (asciiWords.length >= 2) {
+    return asciiWords.join('-');
+  }
+
+  // Fallback: date + hash for purely Korean filenames
+  const dateMatch = base.match(/^(\d{4}-\d{2}-\d{2})/);
+  const date = dateMatch ? dateMatch[1] : '2026-01-01';
+  let hash = 0;
+  for (let i = 0; i < base.length; i++) {
+    hash = ((hash << 5) - hash + base.charCodeAt(i)) | 0;
+  }
+  const id = Math.abs(hash).toString(36).padStart(6, '0').slice(0, 6);
+  const prefix = asciiWords.length === 1 ? `${asciiWords[0]}-` : '';
+  return `${date}-${prefix}${id}`;
+}
+
 function extractMetadata(filename: string, raw: string) {
   const dateMatch = filename.match(/^(\d{4}-\d{2}-\d{2})/);
   const date = dateMatch ? dateMatch[1] : '2026-01-01';
@@ -75,9 +102,7 @@ function extractMetadata(filename: string, raw: string) {
     excerpt = excerpt.slice(0, 157) + '...';
   }
 
-  const slug = filename
-    .replace(/\.md$/, '')
-    .replace(/^\d{4}-\d{2}-\d{2}-/, '');
+  const slug = toAsciiSlug(filename);
 
   const { name: category, slug: categorySlug } = classifyCategory(title);
 
@@ -100,48 +125,44 @@ function getAllMarkdownFiles(): { filepath: string; filename: string }[] {
   return files;
 }
 
+let cachedPosts: Post[] | null = null;
+
 export function getAllPosts(): Post[] {
+  if (cachedPosts) return cachedPosts;
+
   const files = getAllMarkdownFiles();
   const posts: Post[] = [];
+  const slugCount = new Map<string, number>();
 
   for (const { filepath, filename } of files) {
     const raw = fs.readFileSync(filepath, 'utf-8');
     const meta = extractMetadata(filename, raw);
 
-    // Strip cover image comment and first image for body content
+    // Deduplicate slugs by appending counter
+    const baseSlug = meta.slug;
+    const count = slugCount.get(baseSlug) || 0;
+    slugCount.set(baseSlug, count + 1);
+    if (count > 0) {
+      meta.slug = `${baseSlug}-${count + 1}`;
+    }
+
     const bodyContent = raw
       .replace(/<!--\s*cover_image:.*?-->\s*/g, '')
       .trim();
 
     posts.push({
       ...meta,
-      content: '', // rendered on demand
+      content: '',
       rawContent: bodyContent,
     });
   }
 
-  return posts.sort((a, b) => (a.date > b.date ? -1 : 1));
+  cachedPosts = posts.sort((a, b) => (a.date > b.date ? -1 : 1));
+  return cachedPosts;
 }
 
 export function getPostBySlug(slug: string): Post | null {
-  const files = getAllMarkdownFiles();
-
-  for (const { filepath, filename } of files) {
-    const raw = fs.readFileSync(filepath, 'utf-8');
-    const meta = extractMetadata(filename, raw);
-    if (meta.slug === slug) {
-      const bodyContent = raw
-        .replace(/<!--\s*cover_image:.*?-->\s*/g, '')
-        .trim();
-
-      return {
-        ...meta,
-        content: '', // will be rendered separately
-        rawContent: bodyContent,
-      };
-    }
-  }
-  return null;
+  return getAllPosts().find((p) => p.slug === slug) || null;
 }
 
 export async function renderMarkdown(raw: string): Promise<string> {
