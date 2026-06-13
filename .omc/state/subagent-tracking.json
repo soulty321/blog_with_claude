@@ -26,10 +26,17 @@
       "status": "completed",
       "completed_at": "2026-05-17T14:10:42.415Z",
       "duration_ms": 284229
+    },
+    {
+      "agent_id": "a80ed8c0e97383a50",
+      "agent_type": "Plan",
+      "started_at": "2026-06-13T06:50:15.710Z",
+      "parent_mode": "none",
+      "status": "running"
     }
   ],
-  "total_spawned": 3,
+  "total_spawned": 4,
   "total_completed": 3,
   "total_failed": 0,
-  "last_updated": "2026-05-18T01:24:30.102Z"
+  "last_updated": "2026-06-13T07:25:37.260Z"
 }
