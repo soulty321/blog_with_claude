@@ -5,10 +5,12 @@ export default function Footer() {
     <footer className="border-t border-border mt-20">
       <div className="max-w-[1200px] mx-auto px-6 py-10 flex flex-col md:flex-row justify-between items-center gap-4">
         <div className="text-sm text-muted">
-          © 2026 {AUTHOR.name} · {SITE_NAME}
+          © 2026 {SITE_NAME}
         </div>
         <div className="text-sm text-muted">
-          {AUTHOR.role}
+          <a href={`mailto:${AUTHOR.email}`} className="hover:text-primary transition-colors">
+            {AUTHOR.email}
+          </a>
         </div>
       </div>
     </footer>

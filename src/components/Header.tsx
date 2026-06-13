@@ -17,7 +17,7 @@ export default function Header() {
     <header className="sticky top-0 z-50 bg-white/80 backdrop-blur-md border-b border-border">
       <div className="max-w-[1200px] mx-auto px-6 h-16 flex items-center justify-between">
         <Link href="/" className="text-xl font-bold text-title">
-          호균 블로그
+          MUNOART
         </Link>
         <nav className="hidden md:flex items-center gap-1">
           {navItems.map((item) => {

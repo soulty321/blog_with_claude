@@ -1,34 +1,90 @@
 export const SITE_URL = 'https://hokyun.dev';
-export const SITE_NAME = '문호균 블로그';
+export const SITE_NAME = 'MUNOART Design Blog';
 export const SITE_DESCRIPTION =
-  'B2B SaaS 프로덕트 디자이너 문호균의 블로그. UX 법칙, AI 에이전트, 데이터 기반 디자인에 대한 실무 인사이트를 공유합니다.';
+  'B2B SaaS 프로덕트 디자이너의 블로그. UX 법칙, AI 에이전트, 데이터 기반 디자인에 대한 실무 인사이트를 공유합니다.';
 
 export const AUTHOR = {
-  name: '문호균',
-  role: 'B2B SaaS 프로덕트 디자이너',
+  name: 'MUNOART',
+  fullName: 'Moon Ho-kyun (문호균)',
+  email: 'soulty321@gmail.com',
+  role: 'B2B SaaS Product Designer',
   bio: '데이터로 사용자 불편함을 증명하고 논리적 UX 설계로 비즈니스 성과를 만드는 디자이너',
   strengths: [
     {
-      title: '데이터 기반 의사결정',
+      title: 'AI 시스템 설계',
       description:
-        '정량·정성 데이터를 분석하여 사용자 행동을 이해하고, 근거 있는 디자인 의사결정을 이끌어냅니다.',
+        'AI 파이프라인 7단계를 직접 학습하고, 2,050건 데이터를 99% 정확도로 처리하는 AI UX를 설계합니다.',
     },
     {
-      title: '문제 정의력',
+      title: 'VOC → 풀사이클 설계',
       description:
-        '복잡한 비즈니스 요구사항에서 진짜 문제를 찾아내고, 해결 가능한 단위로 구조화합니다.',
+        '고객 인터뷰에서 문제를 발견하고, 리서치 → 가설 → 설계 → 출시 → 데이터 검증까지 전체 사이클을 주도합니다.',
     },
     {
-      title: '실행력 · 빠른 가설 검증',
+      title: '데이터 기반 성과',
       description:
-        '가설을 세우고 프로토타입으로 빠르게 검증하여 학습 속도를 높입니다.',
+        '핵심 전환 지표 26.4% 성장, 리포트 작업 99% 절감 등 측정 가능한 비즈니스 임팩트를 만듭니다.',
     },
     {
-      title: '시스템 사고',
+      title: '디자인 시스템 구축',
       description:
-        '개별 화면이 아닌 서비스 전체의 흐름과 구조를 설계합니다. 일관된 경험을 만드는 디자인 시스템을 구축합니다.',
+        '14만 줄 레거시를 분석해 4층 컬러 토큰 체계를 설계하고, 코드베이스 40% 경량화를 달성했습니다.',
     },
   ],
+  experience: [
+    {
+      company: '어센트코리아',
+      role: '프로덕트 디자이너',
+      period: '2023.03 ~ 현재',
+      flag: '🇰🇷',
+      highlights: [
+        'AI CDJ 자동 분석 솔루션 — 2,050건 데이터 99% 정확도, 분석 시간 1~2일 → 10분',
+        'AI 키워드 전략 에이전트 — 3,410회 사용, 인당 7.9회 재사용으로 PMF 검증',
+        '유저 여정 듀얼뷰 UX — 핵심 전환 지표(검색량) 26.4% 성장, 특허 1건 등록',
+        '워크플로우 자동화 — 리포트 작업 99% 절감(3일 → 1분), 월 290회 수동 작업 제거',
+        '디자인 시스템 구축 — 코드베이스 40% 경량화, 빌드 대기 22초 → 0.2초',
+      ],
+    },
+    {
+      company: '더스윙 재팬',
+      role: 'Intern',
+      period: '2023.10 ~ 2024.02',
+      flag: '🇯🇵',
+      highlights: [
+        '도쿄 178개 포트 배치 디자인 제작',
+        '앱 팝업·배너 콘텐츠 디자인',
+        'KR 프로덕트 팀 원격 협업',
+      ],
+    },
+    {
+      company: 'MUNOART',
+      role: 'Founder & Designer',
+      period: '2018.12 ~ 2023.12',
+      flag: '🎨',
+      highlights: [
+        '음악가 대상 브랜드 운영, 영업이익률 50.5% 달성',
+        '팬덤 VOC 기반 상품 기획 및 판매',
+      ],
+    },
+  ],
+  education: {
+    school: 'Nihon University',
+    major: '디자인 학과',
+    period: '2019.04 ~ 2023.03',
+    flag: '🇯🇵',
+  },
+  activities: [
+    {
+      title: '당근 "각자 할 거 하는 모임" 운영',
+      period: '2024.02 ~ 현재',
+      description: '행동 심리 기반 온보딩 설계로 참여율 4배 증가, 지역 내 1위',
+    },
+  ],
+  skills: {
+    dev: ['HTML', 'CSS', 'LLM', 'Git'],
+    design: ['Figma', 'UX 리서치', '문제 정의', 'Wireframe'],
+    comm: ['One pager', '개발 프로세스 도식화', '일본어', '영어'],
+  },
   domains: ['B2B SaaS', 'AI 프로덕트', '데이터 분석 도구', 'UX/UI 디자인'],
 } as const;
 
