@@ -5,7 +5,7 @@ export const SITE_DESCRIPTION =
 
 export const AUTHOR = {
   name: 'MUNOART',
-  fullName: 'Moon Ho-kyun (문호균)',
+  Name: 'Moon',
   email: 'soulty321@gmail.com',
   role: 'B2B SaaS Product Designer',
   bio: '데이터로 사용자 불편함을 증명하고 논리적 UX 설계로 비즈니스 성과를 만드는 디자이너',
@@ -33,7 +33,7 @@ export const AUTHOR = {
   ],
   experience: [
     {
-      company: '어센트코리아',
+      company: '한국/일본 시장 데이터 분석 SaaS',
       role: '프로덕트 디자이너',
       period: '2023.03 ~ 현재',
       flag: '🇰🇷',
@@ -46,18 +46,18 @@ export const AUTHOR = {
       ],
     },
     {
-      company: '더스윙 재팬',
+      company: '일본 모빌리티 스타트업',
       role: 'Intern',
       period: '2023.10 ~ 2024.02',
       flag: '🇯🇵',
       highlights: [
-        '도쿄 178개 포트 배치 디자인 제작',
+        '도쿄 178개 거점 배치 디자인 제작',
         '앱 팝업·배너 콘텐츠 디자인',
         'KR 프로덕트 팀 원격 협업',
       ],
     },
     {
-      company: 'MUNOART',
+      company: '아티스트 굿즈 브랜드',
       role: 'Founder & Designer',
       period: '2018.12 ~ 2023.12',
       flag: '🎨',

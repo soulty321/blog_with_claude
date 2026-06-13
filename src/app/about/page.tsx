@@ -11,7 +11,7 @@ export default function AboutPage() {
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'Person',
-    name: AUTHOR.fullName,
+    name: AUTHOR.Name,
     jobTitle: AUTHOR.role,
     description: AUTHOR.bio,
     email: AUTHOR.email,
@@ -38,7 +38,7 @@ export default function AboutPage() {
             </div>
             <div>
               <h1 className="text-3xl font-bold text-title">{AUTHOR.name}</h1>
-              <p className="text-sm text-muted mt-0.5">{AUTHOR.fullName}</p>
+              <p className="text-sm text-muted mt-0.5">{AUTHOR.Name}</p>
               <p className="mt-1 text-lg text-primary font-semibold">
                 {AUTHOR.role}
               </p>
