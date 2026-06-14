@@ -1,0 +1,58 @@
+{
+  "date": "2026-06-14",
+  "draft_file": "drafts/2026-06-14-데이터를-말하게-하는-시각화의-3가지-원칙.md",
+  "search_keywords": ["데이터 시각화", "data visualization", "대시보드 디자인", "dashboard UI", "분석 차트"],
+  "candidates": [
+    {
+      "id": 1,
+      "url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/photos/turned-on-laptop-displaying-graphs-MP0IUfwrn0A",
+      "photographer": "Carlos Muza",
+      "alt_text": "노트북 화면에 표시된 다양한 분석 그래프",
+      "description": "B2B 분석 대시보드 분위기를 직관적으로 전달. 커버 이미지로 적합",
+      "suggested_placement": "cover"
+    },
+    {
+      "id": 2,
+      "url": "https://images.unsplash.com/photo-1543286386-713bdd548da4",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/photos/blue-bird-perching-on-tree-branch-W5IsLBOyqGM",
+      "photographer": "Stephen Dawson",
+      "alt_text": "랩탑 화면에 표시된 막대 차트 분석",
+      "description": "원칙 1(차트 유형 선택) 섹션에 어울리는 막대 차트 이미지",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 3,
+      "url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/photos/black-laptop-computer-turned-on-showing-computer-codes-LJ9KY8pIH3E",
+      "photographer": "Luke Chesser",
+      "alt_text": "트래픽 분석 대시보드",
+      "description": "원칙 2(잉크 비율) 섹션 — 정보 밀도가 높은 대시보드 예시",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 4,
+      "url": "https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/photos/macbook-pro-on-brown-wooden-table-PDX_a_82obo",
+      "photographer": "Stephen Phillips",
+      "alt_text": "회의실 화면에 표시된 분석 리포트",
+      "description": "의사결정 맥락을 보여주는 이미지 — 원칙 3 섹션에 적합",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 5,
+      "url": "https://images.unsplash.com/photo-1606857521015-7f9fcf423740",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/photos/person-using-laptop-eveI7MOcSmw",
+      "photographer": "Austin Distel",
+      "alt_text": "팀원이 화면을 함께 보며 데이터를 분석하는 모습",
+      "description": "결론 섹션 — 데이터 기반 협업 의사결정 분위기",
+      "suggested_placement": "inline"
+    }
+  ],
+  "fallback_note": "원격 실행 환경에서 WebSearch 결과를 검증하기 어려워, 알려진 Unsplash 인기 데이터/분석 이미지 후보를 큐레이션. 발행 전 실제 URL 유효성을 한 번 더 점검 권장."
+}

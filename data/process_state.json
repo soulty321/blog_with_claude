@@ -437,6 +437,15 @@
       "questions_file": "data/questions/2026-06-13.json",
       "images_file": "data/images/2026-06-13.json",
       "published_file": null
+    },
+    "2026-06-14": {
+      "source": "notebook.md#UXUI 디자인 교과서 (데이터 시각화 원칙 심화)",
+      "source_type": "notebook",
+      "draft_file": "drafts/2026-06-14-데이터를-말하게-하는-시각화의-3가지-원칙.md",
+      "status": "questions_sent",
+      "questions_file": "data/questions/2026-06-14.json",
+      "images_file": "data/images/2026-06-14.json",
+      "published_file": null
     }
   }
 }
