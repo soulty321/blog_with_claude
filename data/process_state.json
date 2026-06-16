@@ -455,6 +455,15 @@
       "questions_file": "data/questions/2026-06-15.json",
       "images_file": "data/images/2026-06-15.json",
       "published_file": null
+    },
+    "2026-06-16": {
+      "source": "notebook.md#UXUI 디자인 교과서 (마이크로카피 심화)",
+      "source_type": "notebook",
+      "draft_file": "drafts/2026-06-16-버튼-한-단어가-전환율을-바꾼다-마이크로카피의-힘.md",
+      "status": "questions_sent",
+      "questions_file": "data/questions/2026-06-16.json",
+      "images_file": "data/images/2026-06-16.json",
+      "published_file": null
     }
   }
 }
