@@ -464,6 +464,15 @@
       "questions_file": "data/questions/2026-06-16.json",
       "images_file": "data/images/2026-06-16.json",
       "published_file": null
+    },
+    "2026-06-17": {
+      "source": "notebook.md#AI 에이전트 생태계 (계획·추론 심화)",
+      "source_type": "notebook",
+      "draft_file": "drafts/2026-06-17-ai-에이전트가-진짜-일하는-순간-계획과-추론.md",
+      "status": "questions_sent",
+      "questions_file": "data/questions/2026-06-17.json",
+      "images_file": "data/images/2026-06-17.json",
+      "published_file": null
     }
   }
 }
