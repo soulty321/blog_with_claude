@@ -473,6 +473,15 @@
       "questions_file": "data/questions/2026-06-17.json",
       "images_file": "data/images/2026-06-17.json",
       "published_file": null
+    },
+    "2026-06-19": {
+      "source": "notebook.md#AI 에이전트 생태계 (RAG·검색-증강 생성 심화)",
+      "source_type": "notebook",
+      "draft_file": "drafts/2026-06-19-AI-에이전트가-환각을-걷어내는-법-RAG-설계-원칙.md",
+      "status": "questions_sent",
+      "questions_file": "data/questions/2026-06-19.json",
+      "images_file": "data/images/2026-06-19.json",
+      "published_file": null
     }
   }
 }

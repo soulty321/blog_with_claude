@@ -1,0 +1,58 @@
+{
+  "date": "2026-06-19",
+  "draft_file": "drafts/2026-06-19-AI-에이전트가-환각을-걷어내는-법-RAG-설계-원칙.md",
+  "search_keywords": ["RAG", "AI agent", "검색", "신뢰", "출처"],
+  "candidates": [
+    {
+      "id": 1,
+      "url": "https://unsplash.com/s/photos/artificial-intelligence",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/s/photos/artificial-intelligence",
+      "photographer": "Unsplash 컬렉션",
+      "alt_text": "AI와 데이터가 연결되는 추상 이미지",
+      "description": "AI 에이전트 주제 시각화에 적합한 추상 이미지. 커버용",
+      "suggested_placement": "cover"
+    },
+    {
+      "id": 2,
+      "url": "https://unsplash.com/s/photos/search",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/s/photos/search",
+      "photographer": "Unsplash 컬렉션",
+      "alt_text": "검색·문서 자료를 살펴보는 모습",
+      "description": "Retrieval(검색) 단계 비유 — 책장이나 자료실 분위기",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 3,
+      "url": "https://unsplash.com/s/photos/library",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/s/photos/library",
+      "photographer": "Unsplash 컬렉션",
+      "alt_text": "도서관에서 책을 찾는 비유 이미지",
+      "description": "'아는 것 vs 찾아내는 것' 본문 비유에 맞는 도서관 이미지",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 4,
+      "url": "https://unsplash.com/s/photos/data-visualization",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/s/photos/data-visualization",
+      "photographer": "Unsplash 컬렉션",
+      "alt_text": "데이터 시각화·대시보드 이미지",
+      "description": "B2B 데이터 분석 도구 UX 맥락 시각화",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 5,
+      "url": "https://unsplash.com/s/photos/trust",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/s/photos/trust",
+      "photographer": "Unsplash 컬렉션",
+      "alt_text": "신뢰·증거 개념의 추상 이미지",
+      "description": "결론의 '신뢰의 UX' 키워드와 매칭",
+      "suggested_placement": "inline"
+    }
+  ],
+  "fallback_note": "키워드 기반 컬렉션 페이지 URL로 저장. /blog-enhance 단계에서 개별 사진 선택 권장."
+}
