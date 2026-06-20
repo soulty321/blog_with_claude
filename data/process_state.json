@@ -482,6 +482,15 @@
       "questions_file": "data/questions/2026-06-19.json",
       "images_file": "data/images/2026-06-19.json",
       "published_file": null
+    },
+    "2026-06-20": {
+      "source": "notebook.md#UXUI 디자인 교과서 (Empty State 디자인 심화)",
+      "source_type": "notebook",
+      "draft_file": "drafts/2026-06-20-데이터가-없을-때-디자인이-시작된다-Empty-State-설계-원칙.md",
+      "status": "questions_sent",
+      "questions_file": "data/questions/2026-06-20.json",
+      "images_file": "data/images/2026-06-20.json",
+      "published_file": null
     }
   }
 }
