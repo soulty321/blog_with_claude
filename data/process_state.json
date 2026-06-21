@@ -491,6 +491,15 @@
       "questions_file": "data/questions/2026-06-20.json",
       "images_file": "data/images/2026-06-20.json",
       "published_file": null
+    },
+    "2026-06-21": {
+      "source": "notebook.md#UX의 법칙들 (계열 위치 효과 심화)",
+      "source_type": "notebook",
+      "draft_file": "drafts/2026-06-21-처음과-끝만-기억된다-계열-위치-효과로-대시보드-설계하기.md",
+      "status": "questions_sent",
+      "questions_file": "data/questions/2026-06-21.json",
+      "images_file": "data/images/2026-06-21.json",
+      "published_file": null
     }
   }
 }

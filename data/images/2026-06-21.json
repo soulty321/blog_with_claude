@@ -1,0 +1,67 @@
+{
+  "date": "2026-06-21",
+  "draft_file": "drafts/2026-06-21-처음과-끝만-기억된다-계열-위치-효과로-대시보드-설계하기.md",
+  "search_keywords": ["계열 위치 효과", "Serial Position Effect", "대시보드 디자인", "dashboard UX", "데이터 테이블 design"],
+  "candidates": [
+    {
+      "id": 1,
+      "url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/photos/macbook-pro-on-brown-wooden-table-bIhpiQA009k",
+      "photographer": "Carlos Muza",
+      "alt_text": "대시보드 차트가 표시된 노트북 화면",
+      "description": "데이터 분석 대시보드의 전형적 이미지 — 본문 도입부 및 대시보드 설계 섹션에 적합",
+      "suggested_placement": "cover"
+    },
+    {
+      "id": 2,
+      "url": "https://images.unsplash.com/photo-1460925895917-afdab827c52f",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/photos/laptop-computer-on-glass-top-table-lUaaKCUANVI",
+      "photographer": "Luke Chesser",
+      "alt_text": "여러 그래프와 KPI 카드가 배치된 분석 대시보드",
+      "description": "KPI 카드 배치 설명 섹션(2번 챕터)에 적합",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 3,
+      "url": "https://images.unsplash.com/photo-1633419461186-7d40a38105ec",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/photos/a-person-using-a-laptop-on-a-wooden-table-eDbDFnSh0Ag",
+      "photographer": "Hal Gatewood",
+      "alt_text": "노트북 화면의 사이드바 네비게이션",
+      "description": "사이드바 메뉴 설계 섹션(3번 챕터)에 적합",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 4,
+      "url": "https://images.pexels.com/photos/590022/pexels-photo-590022.jpeg",
+      "source_name": "Pexels",
+      "source_url": "https://www.pexels.com/photo/black-laptop-computer-turned-on-showing-computer-codes-590022/",
+      "photographer": "Markus Spiske",
+      "alt_text": "테이블 형태로 정렬된 데이터 코드 화면",
+      "description": "테이블 칼럼 순서 섹션(4번 챕터)에 적합",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 5,
+      "url": "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/photos/man-holding-magnifying-glass-W3SEyZODn8U",
+      "photographer": "Agence Olloweb",
+      "alt_text": "돋보기로 데이터 차트를 살펴보는 모습",
+      "description": "필터·옵션 그룹 설계 섹션(5번 챕터)에 적합",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 6,
+      "url": "https://images.pexels.com/photos/669615/pexels-photo-669615.jpeg",
+      "source_name": "Pexels",
+      "source_url": "https://www.pexels.com/photo/turned-on-monitor-displaying-frequency-graph-669615/",
+      "photographer": "Tima Miroshnichenko",
+      "alt_text": "시간순 그래프가 표시된 모니터",
+      "description": "알림·로그·이력 화면 섹션(6번 챕터) 및 결론에 적합",
+      "suggested_placement": "inline"
+    }
+  ]
+}
