@@ -1,0 +1,67 @@
+{
+  "date": "2026-06-22",
+  "draft_file": "drafts/2026-06-22-AI-에이전트에게-한계선을-그어주는-법-가드레일이-만드는-신뢰의-경험.md",
+  "search_keywords": ["AI agent guardrails", "가드레일", "control panel approval", "cybersecurity shield"],
+  "candidates": [
+    {
+      "id": 1,
+      "url": "https://unsplash.com/s/photos/cybersecurity-shield",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/s/photos/cybersecurity-shield",
+      "photographer": "Unsplash 컬렉션",
+      "alt_text": "디지털 방패와 데이터 보호를 상징하는 추상 이미지",
+      "description": "AI 에이전트 가드레일의 '보호' 은유에 가장 직관적 — 커버 후보 1순위",
+      "suggested_placement": "cover"
+    },
+    {
+      "id": 2,
+      "url": "https://unsplash.com/s/photos/guardrail",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/s/photos/guardrail",
+      "photographer": "Unsplash 컬렉션",
+      "alt_text": "도로변의 안전 가드레일",
+      "description": "글 제목의 '가드레일' 직접 비유 — 1장(가드레일 정의) 도입 이미지",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 3,
+      "url": "https://unsplash.com/s/photos/digital-shield",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/s/photos/digital-shield",
+      "photographer": "Unsplash 컬렉션",
+      "alt_text": "디지털 보안 방패 일러스트",
+      "description": "출력 가드레일/보안 통제 섹션과 어울리는 비주얼",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 4,
+      "url": "https://unsplash.com/s/photos/dashboard-design",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/s/photos/dashboard-design",
+      "photographer": "Unsplash 컬렉션",
+      "alt_text": "데이터 대시보드 UI 화면",
+      "description": "B2B 데이터 분석 가드레일 사례 섹션 — 권한 시각화 화면 보조 이미지",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 5,
+      "url": "https://unsplash.com/s/photos/control-panel",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/s/photos/control-panel",
+      "photographer": "Unsplash 컬렉션",
+      "alt_text": "조작 패널 / 컨트롤 인터페이스",
+      "description": "사용자 통제감 / 승인 다이얼로그 섹션 시각 보조",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 6,
+      "url": "https://unsplash.com/s/photos/checklist",
+      "source_name": "Unsplash",
+      "source_url": "https://unsplash.com/s/photos/checklist",
+      "photographer": "Unsplash 컬렉션",
+      "alt_text": "체크리스트와 펜",
+      "description": "디자이너 체크리스트 섹션 — 결론 직전 시각 보조",
+      "suggested_placement": "inline"
+    }
+  ]
+}

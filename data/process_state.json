@@ -500,6 +500,15 @@
       "questions_file": "data/questions/2026-06-21.json",
       "images_file": "data/images/2026-06-21.json",
       "published_file": null
+    },
+    "2026-06-22": {
+      "source": "notebook.md#AI 에이전트 생태계 (가드레일·안전성 심화)",
+      "source_type": "notebook",
+      "draft_file": "drafts/2026-06-22-AI-에이전트에게-한계선을-그어주는-법-가드레일이-만드는-신뢰의-경험.md",
+      "status": "questions_sent",
+      "questions_file": "data/questions/2026-06-22.json",
+      "images_file": "data/images/2026-06-22.json",
+      "published_file": null
     }
   }
 }
