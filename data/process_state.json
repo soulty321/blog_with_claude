@@ -509,6 +509,15 @@
       "questions_file": "data/questions/2026-06-22.json",
       "images_file": "data/images/2026-06-22.json",
       "published_file": null
+    },
+    "2026-07-02": {
+      "source": "Downloads/프로덕트 빌더. 정말로 필요한 직책일까_.md",
+      "source_type": "external",
+      "draft_file": null,
+      "status": "published",
+      "questions_file": null,
+      "published_file": "published/2026-07-02-프로덕트-빌더-정말로-필요한-직책일까.md",
+      "images_file": null
     }
   }
 }
