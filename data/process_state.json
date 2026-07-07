@@ -518,6 +518,15 @@
       "questions_file": null,
       "published_file": "published/2026-07-02-프로덕트-빌더-정말로-필요한-직책일까.md",
       "images_file": null
+    },
+    "2026-07-07": {
+      "source": "notebook.md#UXUI 디자인 교과서 (온보딩 설계 심화)",
+      "source_type": "notebook",
+      "draft_file": "drafts/2026-07-07-B2B-분석-도구의-온보딩-설계-첫-3분이-리텐션을-결정한다.md",
+      "status": "questions_sent",
+      "questions_file": "data/questions/2026-07-07.json",
+      "images_file": "data/images/2026-07-07.json",
+      "published_file": null
     }
   }
 }
