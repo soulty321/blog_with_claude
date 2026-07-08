@@ -1,0 +1,38 @@
+{
+  "date": "2026-07-08",
+  "draft_file": "drafts/2026-07-08-실패의-순간을-신뢰로-바꾸는-에러-상태-디자인.md",
+  "search_keywords": ["error state UX", "empty state dashboard", "에러 화면 디자인"],
+  "candidates": [
+    {
+      "id": 1,
+      "url": "https://dribbble.com/tags/error_state",
+      "source_name": "Dribbble",
+      "source_url": "https://dribbble.com/tags/error_state",
+      "photographer": "다양한 디자이너 (탐색용 페이지)",
+      "alt_text": "여러 서비스의 에러 상태 화면 사례 모음",
+      "description": "실제 서비스에서 사용된 에러 화면 스타일을 참고할 수 있는 갤러리. 커버용 후보로 활용 가능한 개별 이미지 재선정 필요.",
+      "suggested_placement": "cover"
+    },
+    {
+      "id": 2,
+      "url": "https://www.figma.com/community/file/1477323075536975646/design-illustration-ux-writing-for-empty-error-states",
+      "source_name": "Figma Community",
+      "source_url": "https://www.figma.com/community/file/1477323075536975646/design-illustration-ux-writing-for-empty-error-states",
+      "photographer": "Figma Community",
+      "alt_text": "Empty & Error state 일러스트/카피 모음 파일",
+      "description": "본문 '에러 메시지 카피 프레임워크' 섹션 옆에 삽입 가능한 참고 이미지 소스.",
+      "suggested_placement": "inline"
+    },
+    {
+      "id": 3,
+      "url": "https://carbondesignsystem.com/patterns/empty-states-pattern/",
+      "source_name": "Carbon Design System",
+      "source_url": "https://carbondesignsystem.com/patterns/empty-states-pattern/",
+      "photographer": "IBM Carbon Design System",
+      "alt_text": "IBM Carbon 디자인 시스템의 Empty State 패턴 가이드",
+      "description": "'침묵도 에러다' 섹션에서 부분 실패 패턴을 설명할 때 스크린샷 예시로 활용.",
+      "suggested_placement": "inline"
+    }
+  ],
+  "fallback_note": "이번 회차는 Unsplash/Pexels/Pixabay에서 '에러 상태 · 부분 실패 대시보드'에 정확히 부합하는 개별 사진 URL을 확보하지 못해, 대표 갤러리와 디자인 시스템 문서 링크 3건을 후보로 저장했습니다. 발행 단계에서 Dribbble·Figma Community 개별 shot 이미지를 직접 캡처하여 대체하는 것을 권장합니다."
+}

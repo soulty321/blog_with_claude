@@ -527,6 +527,15 @@
       "questions_file": "data/questions/2026-07-07.json",
       "images_file": "data/images/2026-07-07.json",
       "published_file": null
+    },
+    "2026-07-08": {
+      "source": "notebook.md#UXUI 디자인 교과서 (에러 상태 & 에러 메시지 디자인 심화)",
+      "source_type": "notebook",
+      "draft_file": "drafts/2026-07-08-실패의-순간을-신뢰로-바꾸는-에러-상태-디자인.md",
+      "status": "questions_sent",
+      "questions_file": "data/questions/2026-07-08.json",
+      "images_file": "data/images/2026-07-08.json",
+      "published_file": null
     }
   }
 }
