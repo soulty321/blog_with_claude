@@ -1,30 +1,70 @@
 {
   "version": "1.0.0",
-  "lastScanned": 1781333184706,
+  "lastScanned": 1784391983555,
   "projectRoot": "C:\\Users\\soult\\workSpace\\blog",
   "techStack": {
-    "languages": [],
-    "frameworks": [],
-    "packageManager": null,
+    "languages": [
+      {
+        "name": "JavaScript/TypeScript",
+        "version": null,
+        "confidence": "high",
+        "markers": [
+          "package.json"
+        ]
+      },
+      {
+        "name": "TypeScript",
+        "version": null,
+        "confidence": "high",
+        "markers": [
+          "tsconfig.json"
+        ]
+      }
+    ],
+    "frameworks": [
+      {
+        "name": "next",
+        "version": "15.3.3",
+        "category": "fullstack"
+      },
+      {
+        "name": "react",
+        "version": "19.1.0",
+        "category": "frontend"
+      },
+      {
+        "name": "react-dom",
+        "version": "19.1.0",
+        "category": "frontend"
+      }
+    ],
+    "packageManager": "npm",
     "runtime": null
   },
   "build": {
-    "buildCommand": null,
+    "buildCommand": "npm run build",
     "testCommand": null,
-    "lintCommand": null,
-    "devCommand": null,
-    "scripts": {}
+    "lintCommand": "npm run lint",
+    "devCommand": "npm run dev",
+    "scripts": {
+      "dev": "next dev",
+      "build": "next build",
+      "start": "next start",
+      "lint": "next lint"
+    }
   },
   "conventions": {
     "namingStyle": null,
     "importStyle": null,
     "testPattern": null,
-    "fileOrganization": null
+    "fileOrganization": "type-based"
   },
   "structure": {
     "isMonorepo": false,
     "workspaces": [],
-    "mainDirectories": [],
+    "mainDirectories": [
+      "src"
+    ],
     "gitBranches": {
       "defaultBranch": "main",
       "branchingStrategy": null
@@ -36,7 +76,7 @@
       "path": "data",
       "purpose": "Data files",
       "fileCount": 2,
-      "lastAccessed": 1781333184670,
+      "lastAccessed": 1784391983435,
       "keyFiles": [
         "process_state.json",
         "process_state_tmp.json"
@@ -45,8 +85,8 @@
     "drafts": {
       "path": "drafts",
       "purpose": null,
-      "fileCount": 47,
-      "lastAccessed": 1781333184671,
+      "fileCount": 59,
+      "lastAccessed": 1784391983455,
       "keyFiles": [
         "2026-04-24-기대를-뛰어넘는-UI를-만드는-법.md",
         "2026-04-24_감정을_불러일으키는_광창.md",
@@ -58,8 +98,8 @@
     "published": {
       "path": "published",
       "purpose": null,
-      "fileCount": 8,
-      "lastAccessed": 1781333184671,
+      "fileCount": 12,
+      "lastAccessed": 1784391983457,
       "keyFiles": [
         "2026-04-24-기대를-뛰어넘는-UI는-어떻게-만들어지는가.md",
         "2026-04-24-우주에서-배운-디자인-철학-POLA가-패키지에-감정을-담는-방법.md",
@@ -68,11 +108,18 @@
         "2026-04-27-각자-준비해서-합치는-협업은-왜-실패하는가.md"
       ]
     },
+    "src": {
+      "path": "src",
+      "purpose": "Source code",
+      "fileCount": 0,
+      "lastAccessed": 1784391983458,
+      "keyFiles": []
+    },
     "text-style": {
       "path": "text-style",
       "purpose": null,
       "fileCount": 3,
-      "lastAccessed": 1781333184672,
+      "lastAccessed": 1784391983459,
       "keyFiles": [
         "blog_1.md",
         "blog_2.md",
@@ -83,7 +130,7 @@
       "path": "일본 컨퍼런스 자료",
       "purpose": null,
       "fileCount": 11,
-      "lastAccessed": 1781333184672,
+      "lastAccessed": 1784391983462,
       "keyFiles": [
         "ai가 밝혀내는 진정한 인사이트_original.md",
         "감정을 불러일으키는 광창_original.md",
@@ -91,235 +138,51 @@
         "네트워크 효과를 불러오는 방법_original.md",
         "미래를 여는 디자이너의 조건_original.md"
       ]
+    },
+    "src\\app": {
+      "path": "src\\app",
+      "purpose": "Application code",
+      "fileCount": 5,
+      "lastAccessed": 1784391983482,
+      "keyFiles": [
+        "globals.css",
+        "layout.tsx",
+        "page.tsx"
+      ]
+    },
+    "src\\components": {
+      "path": "src\\components",
+      "purpose": "UI components",
+      "fileCount": 7,
+      "lastAccessed": 1784391983485,
+      "keyFiles": [
+        "CategoryFilter.tsx",
+        "CategoryTag.tsx",
+        "Footer.tsx"
+      ]
+    },
+    "src\\lib": {
+      "path": "src\\lib",
+      "purpose": "Library code",
+      "fileCount": 2,
+      "lastAccessed": 1784391983495,
+      "keyFiles": [
+        "constants.ts",
+        "posts.ts"
+      ]
     }
   },
   "hotPaths": [
     {
-      "path": "src\\lib\\posts.ts",
-      "accessCount": 7,
-      "lastAccessed": 1781336449858,
-      "type": "file"
-    },
-    {
-      "path": "src\\lib\\constants.ts",
-      "accessCount": 6,
-      "lastAccessed": 1781337264246,
-      "type": "file"
-    },
-    {
-      "path": "published",
-      "accessCount": 5,
-      "lastAccessed": 1781333488976,
-      "type": "directory"
-    },
-    {
-      "path": "",
-      "accessCount": 4,
-      "lastAccessed": 1781333514730,
-      "type": "directory"
-    },
-    {
-      "path": "src\\app\\globals.css",
-      "accessCount": 4,
-      "lastAccessed": 1781336936035,
-      "type": "file"
-    },
-    {
-      "path": "src\\app\\about\\page.tsx",
-      "accessCount": 4,
-      "lastAccessed": 1781337272068,
-      "type": "file"
-    },
-    {
-      "path": "next.config.ts",
-      "accessCount": 3,
-      "lastAccessed": 1781334977162,
-      "type": "file"
-    },
-    {
-      "path": "src\\app\\posts\\[slug]\\page.tsx",
-      "accessCount": 3,
-      "lastAccessed": 1781335819177,
-      "type": "file"
-    },
-    {
-      "path": "design.md",
+      "path": "_workspace\\2026-07-19-001\\final.md",
       "accessCount": 2,
-      "lastAccessed": 1781333433504,
+      "lastAccessed": 1784392203443,
       "type": "file"
     },
     {
-      "path": "context.md",
-      "accessCount": 2,
-      "lastAccessed": 1781333434008,
-      "type": "file"
-    },
-    {
-      "path": "published\\2026-04-24-기대를-뛰어넘는-UI는-어떻게-만들어지는가.md",
-      "accessCount": 2,
-      "lastAccessed": 1781333447743,
-      "type": "file"
-    },
-    {
-      "path": "published\\2026-04-27-각자-준비해서-합치는-협업은-왜-실패하는가.md",
-      "accessCount": 2,
-      "lastAccessed": 1781333507669,
-      "type": "file"
-    },
-    {
-      "path": "env.local",
-      "accessCount": 2,
-      "lastAccessed": 1781333508231,
-      "type": "file"
-    },
-    {
-      "path": "src\\app\\category\\[category]\\page.tsx",
-      "accessCount": 2,
-      "lastAccessed": 1781335820451,
-      "type": "file"
-    },
-    {
-      "path": "src\\components\\Header.tsx",
-      "accessCount": 2,
-      "lastAccessed": 1781336883901,
-      "type": "file"
-    },
-    {
-      "path": "src\\components\\Footer.tsx",
-      "accessCount": 2,
-      "lastAccessed": 1781336886609,
-      "type": "file"
-    },
-    {
-      "path": "drafts\\2026-06-12-앵커링-효과-숫자-하나가-사용자-선택을-바꾸는-법.md",
+      "path": "_workspace\\2026-07-19-001\\01_input.txt",
       "accessCount": 1,
-      "lastAccessed": 1781333334086,
-      "type": "file"
-    },
-    {
-      "path": "published\\2026-05-01-AI-시대의-UX-디자이너는-무엇을-준비해야-하는가.md",
-      "accessCount": 1,
-      "lastAccessed": 1781333447840,
-      "type": "file"
-    },
-    {
-      "path": "published\\2026-04-25-267만-조회수의-비밀-프로-농구팀-유튜브를-팬덤으로-만든-네트워크-효과-전략.md",
-      "accessCount": 1,
-      "lastAccessed": 1781333448249,
-      "type": "file"
-    },
-    {
-      "path": "notebook.md",
-      "accessCount": 1,
-      "lastAccessed": 1781333448264,
-      "type": "file"
-    },
-    {
-      "path": "published\\2026-04-26-미래를-여는-디자이너의-조건-커리어를-지도처럼-그려라.md",
-      "accessCount": 1,
-      "lastAccessed": 1781333481737,
-      "type": "file"
-    },
-    {
-      "path": "published\\2026-04-28-UX-디자인은-어디서-배워야-할까-교과서-없는-시대의-학습법.md",
-      "accessCount": 1,
-      "lastAccessed": 1781333494993,
-      "type": "file"
-    },
-    {
-      "path": "brunch-registration-guide.md",
-      "accessCount": 1,
-      "lastAccessed": 1781333509091,
-      "type": "file"
-    },
-    {
-      "path": "data\\process_state.json",
-      "accessCount": 1,
-      "lastAccessed": 1781333534984,
-      "type": "file"
-    },
-    {
-      "path": "package.json",
-      "accessCount": 1,
-      "lastAccessed": 1781334611622,
-      "type": "file"
-    },
-    {
-      "path": "tsconfig.json",
-      "accessCount": 1,
-      "lastAccessed": 1781334615316,
-      "type": "file"
-    },
-    {
-      "path": "postcss.config.mjs",
-      "accessCount": 1,
-      "lastAccessed": 1781334617511,
-      "type": "file"
-    },
-    {
-      "path": "src\\components\\CategoryTag.tsx",
-      "accessCount": 1,
-      "lastAccessed": 1781334720698,
-      "type": "file"
-    },
-    {
-      "path": "src\\components\\PostCard.tsx",
-      "accessCount": 1,
-      "lastAccessed": 1781334724899,
-      "type": "file"
-    },
-    {
-      "path": "src\\components\\CategoryFilter.tsx",
-      "accessCount": 1,
-      "lastAccessed": 1781334731140,
-      "type": "file"
-    },
-    {
-      "path": "src\\components\\PostContent.tsx",
-      "accessCount": 1,
-      "lastAccessed": 1781334732213,
-      "type": "file"
-    },
-    {
-      "path": "src\\app\\layout.tsx",
-      "accessCount": 1,
-      "lastAccessed": 1781334743429,
-      "type": "file"
-    },
-    {
-      "path": "src\\app\\page.tsx",
-      "accessCount": 1,
-      "lastAccessed": 1781334747864,
-      "type": "file"
-    },
-    {
-      "path": "src\\components\\PostListWithPagination.tsx",
-      "accessCount": 1,
-      "lastAccessed": 1781334751909,
-      "type": "file"
-    },
-    {
-      "path": "src\\app\\robots.ts",
-      "accessCount": 1,
-      "lastAccessed": 1781334799704,
-      "type": "file"
-    },
-    {
-      "path": "src\\app\\sitemap.ts",
-      "accessCount": 1,
-      "lastAccessed": 1781334803545,
-      "type": "file"
-    },
-    {
-      "path": "src\\app\\llms.txt\\route.ts",
-      "accessCount": 1,
-      "lastAccessed": 1781334812451,
-      "type": "file"
-    },
-    {
-      "path": "src\\app\\feed.xml\\route.ts",
-      "accessCount": 1,
-      "lastAccessed": 1781334817045,
+      "lastAccessed": 1784392074210,
       "type": "file"
     }
   ],

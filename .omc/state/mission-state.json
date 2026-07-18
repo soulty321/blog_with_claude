@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-13T07:25:37.145Z",
+  "updatedAt": "2026-07-18T16:29:57.274Z",
   "missions": [
     {
       "id": "session:a44d432d-9b49-4df3-8d87-7a045daa128f:none",
@@ -266,6 +266,54 @@
           "agent": "Plan:a80ed8c",
           "detail": "completed",
           "sourceKey": "session-stop:a83e509c9f9fc9097"
+        }
+      ]
+    },
+    {
+      "id": "session:06565af1-b368-4fcf-b81e-13bd8904c752:none",
+      "source": "session",
+      "name": "none",
+      "objective": "Session mission",
+      "createdAt": "2026-07-18T16:27:49.327Z",
+      "updatedAt": "2026-07-18T16:29:57.274Z",
+      "status": "done",
+      "workerCount": 1,
+      "taskCounts": {
+        "total": 1,
+        "pending": 0,
+        "blocked": 0,
+        "inProgress": 0,
+        "completed": 1,
+        "failed": 0
+      },
+      "agents": [
+        {
+          "name": "humanize-monolith:ad11d8b",
+          "role": "humanize-monolith",
+          "ownership": "ad11d8bd7e7fc4bdc",
+          "status": "done",
+          "currentStep": null,
+          "latestUpdate": "completed",
+          "completedSummary": null,
+          "updatedAt": "2026-07-18T16:29:57.274Z"
+        }
+      ],
+      "timeline": [
+        {
+          "id": "session-start:ad11d8bd7e7fc4bdc:2026-07-18T16:27:49.327Z",
+          "at": "2026-07-18T16:27:49.327Z",
+          "kind": "update",
+          "agent": "humanize-monolith:ad11d8b",
+          "detail": "started humanize-monolith:ad11d8b",
+          "sourceKey": "session-start:ad11d8bd7e7fc4bdc"
+        },
+        {
+          "id": "session-stop:ad11d8bd7e7fc4bdc:2026-07-18T16:29:57.274Z",
+          "at": "2026-07-18T16:29:57.274Z",
+          "kind": "completion",
+          "agent": "humanize-monolith:ad11d8b",
+          "detail": "completed",
+          "sourceKey": "session-stop:ad11d8bd7e7fc4bdc"
         }
       ]
     }
